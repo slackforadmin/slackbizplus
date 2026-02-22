@@ -34,5 +34,27 @@
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <style>
+  :root {
+    --theme-color: #7E57C2; /* 강조색도 보라색 계열로 맞추면 예쁩니다 */
+  }
+
+  /* 사이드바 배경색 변경 */
+  .sidebar {
+    background-color: #F3E5F5 !important; /* 연보라색 적용 */
+    border-right: 1px solid #E1BEE7;    /* 구분선도 연한 보라색으로 */
+  }
+
+  /* 사이드바 내부 검색창 배경 (검색 플러그인 사용 시) */
+  .sidebar .search input {
+    background-color: #ffffff;
+  }
+
+  /* 선택된 메뉴의 배경색 살리기 */
+  .sidebar-nav li.active > a {
+    background-color: #ffffff;
+    border-radius: 4px;
+  }
+</style>
 </body>
 </html>
