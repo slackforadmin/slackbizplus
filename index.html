@@ -59,27 +59,11 @@
       name: 'Biz+ 조직관리화면14',
       //loadSidebar: true, // 필수
       // 경로 문제를 방지하기 위해 alias를 더 단순화합니다.
-    //  alias: {
-    //    '/_sidebar.md': '/_sidebar.md'
-    //  },
+      alias: {
+        '/_sidebar.md': '/_sidebar.md'
+      }
     //  subMaxLevel: 3,
     //  auto2top: true,
-      plugins: [
-      function(hook) {
-        hook.beforeEach(function(html) {
-          // 문서가 로드되기 전 사이드바 상단에 글자를 삽입하고 싶을 때 사용
-          return html;
-        });
-        hook.ready(function() {
-          // 사이드바 요소 안에 강제로 글자 박스를 집어넣음
-          var sideEl = document.querySelector('.sidebar-nav');
-          var div = document.createElement('div');
-          div.className = 'custom-sidebar-text';
-          div.innerHTML = '📌 공지: 조직관리 매뉴얼 업데이트 중';
-          sideEl.insertBefore(div, sideEl.firstChild);
-        });
-      }
-    ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
