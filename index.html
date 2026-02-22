@@ -5,24 +5,18 @@
   <title>나의 업무 위키</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
-  
   <style>
-    /* 2. 사이드바와 강조색을 더 깔끔하게 조정 */
     :root {
-      --theme-color: #005AAB; /* 포인트 컬러 (LG 블루 느낌) */
+      --theme-color: #005AAB; /* 포인트 컬러 */
     }
-    
-    /* 사이드바 배경을 아주 연한 회색으로 해서 본문과 구분감 주기 */
-    .sidebar {
-      background-color: #f8f9fa;
-      border-right: 1px solid #e9ecef;
+    /* 사이드바 글씨 크기와 간격 조정 */
+    .sidebar-nav {
+      line-height: 2em;
     }
-
-    /* 본문 영역 넓게 쓰기 */
+    /* 본문이 너무 왼쪽으로 붙지 않게 조정 */
     .content {
-      max-width: 1000px;
+      padding-top: 60px;
     }
   </style>
 </head>
@@ -31,8 +25,11 @@
   <script>
     window.$docsify = {
       name: '나의 위키',
-      loadSidebar: true,
-      subMaxLevel: 3,
+      loadSidebar: true, // 반드시 true여야 _sidebar.md를 읽어옵니다.
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md' // 하위 폴더에서도 사이드바 유지
+      },
+      subMaxLevel: 3,    // 본문의 H2, H3 제목을 사이드바에 자동으로 표시
       auto2top: true
     }
   </script>
