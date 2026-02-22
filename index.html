@@ -1,19 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  <title>내 업무 위키</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/dark.css">
+  <style>
+    /* 이미지와 유사하게 왼쪽 사이드바 너비 및 색상 미세 조정 */
+    :root {
+      --theme-color: #42b983; /* 강조색 (원하는 색으로 변경 가능) */
+    }
+    .sidebar {
+      background-color: #1c1c1c; /* 사이드바 배경색 */
+    }
+  </style>
 </head>
 <body>
   <div id="app">로딩 중...</div>
   <script>
     window.$docsify = {
-      name: '나의 업무 위키', // 위키 제목
-      repo: '', // 오른쪽 상단 깃허브 아이콘 링크 (비워둬도 됨)
-      loadSidebar: true, // 사이드바 활성화
-      subMaxLevel: 2    // 목차 깊이
+      name: '나의 위키',
+      loadSidebar: true,   // _sidebar.md 사용 설정
+      subMaxLevel: 3,      // 본문 내 제목(H2, H3)을 사이드바에 자동으로 표시
+      auto2top: true       // 페이지 전환 시 상단으로 스크롤
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
