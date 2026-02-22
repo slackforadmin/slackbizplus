@@ -63,7 +63,26 @@
         '/.*/_sidebar.md': '/_sidebar.md' // 하위 폴더에서도 사이드바 유지
       },
       subMaxLevel: 3,
-      auto2top: true
+      auto2top: true,
+      // 2. name(글자) 위에 이미지를 강제로 삽입하는 플러그인
+    plugins: [
+      function(hook) {
+        hook.ready(function() {
+          // 사이드바의 h1(name이 들어가는 곳) 요소를 찾습니다.
+          var header = document.querySelector('.sidebar > h1');
+          
+          // 이미지 요소를 생성합니다.
+          var img = document.createElement('img');
+          img.src = 'https://a.slack-edge.com/80588/img/services/slack_512.png'; // 슬랙 이미지 주소
+          img.style.width = '50px';      // 이미지 크기
+          img.style.display = 'block';   // 줄바꿈 처리
+          img.style.margin = '0 auto 15px auto'; // 가운데 정렬 및 아래 글자와의 간격(15px)
+  
+          // name 글자 바로 위에 이미지를 넣습니다.
+          header.insertBefore(img, header.firstChild);
+        });
+      }
+    ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
