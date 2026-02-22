@@ -1,4 +1,4 @@
-* **홈**(migraion.md)
+* [**홈**](migraion.md)
 
 * [**사람**](#)
   * [멤버](people/migraion.md)
