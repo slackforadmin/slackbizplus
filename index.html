@@ -11,10 +11,13 @@
       --theme-color: #7E57C2;
     }
 
-    /* 1. 사이드바: 연보라색 유지 */
+    /* 1. 사이드바: 연보라색 유지 및 전체 여백(버퍼) 추가 */
     .sidebar {
       background-color: #F3E5F5 !important;
       border-right: 1px solid #E1BEE7;
+      padding-left: 25px !important;  /* 왼쪽 여백 추가 */
+      padding-right: 20px !important; /* 오른쪽 여백 추가 */
+      box-sizing: border-box;         /* 여백 때문에 너비가 깨지지 않게 방지 */
     }
 
     /* 2. 우측 본문: 완전한 하얀색으로 고정 */
@@ -22,14 +25,14 @@
       background-color: #ffffff !important;
     }
 
-    /* 3. 사이드바 상단 제목 투명화 (하얀 박스 제거) */
+    /* 3. 사이드바 상단 제목 및 로고: 중앙 정렬 및 여백 조정 */
     .sidebar > h1 {
       background-color: transparent !important;
       margin: 0;
-      padding: 20px 15px;
+      padding: 40px 0 20px 0 !important; /* 위아래 여백만 부여 */
       font-weight: bold;
       color: #333;
-      /*font-size: 1.2rem;*/
+      text-align: center; /* 로고와 글자 중앙 정렬 */
     }
 
     /* 4. 모바일 토글 버튼 배경 투명화 */
@@ -37,12 +40,18 @@
       background-color: transparent !important;
     }
 
-    /* 5. 선택된 메뉴 스타일 */
+    /* 5. 선택된 메뉴 스타일: 여백에 맞춰 위치 보정 */
     .sidebar-nav li.active > a {
       background-color: #ffffff !important;
-      border-radius: 10px 0 0 10px;
-      margin-left: 10px;
+      border-radius: 10px;    /* 양쪽 둥글게 처리 */
+      margin-left: -5px;      /* 왼쪽 패딩에 맞춰 위치 살짝 조정 */
+      padding-left: 15px !important;
       font-weight: bold;
+    }
+
+    /* 사이드바 메뉴 간격 조정 */
+    .sidebar-nav {
+      line-height: 2em;
     }
 
     /* 6. 본문 너비 및 여백 */
@@ -50,7 +59,7 @@
       padding-top: 60px;
       max-width: 900px;
     }
-  </style>
+</style>
 </head>
 <body>
   <div id="app">로딩 중...</div>
