@@ -14,14 +14,14 @@
         --theme-color: #7E57C2;
       }
 
-      /* 전체 폰트 통합 및 가독성 설정 */
+      /* 전체 폰트 가독성 설정 */
       body {
         font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif !important;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
       }
   
-      /* 1. 사이드바 디자인 */
+      /* 1. 사이드바 디자인: 연보라 배경 및 좌우 버퍼 */
       .sidebar {
         background-color: #F3E5F5 !important;
         border-right: 1px solid #E1BEE7;
@@ -30,7 +30,7 @@
         box-sizing: border-box;
       }
   
-      /* 2. 우측 본문 배경 */
+      /* 2. 우측 본문 배경: 하얀색 고정 */
       .main, section.content, article#main {
         background-color: #ffffff !important;
       }
@@ -39,7 +39,7 @@
       .sidebar > h1 {
         background-color: transparent !important;
         margin: 0;
-        padding: 40px 0 20px 0 !important;
+        padding: 45px 0 25px 0 !important; /* 위아래 여백 소폭 확대 */
         font-weight: 700 !important;
         color: #333;
         text-align: center;
@@ -49,22 +49,22 @@
         background-color: transparent !important;
       }
   
-      /* 4. 기본 메뉴 텍스트 설정 */
+      /* 4. 메뉴 텍스트 설정: 글씨 크기 확대 (기존 15px -> 17px) */
       .sidebar-nav a {
         font-weight: 500 !important;
-        font-size: 15px;
+        font-size: 17px; 
         color: #555 !important;
         text-decoration: none;
       }
 
-      /* 굵은 텍스트(대메뉴 등) 스타일 */
+      /* 대메뉴 굵기 및 크기 */
       .sidebar-nav strong {
         font-weight: 700 !important;
+        font-size: 17.5px;
         color: #333 !important;
       }
 
-      /* [수정 포인트] 선택된 메뉴 스타일 (홈 및 모든 활성 메뉴 공통 적용) */
-      /* li가 active 상태일 때 그 바로 아래의 a 혹은 strong이 포함된 a에 하얀 상자 부여 */
+      /* 5. 선택된 메뉴 스타일: 홈 및 모든 리스트 활성화 시 하얀 상자 적용 */
       .sidebar-nav li.active > a {
         background-color: #ffffff !important;
         border-radius: 10px;
@@ -72,11 +72,13 @@
         padding-left: 15px !important;
         font-weight: 700 !important;
         color: var(--theme-color) !important;
-        display: block; /* 영역 꽉 채우기 */
+        display: block;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.03); /* 미세한 입체감 */
       }
   
+      /* 글씨가 커진 만큼 줄 간격을 넉넉히 조정 */
       .sidebar-nav {
-        line-height: 2.2em;
+        line-height: 2.5em; 
       }
   
       .content {
@@ -84,7 +86,7 @@
         max-width: 900px;
       }
 
-      /* 접기 아이콘 및 간격 설정 */
+      /* 접기 아이콘 색상 및 간격 */
       .sidebar-nav .folder-before:before {
         color: #7E57C2 !important;
       }
@@ -112,7 +114,7 @@
             var header = document.querySelector('.sidebar > h1');
             var img = document.createElement('img');
             img.src = 'https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg';
-            img.style.width = '50px';
+            img.style.width = '60px'; /* 로고 크기도 글씨에 맞춰 소폭 확대 */
             img.style.display = 'block';
             img.style.margin = '0 auto 15px auto';
             header.insertBefore(img, header.firstChild);
