@@ -40,7 +40,7 @@
         background-color: transparent !important;
         margin: 0;
         padding: 40px 0 20px 0 !important;
-        font-weight: 700 !important; /* 제목 굵기 강조 */
+        font-weight: 700 !important;
         color: #333;
         text-align: center;
       }
@@ -49,28 +49,33 @@
         background-color: transparent !important;
       }
   
-      /* 4. 메뉴 텍스트 굵기 평준화 (한/영 차이 감소) */
+      /* 4. 메뉴 텍스트 설정 */
       .sidebar-nav a {
-        font-weight: 500 !important; /* 중간 굵기로 설정하여 영문이 가늘어 보이지 않게 함 */
+        font-weight: 500 !important;
         font-size: 15px;
+        color: #555 !important;
+        text-decoration: none;
       }
 
       /* 대메뉴 굵기 */
       .sidebar-nav strong {
         font-weight: 700 !important;
+        color: #333 !important;
       }
 
-      /* 5. 선택된 메뉴 스타일 */
+      /* 5. 선택된 메뉴 스타일 (홈 및 모든 활성 메뉴 공통) */
       .sidebar-nav li.active > a {
         background-color: #ffffff !important;
         border-radius: 10px;
         margin-left: -5px;
         padding-left: 15px !important;
         font-weight: 700 !important;
+        color: var(--theme-color) !important; /* 선택 시 글자색 보라색으로 변경 */
+        display: block;
       }
   
       .sidebar-nav {
-        line-height: 2em;
+        line-height: 2.2em;
       }
   
       .content {
