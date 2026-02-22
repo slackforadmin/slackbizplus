@@ -59,9 +59,7 @@
       name: 'Biz+ 조직관리화면',
       loadSidebar: true, // 반드시 true여야 _sidebar.md를 읽어옵니다.
       alias: {
-        // 모든 경로에서 루트의 _sidebar.md를 바라보게 설정
-        '/.*/_sidebar.md': '/_sidebar.md',
-        '/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '/_sidebar.md' // 하위 폴더에서도 사이드바 유지
       },
       subMaxLevel: 3,    // 본문의 H2, H3 제목을 사이드바에 자동으로 표시
       auto2top: true
