@@ -6,66 +6,82 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" />
+
   <style>
       :root {
         --theme-color: #7E57C2;
       }
+
+      /* 전체 폰트 통합 및 가독성 설정 */
+      body {
+        font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif !important;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
   
-      /* 1. 사이드바: 연보라색 유지 및 전체 여백(버퍼) 추가 */
+      /* 1. 사이드바: 연보라색 유지 및 전체 여백 추가 */
       .sidebar {
         background-color: #F3E5F5 !important;
         border-right: 1px solid #E1BEE7;
-        padding-left: 25px !important;  /* 왼쪽 여백 추가 */
-        padding-right: 20px !important; /* 오른쪽 여백 추가 */
-        box-sizing: border-box;         /* 여백 때문에 너비가 깨지지 않게 방지 */
+        padding-left: 25px !important;
+        padding-right: 20px !important;
+        box-sizing: border-box;
       }
   
-      /* 2. 우측 본문: 완전한 하얀색으로 고정 */
+      /* 2. 우측 본문: 하얀색 고정 */
       .main, section.content, article#main {
         background-color: #ffffff !important;
       }
   
-      /* 3. 사이드바 상단 제목 및 로고: 중앙 정렬 및 여백 조정 */
+      /* 3. 사이드바 제목 및 로고 중앙 정렬 */
       .sidebar > h1 {
         background-color: transparent !important;
         margin: 0;
-        padding: 40px 0 20px 0 !important; /* 위아래 여백만 부여 */
-        font-weight: bold;
+        padding: 40px 0 20px 0 !important;
+        font-weight: 700 !important; /* 제목 굵기 강조 */
         color: #333;
-        text-align: center; /* 로고와 글자 중앙 정렬 */
+        text-align: center;
       }
   
-      /* 4. 모바일 토글 버튼 배경 투명화 */
       .sidebar-toggle {
         background-color: transparent !important;
       }
   
-      /* 5. 선택된 메뉴 스타일: 여백에 맞춰 위치 보정 */
+      /* 4. 메뉴 텍스트 굵기 평준화 (한/영 차이 감소) */
+      .sidebar-nav a {
+        font-weight: 500 !important; /* 중간 굵기로 설정하여 영문이 가늘어 보이지 않게 함 */
+        font-size: 15px;
+      }
+
+      /* 대메뉴 굵기 */
+      .sidebar-nav strong {
+        font-weight: 700 !important;
+      }
+
+      /* 5. 선택된 메뉴 스타일 */
       .sidebar-nav li.active > a {
         background-color: #ffffff !important;
-        border-radius: 10px;    /* 양쪽 둥글게 처리 */
-        margin-left: -5px;      /* 왼쪽 패딩에 맞춰 위치 살짝 조정 */
+        border-radius: 10px;
+        margin-left: -5px;
         padding-left: 15px !important;
-        font-weight: bold;
+        font-weight: 700 !important;
       }
   
-      /* 사이드바 메뉴 간격 조정 */
       .sidebar-nav {
         line-height: 2em;
       }
   
-      /* 6. 본문 너비 및 여백 */
       .content {
         padding-top: 60px;
         max-width: 900px;
       }
-    
-      /* 사이드바 접기 아이콘 색상 변경 */
+
       .sidebar-nav .folder-before:before {
-        color: #7E57C2 !important; /* 설정하신 보라색 포인트 컬러 */
+        color: #7E57C2 !important;
       }
       
-      /* 하위 메뉴가 펼쳐졌을 때의 간격 조정 */
       .sidebar-nav ul li ul {
         padding-left: 20px !important;
       }
@@ -76,33 +92,26 @@
   <script>
     window.$docsify = {
       name: 'Biz+ 조직관리화면',
-      loadSidebar: true, // 필수
-      // 경로 문제를 방지하기 위해 alias를 더 단순화합니다.
+      loadSidebar: true,
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md' // 하위 폴더에서도 사이드바 유지
+        '/.*/_sidebar.md': '/_sidebar.md'
       },
-      sidebarDisplayLevel: 0, // 기본적으로 몇 단계까지 펼쳐둘지 설정 (1은 대메뉴만 보임)
+      sidebarDisplayLevel: 0,
       subMaxLevel: 3,
       auto2top: true,
-      // 2. name(글자) 위에 이미지를 강제로 삽입하는 플러그인
-    plugins: [
-      function(hook) {
-        hook.ready(function() {
-          // 사이드바의 h1(name이 들어가는 곳) 요소를 찾습니다.
-          var header = document.querySelector('.sidebar > h1');
-          
-          // 이미지 요소를 생성합니다.
-          var img = document.createElement('img');
-          img.src = 'https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg'; // 슬랙 이미지 주소
-          img.style.width = '50px';      // 이미지 크기
-          img.style.display = 'block';   // 줄바꿈 처리
-          img.style.margin = '0 auto 15px auto'; // 가운데 정렬 및 아래 글자와의 간격(15px)
-  
-          // name 글자 바로 위에 이미지를 넣습니다.
-          header.insertBefore(img, header.firstChild);
-        });
-      }
-    ]
+      plugins: [
+        function(hook) {
+          hook.ready(function() {
+            var header = document.querySelector('.sidebar > h1');
+            var img = document.createElement('img');
+            img.src = 'https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg';
+            img.style.width = '50px';
+            img.style.display = 'block';
+            img.style.margin = '0 auto 15px auto';
+            header.insertBefore(img, header.firstChild);
+          });
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
