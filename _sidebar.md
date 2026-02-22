@@ -9,4 +9,4 @@
   * [Grid 조직관리 화면](grid-admin.md)
   * [워크스페이스](workspace.md)
   * [사람](people.md)
-  * [Salesforce](salesforce.md)
+  * [채널](channels.md)
