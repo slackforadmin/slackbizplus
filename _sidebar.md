@@ -1,4 +1,4 @@
-* [홈](README.md)
+* [홈](migration.md#사전조건)
 
 * **이전 (Grid Migration)**
   * [사전조건](migration.md#사전조건)
