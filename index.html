@@ -21,7 +21,7 @@
         -moz-osx-font-smoothing: grayscale;
       }
   
-      /* 1. 사이드바: 연보라색 유지 및 전체 여백 추가 */
+      /* 1. 사이드바 디자인 */
       .sidebar {
         background-color: #F3E5F5 !important;
         border-right: 1px solid #E1BEE7;
@@ -30,12 +30,12 @@
         box-sizing: border-box;
       }
   
-      /* 2. 우측 본문: 하얀색 고정 */
+      /* 2. 우측 본문 배경 */
       .main, section.content, article#main {
         background-color: #ffffff !important;
       }
   
-      /* 3. 사이드바 제목 및 로고 중앙 정렬 */
+      /* 3. 사이드바 상단 로고 및 제목 영역 */
       .sidebar > h1 {
         background-color: transparent !important;
         margin: 0;
@@ -49,7 +49,7 @@
         background-color: transparent !important;
       }
   
-      /* 4. 메뉴 텍스트 설정 */
+      /* 4. 기본 메뉴 텍스트 설정 */
       .sidebar-nav a {
         font-weight: 500 !important;
         font-size: 15px;
@@ -57,21 +57,22 @@
         text-decoration: none;
       }
 
-      /* 대메뉴 굵기 */
+      /* 굵은 텍스트(대메뉴 등) 스타일 */
       .sidebar-nav strong {
         font-weight: 700 !important;
         color: #333 !important;
       }
 
-      /* 5. 선택된 메뉴 스타일 (홈 및 모든 활성 메뉴 공통) */
+      /* [수정 포인트] 선택된 메뉴 스타일 (홈 및 모든 활성 메뉴 공통 적용) */
+      /* li가 active 상태일 때 그 바로 아래의 a 혹은 strong이 포함된 a에 하얀 상자 부여 */
       .sidebar-nav li.active > a {
         background-color: #ffffff !important;
         border-radius: 10px;
         margin-left: -5px;
         padding-left: 15px !important;
         font-weight: 700 !important;
-        color: var(--theme-color) !important; /* 선택 시 글자색 보라색으로 변경 */
-        display: block;
+        color: var(--theme-color) !important;
+        display: block; /* 영역 꽉 채우기 */
       }
   
       .sidebar-nav {
@@ -83,6 +84,7 @@
         max-width: 900px;
       }
 
+      /* 접기 아이콘 및 간격 설정 */
       .sidebar-nav .folder-before:before {
         color: #7E57C2 !important;
       }
