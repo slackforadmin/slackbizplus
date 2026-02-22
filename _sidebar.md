@@ -9,4 +9,3 @@
 
 * **서비스 연동**
   * [Salesforce 연결](migration.md)
-  * [Slack Connect](migration.md)
