@@ -2,17 +2,27 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>내 업무 위키</title>
+  <title>나의 업무 위키</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/dark.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  
   <style>
-    /* 이미지와 유사하게 왼쪽 사이드바 너비 및 색상 미세 조정 */
+    /* 2. 사이드바와 강조색을 더 깔끔하게 조정 */
     :root {
-      --theme-color: #42b983; /* 강조색 (원하는 색으로 변경 가능) */
+      --theme-color: #005AAB; /* 포인트 컬러 (LG 블루 느낌) */
     }
+    
+    /* 사이드바 배경을 아주 연한 회색으로 해서 본문과 구분감 주기 */
     .sidebar {
-      background-color: #1c1c1c; /* 사이드바 배경색 */
+      background-color: #f8f9fa;
+      border-right: 1px solid #e9ecef;
+    }
+
+    /* 본문 영역 넓게 쓰기 */
+    .content {
+      max-width: 1000px;
     }
   </style>
 </head>
@@ -21,9 +31,9 @@
   <script>
     window.$docsify = {
       name: '나의 위키',
-      loadSidebar: true,   // _sidebar.md 사용 설정
-      subMaxLevel: 3,      // 본문 내 제목(H2, H3)을 사이드바에 자동으로 표시
-      auto2top: true       // 페이지 전환 시 상단으로 스크롤
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
