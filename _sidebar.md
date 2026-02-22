@@ -21,9 +21,31 @@
   * [앱 관리 설정](migration.md)
   * [내 활동 로그](migration.md)
 
-* **프로필**
-  * [프로필 구성](workspace.md)
+* **채널**
+  * [모든 채널](workspace.md)
 
-* **서비스 연동**
-  * [Salesforce 연결](salesforce.md)
-  * [Slack Connect](slack-connect.md)
+* **Slack Connect**
+  * [연계](salesforce.md)
+  * [초대](slack-connect.md)
+    
+* **Salesforce**
+  * [Salesforce 조직](workspace.md)
+  * [Agentforce](workspace.md)
+
+* **Analytics**
+ 
+* **역할 및 권한**
+  * [계정 유형](workspace.md)
+  * [역할](workspace.md)
+  * [기능 액세스](workspace.md)
+
+* **보안**
+  * [보안 설정](salesforce.md)
+  * [SSO 및 인증](slack-connect.md)
+  * [데이터 가져오기 및 내보내기](salesforce.md)
+  * [액세스 로그](slack-connect.md)
+
+* **설정**
+  * [설정 및 권한](salesforce.md)
+  * [사용자 지정](slack-connect.md)
+  * [청구](slack-connect.md)
