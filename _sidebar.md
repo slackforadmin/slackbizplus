@@ -1,7 +1,7 @@
-* [**홈**](#)
+* **홈**(migraion.md)
 
 * [**사람**](#)
-  * [멤버](people/member.md)
+  * [멤버](people/migraion.md)
   * [외부 사람들](people/external.md)
   * [사용자 그룹](people/groups.md)
   * [초대](people/invite.md)
