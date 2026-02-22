@@ -1,12 +1,12 @@
-* [홈](migration.md#사전조건)
+* **가이드**
+  * [홈](README.md)
+  * [이전 가이드](migration.md)
 
-* **이전 (Grid Migration)**
-  * [사전조건](migration.md#사전조건)
-  * [워크스페이스 이전](migration.md#워크스페이스-이전)
-  * [마이그레이션 상세 페이지](migration.md#상세)
-
-* **목차**
-  * [Grid 조직관리 화면](grid-admin.md)
+* **조직관리**
   * [워크스페이스](workspace.md)
-  * [사람](people.md)
-  * [채널](channels.md)
+  * [사람 및 권한](people.md)
+  * [채널 관리](channels.md)
+
+* **서비스 연동**
+  * [Salesforce 연결](salesforce.md)
+  * [Slack Connect](slack-connect.md)
