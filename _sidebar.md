@@ -1,10 +1,10 @@
 * **홈**
 
 * **사람**
-  * [멤버](people/README.md)
-  * [외부 사람들](people/migration.md)
-  * [사용자 그룹](people/migration.md)
-  * [초대](people/migration.md)
+  * [멤버](migration.md)
+  * [외부 사람들](migration.md)
+  * [사용자 그룹](migration.md)
+  * [초대](migration.md)
 
 * **프로필**
   * [프로필 구성](workspace.md)
