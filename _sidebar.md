@@ -1,6 +1,6 @@
 * **홈**
 
-* **사람**
+* [**사람**](#)
   * [멤버](migration.md)
   * [외부 사람들](migration.md)
   * [사용자 그룹](migration.md)
