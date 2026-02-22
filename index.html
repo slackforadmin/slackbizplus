@@ -57,13 +57,14 @@
   <script>
     window.$docsify = {
       name: 'Biz+ 조직관리화면',
-      loadSidebar: true, // 반드시 true여야 _sidebar.md를 읽어옵니다.
+      loadSidebar: true, // 필수
+      // 경로 문제를 방지하기 위해 alias를 더 단순화합니다.
       alias: {
-        // 모든 경로에서 루트의 _sidebar.md를 바라보게 설정
-        '/.*/_sidebar.md': '/_sidebar.md',
-        '/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '/_sidebar.md'
       },
-      subMaxLevel: 3,    // 본문의 H2, H3 제목을 사이드바에 자동으로 표시
+      // 사이드바 파일이 없을 때를 대비한 설정
+      notFoundPage: true,
+      subMaxLevel: 3,
       auto2top: true
     }
   </script>
