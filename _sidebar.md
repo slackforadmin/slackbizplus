@@ -14,12 +14,12 @@
   * [워크플로 단계, 트리거, 통합](trigger.md)
   * [워크플로](workflow.md)
   * [추천 앱](recommendedapp.md)
-  * [사용자 지정 통합 앱](migration.md)
-  * [비활성화된 앱](migration.md)
-  * [연결된 계정](migration.md)
-  * [음소거된 앱](migration.md)
-  * [앱 관리 설정](migration.md)
-  * [내 활동 로그](migration.md)
+  * [사용자 지정 통합 앱](userapp.md)
+  * [비활성화된 앱](deactivatedapp.md)
+  * [연결된 계정](connectedapp.md)
+  * [음소거된 앱](muteapp.md)
+  * [앱 관리 설정](adminapp.md)
+  * [내 활동 로그](activitylog.md)
 
 * **채널**
   * [모든 채널](migration.md)
