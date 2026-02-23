@@ -1,13 +1,13 @@
 * [**홈**](home.md)
 
 * **사람**
-  * [멤버](migration.md)
-  * [외부 사람들](migration.md)
-  * [사용자 그룹](migration.md)
-  * [초대](migration.md)
+  * [멤버](member.md)
+  * [외부 사람들](externalpeople.md)
+  * [사용자 그룹](usergroup.md)
+  * [초대](invitaion.md)
 
 * **프로필**
-  * [프로필 구성](migration.md)
+  * [프로필 구성](profile.md)
 
 * **통합**
   * [설치된 앱](migration.md)
