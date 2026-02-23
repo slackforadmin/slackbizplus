@@ -10,10 +10,10 @@
   * [프로필 구성](profile.md)
 
 * **통합**
-  * [설치된 앱](migration.md)
-  * [워크플로 단계, 트리거, 통합](migration.md)
-  * [워크플로](migration.md)
-  * [추천 앱](migration.md)
+  * [설치된 앱](installedapp.md)
+  * [워크플로 단계, 트리거, 통합](trigger.md)
+  * [워크플로](workflow.md)
+  * [추천 앱](recommendedapp.md)
   * [사용자 지정 통합 앱](migration.md)
   * [비활성화된 앱](migration.md)
   * [연결된 계정](migration.md)
