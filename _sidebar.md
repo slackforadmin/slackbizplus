@@ -22,30 +22,30 @@
   * [내 활동 로그](activitylog.md)
 
 * **채널**
-  * [모든 채널](migration.md)
+  * [모든 채널](channel.md)
 
 * **Slack Connect**
-  * [연계](migration.md)
-  * [초대](migration.md)
+  * [연계](slackconnect.md)
+  * [초대](slackinvitation.md)
     
 * **Salesforce**
-  * [Salesforce 조직](migration.md)
-  * [Agentforce](migration.md)
+  * [Salesforce 조직](salesforceorg.md)
+  * [Agentforce](agentforce.md)
 
 * **Analytics**
  
 * **역할 및 권한**
-  * [계정 유형](migration.md)
-  * [역할](migration.md)
-  * [기능 액세스](migration.md)
+  * [계정 유형](uesrtype.md)
+  * [역할](userrole.md)
+  * [기능 액세스](access.md)
 
 * **보안**
-  * [보안 설정](migration.md)
-  * [SSO 및 인증](migration.md)
-  * [데이터 가져오기 및 내보내기](migration.md)
-  * [액세스 로그](migration.md)
+  * [보안 설정](security.md)
+  * [SSO 및 인증](sso.md)
+  * [데이터 가져오기 및 내보내기](dataexport.md)
+  * [액세스 로그](accesslog.md)
 
 * **설정**
-  * [설정 및 권한](migration.md)
-  * [사용자 지정](migration.md)
-  * [청구](migration.md)
+  * [설정 및 권한](setting.md)
+  * [사용자 지정](customization.md)
+  * [청구](billing.md)
