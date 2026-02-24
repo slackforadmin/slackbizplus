@@ -6,7 +6,7 @@
        style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
-
+<span></span>
 # AI
 
 각 항목에 대한 상세 설명 입니다.
