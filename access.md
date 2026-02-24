@@ -8,8 +8,6 @@
 
 ---
 
-<hr style="border: 0; height: 1px; background: #eee; margin: 60px 0;">
-
 # AI
 
 각 항목에 대한 상세 설명 입니다.
