@@ -8,7 +8,7 @@
 
 ---
 
-<span style="font-size: 100px; font-weight: bold; color: #8E44AD;">AI</span>
+<span style="font-size: 50px; font-weight: bold; color: #8E44AD;">AI</span>
 
 각 항목에 대한 상세 설명 입니다.
 
