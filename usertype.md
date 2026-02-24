@@ -9,5 +9,5 @@
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/e6c7f2be-5e44-4d65-995d-4b12b6edc825" 
        alt="image" 
-       style="width: 100%; max-width: 2000px; height: 400px; object-fit: cover; border-radius: 8px;">
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
