@@ -1,5 +1,15 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 분석
 
+분석 항목에 대한 내용은 다음 문서 참조 부탁드립니다.
 
+https://slack.com/intl/ko-kr/help/articles/218407447-Slack-%EB%B6%84%EC%84%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EB%B3%B4%EA%B8%B0#enterprise-grid-1
+
+만약 Biz+내의 모든 사용자 정보를 csv 로 추출하고 싶은 경우, 
+분석 --> 멤버 항목에서 필요한 데이터 범위를 "항상" 으로 변경 하신 후 CSV 내보내기로 추출하시면 됩니다. 
+
+<img width="3006" height="1542" alt="image" src="https://github.com/user-attachments/assets/9d673f8b-8301-4073-a9a2-b580dd604e7a" />
+
+추출전 열편집 항목에서 원하는 정보를 추가로 포함시킵니다.
+
+<img width="1606" height="1512" alt="image" src="https://github.com/user-attachments/assets/70cbd672-73e9-48ad-9f3f-7d421cf011de" />
