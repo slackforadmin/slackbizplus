@@ -1,4 +1,4 @@
-* [**<span style="display: inline-flex; align-items: center; vertical-align: middle; background: transparent;"><img src="https://github.com/user-attachments/assets/3b5bbcb7-c9c0-437e-8544-0e870e161e57" width="23" height="19" alt="home" style="margin-right: 10px; background: transparent; mix-blend-mode: multiply;">홈</span>**](home.md)
+* [**홈**](home.md)
   
 * **사람**
   * [멤버](member.md)
