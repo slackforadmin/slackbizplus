@@ -8,8 +8,16 @@ https://slack.com/intl/ko-kr/help/articles/218407447-Slack-%EB%B6%84%EC%84%9D-%E
 만약 Biz+내의 모든 사용자 정보를 csv 로 추출하고 싶은 경우, 
 분석 --> 멤버 항목에서 필요한 데이터 범위를 "항상" 으로 변경 하신 후 CSV 내보내기로 추출하시면 됩니다. 
 
-<img width="3006" height="1542" alt="image" src="https://github.com/user-attachments/assets/9d673f8b-8301-4073-a9a2-b580dd604e7a" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/9d673f8b-8301-4073-a9a2-b580dd604e7a" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 추출전 열편집 항목에서 원하는 정보를 추가로 포함시킵니다.
 
-<img width="1606" height="1512" alt="image" src="https://github.com/user-attachments/assets/70cbd672-73e9-48ad-9f3f-7d421cf011de" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/70cbd672-73e9-48ad-9f3f-7d421cf011de" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
