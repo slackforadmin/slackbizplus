@@ -6,7 +6,9 @@
        style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
+---
 
+<hr style="border: 0; height: 1px; background: #eee; margin: 60px 0;">
 
 # AI
 
