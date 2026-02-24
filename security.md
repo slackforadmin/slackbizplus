@@ -1,7 +1,11 @@
 
 # 보안 설정
 
-<img width="1680" height="871" alt="image" src="https://github.com/user-attachments/assets/ae98499e-a309-4e33-adc1-406de74e46fe" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/ae98499e-a309-4e33-adc1-406de74e46fe" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 로그인 설정
 이메일 로그인의 2단계 인증
@@ -72,8 +76,11 @@ EMM 을 사용하는 경우 EMM 설정을 우선 합니다.
 
 슬랙에서 정의하는 Anomaly Event 가 발생하는 경우에 자동으로 해당 사용자의 세션을 종료하거나, 또는 관리자/소유자에게 알람을 보낼 수 있도록 설정 할 수 있습니다.
 
-<img width="1100" height="1372" alt="image" src="https://github.com/user-attachments/assets/b247ebf9-2695-4cc5-9e1a-b560f6c1a436" />
-
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/b247ebf9-2695-4cc5-9e1a-b560f6c1a436" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 이메일 알림 설정
 초대된 멤버에게 메세지 내용 숨김 처리 
