@@ -3,7 +3,11 @@
 
 우측 상단의 SSO 설정을 클릭하여 SSO 설정을 끝내고 나면, 아래 화면이 보입니다. 
 
-<img width="1680" height="1037" alt="image" src="https://github.com/user-attachments/assets/b89e3826-abae-43f5-a194-b5582e5139fd" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/b89e3826-abae-43f5-a194-b5582e5139fd" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 조직용
 이메일과 비밀번호로 로그인하도록 허용
@@ -17,7 +21,11 @@ https://bookstack.byounghee.synology.me:6876/link/47#bkmrk-%EB%8B%A4%EB%A7%8C-%E
 
 다만 조직 소유자도 무조건 SSO 로 로그인하도록 강제 할 수 있습니다.
 
-<img width="1672" height="1114" alt="image" src="https://github.com/user-attachments/assets/067df41c-7c32-473e-abbb-3b7d2efaa86e" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/067df41c-7c32-473e-abbb-3b7d2efaa86e" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 사용자 프로필 동기화
 기본값 : 비활성화
