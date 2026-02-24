@@ -3,8 +3,6 @@
 
 분석 항목에 대한 내용은 다음 문서 참조 부탁드립니다.
 
-<a href="https://slack.com/intl/ko-kr/help/articles/218407447-Slack-%EB%B6%84%EC%84%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EB%B3%B4%EA%B8%B0#enterprise-grid-1" target="_blank">Slack 분석 대시보드 보기</a>
-
 [Slack 분석 대시보드 보기](https://slack.com/intl/ko-kr/help/articles/218407447-Slack-%EB%B6%84%EC%84%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EB%B3%B4%EA%B8%B0#enterprise-grid-1)
 
 만약 Biz+내의 모든 사용자 정보를 csv 로 추출하고 싶은 경우, 
