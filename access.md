@@ -8,7 +8,7 @@
 
 ---
 
-# AI
+<span style="font-size: 32px; font-weight: bold;">AI</span>
 
 각 항목에 대한 상세 설명 입니다.
 
