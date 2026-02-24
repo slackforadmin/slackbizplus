@@ -3,7 +3,7 @@
 기본으로 정해진 멤버 타입(게스트/멤버/워크스페이스 관리자 등) 의 권한을 설정할 수 있습니다. 
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #E1BEE7; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #856404;">⚠️단 기본으로 정해진 권한에서 추가로 넣는 것만 가능합니다. </span>
+  <span style="color: #E1BEE7;">⚠️단 기본으로 정해진 권한에서 추가로 넣는 것만 가능합니다. </span>
 </div>
 
 <div style="display: flex; justify-content: center; width: 100%;">
