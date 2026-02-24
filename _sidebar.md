@@ -35,7 +35,7 @@
 * [**Analytics**](analytics.md)
  
 * **역할 및 권한**
-  * [계정 유형](uesrtype.md)
+  * [계정 유형](usertype.md)
   * [역할](userrole.md)
   * [기능 액세스](access.md)
 
