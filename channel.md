@@ -17,7 +17,7 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
 CSV 내보내기 기능과 검색/필터 기능도 제공합니다. <br>
 
 
-# Ent+
+Ent+
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 기본 설정으로는 조직 주소유자만 공개채널/비공개 채널을 확인할 수 있습니다. 역할 및 권한 --> 계정 유형에서 조직 소유자나 관리자에게 권한을 부여할 수 있습니다.<br>
