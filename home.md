@@ -1,6 +1,6 @@
 # 홈
 
-계정 설정, 워크스페이스 관리, 청구 등 관리자 기능 안내 화면
+계정 설정, 워크스페이스 관리, 청구 등 관리자 기능들을 확인하실 수 있습니다.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/02e5639b-3c14-46b4-a3f7-aa7b7fa7177b" 
