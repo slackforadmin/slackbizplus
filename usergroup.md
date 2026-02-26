@@ -6,7 +6,11 @@
 
 [사용자 그룹 생성 및 편집](https://slack.com/intl/ko-kr/help/articles/212906697-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EC%83%9D%EC%84%B1-%EB%B0%8F-%ED%8E%B8%EC%A7%91)
 
-<img width="1452" height="828" alt="image" src="https://github.com/user-attachments/assets/31062ba7-ca93-43c3-ae80-5eacad2ada59" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/31062ba7-ca93-43c3-ae80-5eacad2ada59" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
 
 그룹 비활성화 / 그룹 정보 편집 / 그룹 멤버 편집이 가능합니다. 
 
