@@ -1,6 +1,5 @@
 
 # 멤버
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/735ea3f2-1e35-4e6f-8536-cb089b7ba80a" 
