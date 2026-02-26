@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/3f7cc1b2-0c83-4e3f-8d3e-9833217f6281" 
+  <img src="https://github.com/user-attachments/assets/bd5aa332-2895-41e3-a961-0d126452d659" 
        alt="image" 
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
