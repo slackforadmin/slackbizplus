@@ -2,10 +2,11 @@
 # 보안 설정
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/ae98499e-a309-4e33-adc1-406de74e46fe" 
+  <img src="https://github.com/user-attachments/assets/9f3d5e26-3d2f-4a95-8449-bec1e0d432ba" 
        alt="image" 
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
+
 
 로그인 설정
 이메일 로그인의 2단계 인증
