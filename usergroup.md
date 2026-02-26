@@ -12,6 +12,6 @@
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
-새 그룹 생성 / 그룹 비활성화 / 그룹 정보 편집 / 그룹 멤버 편집이 가능합니다. 
+새 그룹 생성 / 그룹 비활성화 / 그룹 정보 편집 / 그룹 멤버 편집을 할 수 있습니다.
 
 <img width="750" height="369" alt="image" src="https://github.com/user-attachments/assets/ce4f95ef-c1ff-478a-a68b-92ffb62e3ed1" />
