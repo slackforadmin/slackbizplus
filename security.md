@@ -60,5 +60,5 @@ SSO 가 아닌 이메일/패스워드를 통해 로그인하는 멤버들의 비
 
 고정된 으로 번역되어 있으나 영어 원문은 Root 입니다. 따라서 탈옥된 디바이스(iOS) 나 루팅된 디바이스(Android) 인 경우 Slack 앱을 사용하지 못하도록 설정할 수 있습니다. (EMM 미사용시만 적용)
 
-
+[탈옥 또는 루팅된 모바일 장치가 Slack에 액세스하지 못하도록 차단]([https://slack.com/intl/ko-kr/help/articles/212906697-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EC%83%9D%EC%84%B1-%EB%B0%8F-%ED%8E%B8%EC%A7%91](https://slack.com/intl/ko-kr/help/articles/360042097113-%ED%83%88%EC%98%A5-%EB%98%90%EB%8A%94-%EB%A3%A8%ED%8C%85%EB%90%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9E%A5%EC%B9%98%EA%B0%80-Slack%EC%97%90-%EC%95%A1%EC%84%B8%EC%8A%A4%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8F%84%EB%A1%9D-%EC%B0%A8%EB%8B%A8))
 
