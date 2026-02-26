@@ -17,6 +17,12 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
 CSV 내보내기 기능과 검색/필터 기능도 제공합니다. <br>
 
 
+
+
+
+
+
+
 Ent+
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
