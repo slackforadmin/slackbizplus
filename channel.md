@@ -1,13 +1,6 @@
 # 모든 채널
 
-조직내의 모든 채널 목록을 확인할 수 있습니다.
-
-<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 기본 설정으로는 조직 주소유자만 공개채널/비공개 채널을 확인할 수 있습니다. 역할 및 권한 --> 계정 유형에서 조직 소유자나 관리자에게 권한을 부여할 수 있습니다.<br>
-- 비공개 채널 : 조직 수준에서 비공개 채널 관리<br>
-- 공개 채널 : 팀에 대한 공개 채널 관리
-  </span>
-</div>
+Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/bd5aa332-2895-41e3-a961-0d126452d659" 
@@ -15,10 +8,25 @@
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
-이 화면에서 각 채널에 대해서 다음과 같은 작업이 가능합니다.
+공개 채널만 관리 가능하며, 비공개 채널은 숨겨져 작업할 수 없습니다.<br>
+우측 상단의 [채널 생성]버튼으로 새 채널을 만들 수 있습니다.<br>
 
-<img width="774" height="684" alt="image" src="https://github.com/user-attachments/assets/519ae4ac-3a10-4f0e-8330-384c9902ffb1" />
+화면 구성:<br>
+채널 목록을 테이블 형식으로 보여주며, 각 채널의 ID, 멤버 수, 외부 사람들 수, 캔버스, 리스트, 관리자 수, 조직 정보를 확인할 수 있습니다.<br>
+각 채널 행의 메뉴(···)를 클릭하면 멤버 추가, 채널 메니저 수정, 포스트 권한 편집, 채널 이름 변경 등의 작업을 수행할 수 있습니다.<br>
+CSV 내보내기 기능과 검색/필터 기능도 제공합니다. <br>
+좌측 사이드바에서 홈, 사람, 프로필, 통합, Analytics 등 다른 메뉴로 이동할 수 있습니다. <br>
 
+
+
+# Ent+
+
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 기본 설정으로는 조직 주소유자만 공개채널/비공개 채널을 확인할 수 있습니다. 역할 및 권한 --> 계정 유형에서 조직 소유자나 관리자에게 권한을 부여할 수 있습니다.<br>
+- 비공개 채널 : 조직 수준에서 비공개 채널 관리<br>
+- 공개 채널 : 팀에 대한 공개 채널 관리
+  </span>
+</div>
 멤버 추가 --> 해당 공개/비공개 채널에 멤버 추가, 단 비공개 채널에 있는 멤버의 숫자만 확인가능하고, 누가 조인해있는지는 확인할수 없습니다.
 워크스페이스 편집 --> 해당 채널에 접근할 수 있는 워크스페이스를 추가/제거 할 수 있으며, 채널의 워크스페이스 간 이동도 가능합니다.
 포스트 권한 편집 --> 해당 채널의 포스트 권한을 편집할 수 있습니다.
