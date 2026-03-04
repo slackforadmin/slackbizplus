@@ -40,12 +40,18 @@ Ent+
 채널 보관 --> 채널을 보관 또는 보관 취소 처리할 수 있습니다.
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 공개채널의 보관 취소를 하는 경우에는 5일 내에 보관취소하는 경우 채널의 멤버 리스트가 복구, (싱글/멀티 채널 게스트는포함되지 않음) 그 이후에는 멤버 리스트가 복구되지 않습니다. 비공개 채널을 보관취소 하는 경우에는 항상 채널의 멤버 리스트가 복구됩니다. (싱글 채널 게스트 제외)
+  <span style="color: #6A1B9A; font-weight: bold;">
+    공개 채널:
+* 5일 이내 보관 취소 → 멤버 리스트 복구됨 (단, 싱글/멀티 채널 게스트 제외)
+* 5일 이후 보관 취소 → 멤버 리스트 복구되지 않음
+  비공개 채널:
+* 언제든지 보관 취소 시 멤버 리스트 복구됨 (단, 싱글 채널 게스트 제외)
   </span>
 </div>
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 채널 삭제 --> 채널을 삭제하는 경우엔 영구 삭제 처리 되며 복원 할 수 없습니다. (데이터 내보내기시에도 나오지 않습니다.)
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 채널 삭제 
+    --> 채널을 삭제하는 경우엔 영구 삭제 처리 되며 복원 할 수 없습니다. (데이터 내보내기시에도 나오지 않습니다.)
   </span>
 </div>
 
