@@ -1,7 +1,8 @@
 
 # 분석
 
-분석 항목에 대한 내용은 다음 문서 참조 부탁드립니다.
+Slack 분석 대시보드를 통해 조직에서 Slack을 사용하는 방식에 대한 인사이트를 얻을 수 있습니다.<br>
+대시보드에서 정보를 쉽게 찾고 정렬하여 워크스페이스 또는 엔터프라이즈 조직의 활동에 대해 자세히 이해할 수 있습니다.<br>
 
 [Slack 분석 대시보드 보기](https://slack.com/intl/ko-kr/help/articles/218407447-Slack-%EB%B6%84%EC%84%9D-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EB%B3%B4%EA%B8%B0#enterprise-grid-1)
 
