@@ -22,7 +22,7 @@
   * [내 활동 로그](activitylog.md)
 
 * **채널**
-  * [모든 채널](channel.md)
+  * [모든 채널(완료)](channel.md)
 
 * **Slack Connect**
   * [연계](slackconnect.md)
