@@ -9,6 +9,8 @@
 
 멤버 화면에서는 다음과 같은 작업을 할 수 있습니다.
 
+[전체 멤버 목록 내보내기]링크를 통해서 멤버 리스트를 다운로드 받을 수 있습니다.
+
 현재 조직의 멤버 리스트를 확인할 수 있으며, 프로필 편집 / 초대 재전송 / 계정 유형 변경 / 초대 철회 할 수 있습니다. 
 
 <img width="354" height="261" alt="image" src="https://github.com/user-attachments/assets/d3ee80a2-4b02-47d6-a118-a5ccbe9e4ff1" />
