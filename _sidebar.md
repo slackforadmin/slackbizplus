@@ -7,7 +7,7 @@
   * [초대(완료)](invitation.md)
 
 * **프로필**
-  * [프로필 구성](profile.md)
+  * [프로필 구성(완료)](profile.md)
 
 * **통합**
   * [설치된 앱](installedapp.md)
