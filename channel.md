@@ -39,6 +39,7 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 채널 삭제<br>
+    <br>
         - 채널을 삭제하는 경우엔 영구 삭제 처리 되며 복원 할 수 없습니다. (데이터 내보내기시에도 나오지 않습니다.)
   </span>
 </div>
