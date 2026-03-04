@@ -1,10 +1,10 @@
-* [**홈**](home.md)
+* [**홈(완료)**](home.md)
   
 * **사람**
-  * [멤버](member.md)
+  * [멤버(완료)](member.md)
   * [외부 사람들](externalpeople.md)
-  * [사용자 그룹](usergroup.md)
-  * [초대](invitation.md)
+  * [사용자 그룹(완료)](usergroup.md)
+  * [초대(완료)](invitation.md)
 
 * **프로필**
   * [프로필 구성](profile.md)
