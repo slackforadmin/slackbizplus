@@ -48,7 +48,7 @@
 * **설정**
   * [설정 및 권한](setting.md)
   * [사용자 지정](customization.md)
-  * [청구](billing.md)
+  * [청구(완료)](billing.md)
   * [지원 중단(완료)](deprecation.md)
   * [이 워크스페이스 정보(완료)](workspacesetting.md)
 
