@@ -50,5 +50,5 @@
   * [사용자 지정](customization.md)
   * [청구](billing.md)
   * [지원 중단](deprecation.md)
-  * [이 워크스페이스 정보](workspacesetting.md)
+  * [이 워크스페이스 정보(완료)](workspacesetting.md)
 
