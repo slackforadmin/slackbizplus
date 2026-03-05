@@ -19,7 +19,7 @@
   * [연결된 계정](connectedapp.md)
   * [음소거된 앱](muteapp.md)
   * [앱 관리 설정](adminapp.md)
-  * [내 활동 로그](activitylog.md)
+  * [내 활동 로그(완료)](activitylog.md)
 
 * **채널**
   * [모든 채널(완료)](channel.md)
