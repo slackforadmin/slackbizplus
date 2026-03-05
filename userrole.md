@@ -10,5 +10,5 @@
 
 각 역할 행의 메뉴(···)를 클릭하면 할당된 사용자 보기, 할당된 그룹 보기, 사용자 할당, 그룹 할당 등의 작업을 수행할 수 있습니다.
 
-<img width="836" height="467" alt="image" src="https://github.com/user-attachments/assets/92b1b709-8bcd-484c-9ad1-b430b1deb74f" />
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/92b1b709-8bcd-484c-9ad1-b430b1deb74f" />
 
