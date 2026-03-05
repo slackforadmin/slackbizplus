@@ -1,5 +1,5 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 추천 앱
+워크스페이스의 추천 앱 관리 페이지입니다.<br>
 
-
+<img width="1460" height="496" alt="image" src="https://github.com/user-attachments/assets/6b92651f-bbcd-48e6-9c61-74614d9693f4" />
