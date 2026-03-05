@@ -20,7 +20,7 @@ Slack 워크스페이스의 분석(Analytics) 대시보드로, <br>
 <img width="1450" alt="image" src="https://github.com/user-attachments/assets/8384d863-e92f-40ac-9865-e545f84216db" />
 
 만약 워크스페이스 내의 모든 사용자 정보를 csv 로 추출하고 싶은 경우, [CSV 내보내기]로 추출하시면 됩니다. <br>
-추출전 열편집 항목에서 원하는 정보를 추가로 포함시킵니다. <br>
+추출전 [열편집] 항목에서 원하는 정보를 추가로 포함시킵니다. <br>
 
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/6aa014e5-d5eb-4333-a9e3-1761319b3287" />
 
