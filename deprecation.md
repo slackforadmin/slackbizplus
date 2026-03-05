@@ -3,11 +3,8 @@
 관리자가 워크스페이스에서 지원 중단되는 클래식 앱을 확인하고, 필요한 경우 현대적인 앱으로 마이그레이션할 수 있도록 돕는 화면입니다.
 
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/a7c42a9b-7bba-4098-84b6-87559c0f559a" 
-       alt="image" 
-       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
-</div>
+<img width="1430" alt="image" src="https://github.com/user-attachments/assets/3f2afdf8-1aa1-4e55-a540-9800f605e040" />
+
 
 [현재 지원중단 앱]
  - Legacy Custom Bot Deprecation <br>
