@@ -1,6 +1,7 @@
 # 계정 유형
 
-기본으로 정해진 멤버 타입(게스트/멤버/워크스페이스 관리자 등) 의 권한을 설정할 수 있습니다. 
+기본으로 정해진 멤버 타입(게스트/멤버/워크스페이스 관리자 등) 의 권한을 설정할 수 있습니다. <br>
+[Slack의 역할별 권한](https://slack.com/intl/ko-kr/help/articles/201314026-Slack%EC%9D%98-%EC%97%AD%ED%95%A0%EB%B3%84-%EA%B6%8C%ED%95%9C)
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 단, 기본으로 정해진 권한에서 추가로 부여하는 것만 가능합니다.</span>
