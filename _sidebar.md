@@ -36,7 +36,7 @@
  
 * **역할 및 권한**
   * [계정 유형(완료)](usertype.md)
-  * [역할](userrole.md)
+  * [역할(완료)](userrole.md)
   * [기능 액세스](access.md)
 
 * **보안**
