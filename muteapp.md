@@ -1,5 +1,6 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 음소거된 앱
+
+<img width="1433" alt="image" src="https://github.com/user-attachments/assets/3b3da1ea-4400-4346-a0e2-38bdc39e600e" />
 
 
