@@ -1,5 +1,6 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 연결된 계정
+Slack에 연결된 계정 관리 페이지 입니다.<br>
 
+<img width="1449" height="510" alt="image" src="https://github.com/user-attachments/assets/b5c0f377-91b3-41e6-baf6-6726e56c6f51" />
 
