@@ -17,6 +17,7 @@
 [워크스페이스 아이콘]
 <img width="1418" alt="image" src="https://github.com/user-attachments/assets/1830092c-7327-4430-a9d5-558576d4bbf8" />
 
+<img width="1041" alt="image" src="https://github.com/user-attachments/assets/bf244345-bf64-459a-88ee-89f4266998ea" />
 
 
 [상태]
