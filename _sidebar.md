@@ -17,7 +17,7 @@
   * [사용자 지정 통합 앱(완료)](userapp.md)
   * [비활성화된 앱](deactivatedapp.md)
   * [연결된 계정](connectedapp.md)
-  * [음소거된 앱](muteapp.md)
+  * [음소거된 앱(완료)](muteapp.md)
   * [앱 관리 설정(완료)](adminapp.md)
   * [내 활동 로그(완료)](activitylog.md)
 
