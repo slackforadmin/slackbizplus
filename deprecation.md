@@ -1,4 +1,32 @@
 
 # 지원 중단으로 인해 영향을 맞은 앱 및 사용자 지정 통합
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+관리자가 워크스페이스에서 지원 중단되는 클래식 앱을 확인하고, 필요한 경우 현대적인 앱으로 마이그레이션할 수 있도록 돕는 화면입니다.
+
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/a7c42a9b-7bba-4098-84b6-87559c0f559a" 
+       alt="image" 
+       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
+
+[현재 지원중단 앱]
+ - Legacy Custom Bot Deprecation
+10년 이상 사용된 구식 커스텀 봇의 지원 중단을 안내하는 화면입니다.
+지원 중단 날짜: 2025년 3월 31일
+주요 내용:
+레거시 커스텀 봇을 생성하는 Slack의 가장 오래된 기술은 2025년 3월 31일 이후로 더 이상 사용할 수 없습니다.
+대신 사용자 기능으로 최신 Slack 앱을 만들 것을 권장합니다.
+
+ - Classic Apps Deprecation
+클래식 앱은 더 이상 계속 사용할 수 없으며, Slack과 통합하는 레거시 방법입니다.
+새로운 클래식 앱을 만들 수 없고, 클래식 앱을 현대적인 Slack 앱으로 업데이트하여 서비스가 중단되지 않도록 방지해야 합니다
+지원 중단 날짜: ON HOLD (보류 상태)
+
+ - files.upload API Deprecation
+Slack 파일 업로드 API의 지원 중단을 안내하는 화면입니다.
+지원 중단 날짜: 2025년 3월 11일
+주요 내용:
+files.upload API는 2025년 3월 11일부터 지원이 종료됩니다.
+2025년 5월 16일부터 새로 만든 애플리케이션에서는 이 API를 사용할 수 없습니다.
+대신 files.getUploadURLExternal과 files.completeUploadExternal API를 조합하여 사용해야 하며, 이렇게 하면 더 큰 파일 업로드가 가능합니다
 
