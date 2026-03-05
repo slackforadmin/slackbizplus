@@ -46,7 +46,7 @@
   * [액세스 로그(완료)](accesslog.md)
 
 * **설정**
-  * [설정 및 권한](setting.md)
+  * [설정 및 권한(완료)](setting.md)
   * [사용자 지정](customization.md)
   * [청구(완료)](billing.md)
   * [지원 중단(완료)](deprecation.md)
