@@ -32,7 +32,7 @@
   * [Salesforce 조직](salesforceorg.md)
   * [Agentforce](agentforce.md)
 
-* [**Analytics**](analytics.md)
+* [**Analytics(완료)**](analytics.md)
  
 * **역할 및 권한**
   * [계정 유형(완료)](usertype.md)
