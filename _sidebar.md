@@ -43,7 +43,7 @@
   * [보안 설정](security.md)
   * [SSO 및 인증](sso.md)
   * [데이터 가져오기 및 내보내기(완료)](dataexport.md)
-  * [액세스 로그](accesslog.md)
+  * [액세스 로그(완료)](accesslog.md)
 
 * **설정**
   * [설정 및 권한](setting.md)
