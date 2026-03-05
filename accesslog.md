@@ -1,4 +1,4 @@
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 액세스 로그
+이 페이지에는 워크스페이스의 모든 멤버에 대한 계정 액세스 세부정보가 나와 있습니다. 
 
-
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/348a5c4a-1db1-43f8-a58f-2eb35b36ae50" />
