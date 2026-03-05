@@ -4,7 +4,7 @@
 Slack 워크스페이스의 보안 및 접근 권한을 관리하는 설정 화면입니다.<br>
 로그인 보안, 세션 관리, 비밀번호 정책 등 다양한 보안 옵션을 제어할 수 있습니다.
 
-<img width="1452" alt="image" src="https://github.com/user-attachments/assets/83d70e32-7ade-4a04-a641-fe5a818c09a1" />
+<img width="1450" alt="image" src="https://github.com/user-attachments/assets/0f6df48f-b53f-413d-af34-729a162049b8" />
 
 
 
