@@ -45,7 +45,7 @@
   * [데이터 가져오기 및 내보내기(완료)](dataexport.md)
   * [액세스 로그(완료)](accesslog.md)
 
-* **설정**
+* **설정(완료)**
   * [설정 및 권한(완료)](setting.md)
   * [사용자 지정(완료)](customization.md)
   * [청구(완료)](billing.md)
