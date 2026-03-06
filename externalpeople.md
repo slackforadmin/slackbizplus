@@ -1,5 +1,8 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 외부 사람들
+다이렉트 메시지 대화 및 채널에서의 모든 외부 사람들을 볼 수 있습니다.
+
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/397c33e0-6af7-4200-a40d-f658b0e61575" />
+
 
 
