@@ -6,7 +6,7 @@
   * [사용자 그룹(완료)](usergroup.md)
   * [초대(완료)](invitation.md)
 
-* **프로필**
+* **프로필(완료)**
   * [프로필 구성(완료)](profile.md)
 
 * **통합**
@@ -21,7 +21,7 @@
   * [앱 관리 설정(완료)](adminapp.md)
   * [내 활동 로그(완료)](activitylog.md)
 
-* **채널**
+* **채널(완료)**
   * [모든 채널(완료)](channel.md)
 
 * **Slack Connect**
