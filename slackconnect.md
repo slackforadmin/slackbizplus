@@ -5,5 +5,7 @@
 
 <img width="1466" alt="image" src="https://github.com/user-attachments/assets/dddff10c-a80b-46b5-9555-6edc1d98fc80" />
 
-
-
+ - 해당 화면에서 사용자 지정 설정
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/f448ed2e-9011-48c6-b8cf-bde0b8cb9051" />
+<br>
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/878eb23a-6ce8-4a81-bc55-2fd26ccfb573" />
