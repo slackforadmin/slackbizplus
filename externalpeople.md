@@ -4,5 +4,6 @@
 
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/397c33e0-6af7-4200-a40d-f658b0e61575" />
 
+각 행의 메뉴(···)를 클릭하면 채널 보기, 채널에서 제거, 연계 해제 등의 작업을 수행할 수 있습니다.
 
-
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/c68dc634-0068-4d50-8d09-006611a592ab" />
