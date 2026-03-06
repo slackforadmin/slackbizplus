@@ -3,11 +3,8 @@
 
 우측 상단의 SSO 설정을 클릭하여 SSO 설정을 끝내고 나면, 아래 화면이 보입니다. 
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/b89e3826-abae-43f5-a194-b5582e5139fd" 
-       alt="image" 
-       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
-</div>
+<img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
+
 
 조직용
 이메일과 비밀번호로 로그인하도록 허용
