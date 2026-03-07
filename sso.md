@@ -16,16 +16,15 @@
    1. SAML SSO를 통한 기본적인 사용자 인증<br>
    2. SCIM을 통한 사용자 계정 생성/삭제<br>
    3. 프로필 필드 동기화<br>
+
+   <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.<br>
+  </span>
+</div>
    
 [Slack용 SAML Single Sign-On 설정](https://slack.com/intl/ko-kr/help/articles/203772216-Slack%EC%9A%A9-SAML-Single-Sign-On-%EC%84%A4%EC%A0%95) <br>
 [사용자 맞춤형 SAML Single Sign-On](https://slack.com/intl/ko-kr/help/articles/205168057-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A7%9E%EC%B6%A4%ED%98%95-SAML-Single-Sign-On) <br>
 [ADFS Single Sign-On](https://slack.com/intl/ko-kr/help/articles/230902028-ADFS-Single-Sign-On) <br>
-
-<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.<br>
-  </span>
-</div>
-
 
 <img width="474" alt="image" src="https://github.com/user-attachments/assets/4f08fff9-e182-4bf5-9843-053e5589eb3a" />
 
