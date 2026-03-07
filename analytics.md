@@ -17,6 +17,7 @@ Slack 워크스페이스의 분석(Analytics) 대시보드로, <br>
 
 
 [멤버]<br>
+워크스페이스 내 멤버 리스트 화면입니다. <br>
 <img width="1450" alt="image" src="https://github.com/user-attachments/assets/8384d863-e92f-40ac-9865-e545f84216db" />
 
 만약 워크스페이스 내의 모든 사용자 정보를 csv 로 추출하고 싶은 경우, [CSV 내보내기]로 추출하시면 됩니다. <br>
