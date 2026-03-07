@@ -6,6 +6,14 @@
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
 
 
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/4a90e25a-bc7f-4c90-bd79-f764e214239d" />
+
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/4f08fff9-e182-4bf5-9843-053e5589eb3a" />
+
+
+
+
 조직용
 이메일과 비밀번호로 로그인하도록 허용
 멤버가 SSO 인증을 하지 않고 Email 과 패스워드로 로그인하도록 설정할 수 있습니다. 
