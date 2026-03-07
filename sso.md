@@ -5,46 +5,26 @@
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
 
+[Google 인증]<br>
+멤버가 Google 계정으로 로그인할 수 있습니다.<br>
 
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/4a90e25a-bc7f-4c90-bd79-f764e214239d" />
+
+[ID 제공업체 또는 사용자 지정 SAML]<br>
+멤버가 SSO를 통해 로그인할 수 있습니다.<br>
+
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ ID 제공업체에서 사용자 규칙 기반 액세스를 자동으로 프로비저닝
+    [가능한 기능]
+    * SAML SSO를 통한 기본적인 사용자 인증
+    * SCIM을 통한 사용자 계정 생성/삭제
+    * 프로필 필드 동기화
+    
+    * IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.
+  </span>
+</div>
 
 
 <img width="474" alt="image" src="https://github.com/user-attachments/assets/4f08fff9-e182-4bf5-9843-053e5589eb3a" />
 
 
-
-
-조직용
-이메일과 비밀번호로 로그인하도록 허용
-멤버가 SSO 인증을 하지 않고 Email 과 패스워드로 로그인하도록 설정할 수 있습니다. 
-
-기본값 : 비활성화 
-
-기본값은 비활성화 지만, 조직 주소유자와 그외 조직 소유자는 Email 과 비밀번호로 로그인할 수 있습니다. 그외 게스트나 특정 멤버를 포함시킬 수 있습니다. 
-
-https://bookstack.byounghee.synology.me:6876/link/47#bkmrk-%EB%8B%A4%EB%A7%8C-%EC%A1%B0%EC%A7%81-%EC%86%8C%EC%9C%A0%EC%9E%90%EB%8F%84-%EB%AC%B4%EC%A1%B0%EA%B1%B4-sso-%EB%A1%9C
-
-다만 조직 소유자도 무조건 SSO 로 로그인하도록 강제 할 수 있습니다.
-
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/067df41c-7c32-473e-abbb-3b7d2efaa86e" 
-       alt="image" 
-       style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
-</div>
-
-사용자 프로필 동기화
-기본값 : 비활성화
-
-사용자가 SSO 로그인을 할 때마다 IDP(SSO) 와 동기화 합니다. 이 경우 사용자가 자신의 표시이름을 변경하도록 허용 항목도 비활성화 되어야 합니다.
-
-사용자가 자신의 이메일 주소를 변경하도록 허용
-기본값 : 비활성화
-
-사용자가 자신의 이메일 주소를 변경할 수 있으나, 변경 후 IDP(SSO) 와 이메일 정보가 맞지 않는 경우 로그인 할 수 없게 됩니다.
-
-사용자가 자신의 표시 이름을 변경하도록 허용
-기본값 : 비활성화
-
-사용자가 자신의 표시 이름을 변경하도록 허용할 수 있으며, 비활성화 시에는 IDP(SSO) 상의 displayName 항목과 동기화 합니다. 활성화시에는 IDP(SSO) 와 동기화 하지 않습니다.
-
-SSO 설정 후에는 하단에 설정한 SSO 의 정보가 나옵니다. 
