@@ -53,6 +53,6 @@
   * [이 워크스페이스 정보(완료)](workspacesetting.md)
 
 * <span style="color: #7E57C2; font-weight: bold; font-size: 17px;"> SlackBot </span>
-  * [사용자 가이드](slackbotuserguide.md)
-  * [관리자 가이드](slackbotadminguide.md)
-  * [AI Exclusion](alexclustion.md)
+  * <span style="color: #7E57C2;">[사용자 가이드](slackbotuserguide.md)</span>
+  * <span style="color: #7E57C2;">[관리자 가이드](slackbotadminguide.md)</span>
+  * <span style="color: #7E57C2;">[AI Exclusion](alexclustion.md)</span>
