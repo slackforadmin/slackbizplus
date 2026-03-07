@@ -15,7 +15,7 @@
   * [워크플로](workflow.md)
   * [추천 앱(완료)](recommendedapp.md)
   * [사용자 지정 통합 앱(완료)](userapp.md)
-  * [비활성화된 앱](deactivatedapp.md)
+  * [비활성화된 앱(완료)](deactivatedapp.md)
   * [연결된 계정(완료)](connectedapp.md)
   * [음소거된 앱(완료)](muteapp.md)
   * [앱 관리 설정(완료)](adminapp.md)
