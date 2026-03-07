@@ -24,9 +24,9 @@
 * **채널(완료)**
   * [모든 채널(완료)](channel.md)
 
-* **Slack Connect**
+* **Slack Connect(완료)**
   * [연계(완료)](slackconnect.md)
-  * [초대](slackinvitation.md)
+  * [초대(완료)](slackinvitation.md)
     
 * **Salesforce**
   * [Salesforce 조직](salesforceorg.md)
