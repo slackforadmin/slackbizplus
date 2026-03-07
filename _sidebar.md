@@ -52,7 +52,7 @@
   * [지원 중단(완료)](deprecation.md)
   * [이 워크스페이스 정보(완료)](workspacesetting.md)
 
-* **<span style="color: red; font-weight: bold;">SlackBot</span>**
+* **SlackBot**
   * [사용자 가이드](slackbotuserguide.md)
   * [관리자 가이드](slackbotadminguide.md)
   * [AI Exclusion](alexclustion.md)
