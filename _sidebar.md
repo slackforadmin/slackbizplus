@@ -40,7 +40,7 @@
   * [기능 액세스](access.md)
 
 * **보안(완료)**
-  * [보안 설정(완료)](sso.md)
+  * [보안 설정(완료)](security.md)
   * [SSO 및 인증(완료)](sso.md)
   * [데이터 가져오기 및 내보내기(완료)](dataexport.md)
   * [액세스 로그(완료)](accesslog.md)
