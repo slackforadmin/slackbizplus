@@ -10,7 +10,7 @@
   * [프로필 구성(완료)](profile.md)
 
 * **통합**
-  * [설치된 앱](installedapp.md)
+  * [설치된 앱(완료)](installedapp.md)
   * [워크플로 단계, 트리거, 통합](trigger.md)
   * [워크플로](workflow.md)
   * [추천 앱](recommendedapp.md)
