@@ -1,4 +1,3 @@
-
 # 초대
 
 조직내의 멤버가 보낸 Slack Connect 초대를 확인할 수 있습니다.
@@ -18,4 +17,5 @@ Slack Connect 연결 진행 상황을 확인할 수 있습니다.
 
 <img width="1680" height="852" alt="image" src="https://github.com/user-attachments/assets/197707c2-8362-4754-9985-11fbbc9df4f7" />
 
-https://bookstack.byounghee.synology.me:6876/uploads/images/gallery/2026-01/slackbot-intro-1.gif
+[슬랙봇 안내]<br>
+<img src="https://bookstack.byounghee.synology.me:6876/uploads/images/gallery/2026-01/slackbot-intro-1.gif" width="100%" />
