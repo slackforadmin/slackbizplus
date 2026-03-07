@@ -6,8 +6,6 @@
        style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
-<img width="2940" alt="image" src="https://github.com/user-attachments/assets/6c6f8dd6-16db-480e-8c73-fcaba0229ff0" />
-
 ---
 
 <span style="font-size: 46px; font-weight: bold; color: #8E44AD;">AI</span>
