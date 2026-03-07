@@ -14,13 +14,13 @@
 멤버가 SSO를 통해 로그인할 수 있습니다.<br>
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ ID 제공업체에서 사용자 규칙 기반 액세스를 자동으로 프로비저닝
-    [가능한 기능]
-    * SAML SSO를 통한 기본적인 사용자 인증
-    * SCIM을 통한 사용자 계정 생성/삭제
-    * 프로필 필드 동기화
-    
-    * IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ ID 제공업체에서 사용자 규칙 기반 액세스를 자동으로 프로비저닝<br>
+    [가능한 기능]<br>
+    * SAML SSO를 통한 기본적인 사용자 인증<br>
+    * SCIM을 통한 사용자 계정 생성/삭제<br>
+    * 프로필 필드 동기화<br>
+    <br>
+    * IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.<br>
   </span>
 </div>
 
