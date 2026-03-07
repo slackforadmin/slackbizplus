@@ -28,9 +28,9 @@
   * [연계(완료)](slackconnect.md)
   * [초대(완료)](slackinvitation.md)
     
-* **Salesforce**
-  * [Salesforce 조직](salesforceorg.md)
-  * [Agentforce](agentforce.md)
+* **Salesforce(완료)**
+  * [Salesforce 조직(완료)](salesforceorg.md)
+  * [Agentforce(완료)](agentforce.md)
 
 * [**Analytics(완료)**](analytics.md)
  
