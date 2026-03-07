@@ -6,21 +6,20 @@
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
 
 [Google 인증]<br>
-멤버가 Google 계정으로 로그인할 수 있습니다.<br>
+ - 멤버가 Google 계정으로 로그인할 수 있습니다.<br>
 
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/4a90e25a-bc7f-4c90-bd79-f764e214239d" />
 
 [ID 제공업체 또는 사용자 지정 SAML]<br>
-멤버가 SSO를 통해 로그인할 수 있습니다.<br>
+ - 멤버가 SSO를 통해 로그인할 수 있습니다.<br>
+ - ID 제공업체에서 사용자 규칙 기반 액세스를 자동으로 프로비저닝<br>
+   [가능한 기능]<br>
+   1. SAML SSO를 통한 기본적인 사용자 인증<br>
+   2. SCIM을 통한 사용자 계정 생성/삭제<br>
+   3. 프로필 필드 동기화<br>
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ ID 제공업체에서 사용자 규칙 기반 액세스를 자동으로 프로비저닝<br>
-    [가능한 기능]<br>
-    * SAML SSO를 통한 기본적인 사용자 인증<br>
-    * SCIM을 통한 사용자 계정 생성/삭제<br>
-    * 프로필 필드 동기화<br>
-    <br>
-    * IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.<br>
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ IDP 그룹을 워크스페이스/채널에 자동으로 연결하는 기능은 Enterprise+ 플랜에서만 가능합니다.<br>
   </span>
 </div>
 
