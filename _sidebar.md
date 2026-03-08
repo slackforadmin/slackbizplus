@@ -11,7 +11,7 @@
 
 * **통합**
   * [설치된 앱(완료)](installedapp.md)
-  * [워크플로 단계, 트리거, 통합](trigger.md)
+  * [워크플로 단계, 트리거, 통합(완료)](trigger.md)
   * [워크플로](workflow.md)
   * [추천 앱(완료)](recommendedapp.md)
   * [사용자 지정 통합 앱(완료)](userapp.md)
