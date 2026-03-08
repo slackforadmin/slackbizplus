@@ -184,7 +184,8 @@ Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이
 
 캔버스 사용시 초안을 작성하거나, 컨텐츠 번역, 교정, 어조 변경 등을 할 수 있습니다. Off 시 사용할 수 없습니다. 
 
-<img width="1826" alt="image" src="https://github.com/user-attachments/assets/3c97b0a3-d685-4440-bb75-8729a1d5de61" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/d7c7ed4a-b5d8-423b-ac1d-0818b61e058c" />
+
 
 
 
