@@ -199,3 +199,9 @@ Slack 내 메시지들에 대한 번역 기능입니다. Off 시에는 표시되
 
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/f4c3e534-cb93-4995-a507-b8acc7719201" />
 
+<br>
+
+<span style="font-size: 22px; font-weight: bold;">Salesforce AI CSV 연락처 매퍼</span>
+
+CSV 파일로 연락처(Contact)나 회사(Account) 정보를 Slack CRM에 업로드할 때, AI가 자동으로 CSV의 헤더와 데이터를 분석해서 Salesforce 필드에 최적으로 매핑해주는 기능입니다.
+
