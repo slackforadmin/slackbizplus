@@ -168,7 +168,7 @@ Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이
 
 자연어로 워크플로를 구성할 수 있는 기능입니다. Off 시 해당 화면이 보이지 않습니다.
 
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/eb5474e5-e7b9-4668-acdf-46082f0243b0" />
+<img width="931" alt="image" src="https://github.com/user-attachments/assets/7df52be6-5004-40e8-bcbf-fe17d7988009" />
 
 
 
@@ -176,7 +176,8 @@ Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이
 
 워크플로 단계중 AI 항목으로 제공되는 것이 있습니다. Off 시 사용할 수 없습니다.
 
-<img width="1614" alt="image" src="https://github.com/user-attachments/assets/00f43f76-f2f3-494f-acb6-3b83418952f9" />
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/e9e1531d-b208-4f31-9c69-dc1a30b3de12" />
+
 
 
 
