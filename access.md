@@ -18,7 +18,7 @@
 
 <span style="font-size: 22px; font-weight: bold;">피드백</span>
 
-AI 검색 기능이나 슬랙봇등을 사용하실때, 검색 결과가 답변내용이 만족스럽지 않은 경우에 대해서 슬랙쪽으로 피드백을 보낼 수 있는 기능입니다.
+AI 검색 기능이나 Slackbot등을 사용하실때, 검색 결과가 답변내용이 만족스럽지 않은 경우에 대해서 슬랙쪽으로 피드백을 보낼 수 있는 기능입니다.
 
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/fbc33b13-0a55-444f-9557-aa9c4ca7277b" /> <br>
 
@@ -147,9 +147,13 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
 
 <span style="font-size: 22px; font-weight: bold;">Slackbot</span>
 
-Personal AI assitant 인 슬랙봇에 대한 메뉴입니다.<br> 슬랙봇 아이콘은 검색바 우측에 아이콘으로 확인할 수 있으며, Off 시에는 표시되지 않습니다.
+Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이콘은 검색바 우측에 아이콘으로 확인할 수 있으며, Off 시에는 표시되지 않습니다.
 
 <img height="65" alt="image" src="https://github.com/user-attachments/assets/c2795d5c-bb00-4134-9295-ec0c40225961" />
+
+
+ - Slackbot이 할 수 있는 작업을 설정하거나 Slackbot 검색 결과에 파일 포함여부를 선택할 수 있습니다. 
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/c29a74c3-0bc4-40bf-9256-b8b19581e593" />
 
 
 <span style="font-size: 22px; font-weight: bold;">번역</span>
