@@ -101,9 +101,10 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
 
 <span style="font-size: 22px; font-weight: bold;">AI 허들 노트</span>
 
-허들 사용시 해당 허들에 대한 AI 요약 및 대화록을 생성하는 기능입니다. off 하는 경우 아래 버튼이 보이지 않습니다.
+허들 사용시 해당 허들에 대한 AI 요약 및 대화록을 생성하는 기능입니다. Off 하는 경우 아래 버튼이 보이지 않습니다.
 
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/0b5bd71e-58f8-4be8-bbf5-feed5146fbc0" />
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/6333f678-a3d7-4bc9-b48d-1927fa9d63aa" />
+
 
 
 <span style="font-size: 22px; font-weight: bold;">자동파일요약</span>
