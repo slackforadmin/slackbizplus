@@ -20,6 +20,8 @@
 
 AI 검색 기능이나 슬랙봇등을 사용하실때, 검색 결과가 답변내용이 만족스럽지 않은 경우에 대해서 슬랙쪽으로 피드백을 보낼 수 있는 기능입니다.
 
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/fbc33b13-0a55-444f-9557-aa9c4ca7277b" /> <br>
+
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/0507023f-6734-491e-984b-ec4d4e553cb0" />
 
 <span style="font-size: 22px; font-weight: bold;">제안된 채널 섹션</span>
