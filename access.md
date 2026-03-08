@@ -18,28 +18,9 @@
 
 <span style="font-size: 22px; font-weight: bold;">피드백</span>
 
-AI 검색 기능이나 슬랙봇등을 사용하실때, 검색 결과가 답변내용이 만족스럽지 않은 경우에 대해서 슬랙쪽으로 피드백을 보낼 수 있는 기능으로 on 되어있으면 상세 피드백을 슬랙과 공유할 수 있고 off 하면 기본 피드백만 공유할 수 있습니다.
+AI 검색 기능이나 슬랙봇등을 사용하실때, 검색 결과가 답변내용이 만족스럽지 않은 경우에 대해서 슬랙쪽으로 피드백을 보낼 수 있는 기능입니다.
 
-
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
-  <thead>
-    <tr style="background-color: #333; color: white; text-align: center; font-weight: bold;">
-      <th style="padding: 10px; border: 1px solid #444;">On</th>
-      <th style="padding: 10px; border: 1px solid #444;">Off</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
-        <img src="https://github.com/user-attachments/assets/1c65ec26-8b58-407b-8804-fc37fd77f76a" alt="On 상태" style="width: 100%; height: auto; border-radius: 4px; display: block;">
-      </td>
-      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
-        <img src="https://github.com/user-attachments/assets/1c65ec26-8b58-407b-8804-fc37fd77f76a" alt="Off 상태" style="width: 100%; height: auto; border-radius: 4px; display: block;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/0507023f-6734-491e-984b-ec4d4e553cb0" />
 
 <span style="font-size: 22px; font-weight: bold;">제안된 채널 섹션</span>
 
