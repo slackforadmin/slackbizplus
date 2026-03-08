@@ -75,7 +75,7 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
  - 우측 상단의 [설정]아이콘 버튼을 통해 요약 전달받을 채널을 선택할 수 있습니다. <br>
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/1539c232-0d2f-4653-926e-1e384ade45d7" />
 
- - 만약 on 되어있는데도 사이드바에 없는 경우 [환경 설정] -> [홈] -> [사이드바에 항상 표시] 설정을 확인 부탁드립니다. <br>
+ - 만약 on 되어있는데도 사이드바에 없는 경우, [환경 설정] -> [홈] -> [사이드바에 항상 표시] 설정을 확인 부탁드립니다. <br>
 <img width="776" alt="image" src="https://github.com/user-attachments/assets/2d9bff53-25d8-49cb-a32e-e43f893c8c99" />
 
 
