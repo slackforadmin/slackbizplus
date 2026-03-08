@@ -1,2 +1,9 @@
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 사용자 가이드
+Slackbot에 오신 것을 환영합니다.
+
+---
+참조 문서<br>
+[Slackbot 사용 방법](https://slack.com/intl/ko-kr/help/articles/202026038-Slackbot-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)<br>
+[Blog](https://slack.com/intl/ko-kr/blog/news/slackbot-context-aware-ai-agent-for-work)<br>
+[Blog]()<br>
+
