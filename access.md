@@ -107,7 +107,7 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
  - Off : 관리자화면 [역할 및 권한] -> [기능 액세스] -> [AI] -> [AI 허들 노트]의 [편집]버튼 -> [아무도 없음]선택 <br>
 <img width="809" alt="image" src="https://github.com/user-attachments/assets/6333f678-a3d7-4bc9-b48d-1927fa9d63aa" />
 
-
+<br>
 
 <span style="font-size: 22px; font-weight: bold;">자동파일요약</span>
 
