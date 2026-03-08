@@ -69,9 +69,15 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
 
 <span style="font-size: 22px; font-weight: bold;">한눈에 정리</span>
 
-지정한 채널들에 대해서 하루에 한번씩 요약을 전달받는 기능으로 사이드바의 상단에 위치해 있습니다. 만약 on 되어있는데도 사이드바에 없는 경우 "환경 설정 --> 홈 --> 사이드바에 항상 표시:" 설정을 확인 부탁드립니다.
+지정한 채널들에 대해서 하루에 한번씩 요약을 전달받는 기능으로 사이드바의 상단에 위치해 있습니다. <br>
+<img width="1339" alt="image" src="https://github.com/user-attachments/assets/5ceaee17-481a-4ff8-9990-89dd21515d20" />
 
-<img width="490" alt="image" src="https://github.com/user-attachments/assets/f160a583-051c-4297-9361-0f11d3042bb1" />
+ - 우측 상단의 [설정]아이콘 버튼을 통해 요약 전달받을 채널을 선택할 수 있습니다. <br>
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/1539c232-0d2f-4653-926e-1e384ade45d7" />
+
+ - 만약 on 되어있는데도 사이드바에 없는 경우 [환경 설정] -> [홈] -> [사이드바에 항상 표시] 설정을 확인 부탁드립니다. <br>
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/2d9bff53-25d8-49cb-a32e-e43f893c8c99" />
+
 
 
 <span style="font-size: 22px; font-weight: bold;">AI 허들 노트</span>
