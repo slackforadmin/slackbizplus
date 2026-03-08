@@ -117,7 +117,7 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
   <tbody>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
-        <img src="ttps://github.com/user-attachments/assets/c3176f47-26d3-4db8-b63e-ebecbe72f0f0" style="width: 100%; height: auto; border-radius: 4px; display: block;">
+        <img src="https://github.com/user-attachments/assets/5a28b9a9-5cad-4422-8102-f93a4ce04bc3" style="width: 100%; height: auto; border-radius: 4px; display: block;">
       </td>
       <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
         <img src="https://github.com/user-attachments/assets/fe12e668-15fd-4aff-bf8b-c8ab84ed4fa1" style="width: 100%; height: auto; border-radius: 4px; display: block;">
