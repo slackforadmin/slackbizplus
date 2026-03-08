@@ -111,11 +111,20 @@ Salesforce와 연동하면 Salesforce 채널을 만들 수 있는데, 해당 채
 
 <span style="font-size: 22px; font-weight: bold;">자동파일요약</span>
 
-슬랙에 pdf 등의 파일 업로드시에 해당 파일의 내용을 자동으로 요약하는 기능입니다. off 하면 생성되지 않습니다.
+슬랙에 pdf 등의 파일 업로드시에 해당 파일의 내용을 자동으로 요약하는 기능입니다. Off 하면 생성되지 않습니다.
 
-<img width="1014" alt="image" src="https://github.com/user-attachments/assets/9ba166ed-c3cd-4ab6-bb5c-4e5a003b8566" />
-
-
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
+        <img src="ttps://github.com/user-attachments/assets/c3176f47-26d3-4db8-b63e-ebecbe72f0f0" style="width: 100%; height: auto; border-radius: 4px; display: block;">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
+        <img src="https://github.com/user-attachments/assets/fe12e668-15fd-4aff-bf8b-c8ab84ed4fa1" style="width: 100%; height: auto; border-radius: 4px; display: block;">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
