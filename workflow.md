@@ -1,5 +1,8 @@
 
-# Biz+ 조직관리화면 Walkthrough
-slack biz+ 플랜 조직관리화면의 각 항목에 대한 상세 설명입니다.
+# 워크플로
+워크스페이스내 Slack 워크플로 관리화면입니다.
+
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/b518611a-9d8f-4ece-8001-62e586738bdf" />
+
 
 
