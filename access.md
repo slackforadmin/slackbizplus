@@ -174,7 +174,7 @@ Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이
 
 <span style="font-size: 22px; font-weight: bold;">AI 워크플로 단계</span>
 
-워크플로 단계중 AI 항목으로 제공되는 것이 있습니다. Off 시 사용할 수 없습니다.
+워크플로 단계중 AI 항목으로 제공되는 기능입니다. Off 시 사용할 수 없습니다.
 
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/e9e1531d-b208-4f31-9c69-dc1a30b3de12" />
 
