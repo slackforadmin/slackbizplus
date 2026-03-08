@@ -161,7 +161,7 @@ Personal AI assitant 인 Slackbot에 대한 메뉴입니다.<br> Slackbot 아이
 
 <span style="font-size: 22px; font-weight: bold;">번역</span>
 
-슬랙내 메시지들에 대한 번역 기능입니다. Off 시에는 표시되지 않습니다.
+Slack 내 메시지들에 대한 번역 기능입니다. Off 시에는 표시되지 않습니다.
 
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/a04d3414-b5a0-41eb-bfd5-a85d88a20997" />
 
