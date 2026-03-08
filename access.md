@@ -197,7 +197,18 @@ Slack 내 메시지들에 대한 번역 기능입니다. Off 시에는 표시되
 
 각 메시지별로 상세한 설명을 해주는 기능입니다. Off 시 사용할 수 없습니다.
 
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/f4c3e534-cb93-4995-a507-b8acc7719201" />
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
+        <img src="https://github.com/user-attachments/assets/f4c3e534-cb93-4995-a507-b8acc7719201" style="width: 100%; height: auto; border-radius: 4px; display: block;">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top; background-color: #fcfcfc;">
+        <img src="https://github.com/user-attachments/assets/e91d6b6b-bb68-403c-aae2-c3a6211ffa0d" style="width: 100%; height: auto; border-radius: 4px; display: block;">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
