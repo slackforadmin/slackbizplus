@@ -10,9 +10,9 @@
 
 <span style="font-size: 46px; font-weight: bold; color: #8E44AD;">AI</span>
 
-[Slack AI 기능에 대한 액세스 관리](https://slack.com/intl/ko-kr/help/articles/28244420881555-Slack-AI-%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%A1%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC#h_01JWS9YZ1SRVMKX0NPPB2VEMVS) <br>
-
 각 항목에 대한 상세 설명 입니다.
+
+[Slack AI 기능에 대한 액세스 관리](https://slack.com/intl/ko-kr/help/articles/28244420881555-Slack-AI-%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%A1%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC#h_01JWS9YZ1SRVMKX0NPPB2VEMVS) <br>
 
 # 일반
 
