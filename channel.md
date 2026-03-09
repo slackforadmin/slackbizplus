@@ -25,6 +25,13 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
 * 채널 보관 : 채널을 보관 또는 보관 취소 처리할 수 있습니다.<br>
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 채널 보관과 삭제의 차이<br>
+    <br>
+        - 데이터 검색 시, 보관된 채널에서는 확인이 가능하기에 업무용 채널이라면 보관을 추천!!
+  </span>
+</div>
+
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">
     ⚠️ 채널 보관 취소<br>
     <br>
