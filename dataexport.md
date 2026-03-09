@@ -32,7 +32,8 @@ Slack 워크스페이스의 데이터 가져오기/내보내기 관리 화면입
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A;">⚠️ <b>비공개/DM까지 포함하여 데이터 내보내기</b>를 하기위해서 또는 <b>채널 관리에서 비공개채널을 확인</b>하기 위해서는 아래의 절차가 필요합니다. <br>
-  - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 및 채널 관리 에서 비공개 채널 확인 가능
+   <br>
+  - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 및 채널 관리에서 비공개 채널 확인 가능
   </span>
 </div>
 
