@@ -27,7 +27,7 @@ Slack 워크스페이스의 데이터 가져오기/내보내기 관리 화면입
 
 ---
 
- # 데이터 내보내기 요청방법
+ # 데이터 내보내기 요청
 워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다. 신청서에는 워크스페이스 주 소유자의 승인이 필요하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다. 
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
