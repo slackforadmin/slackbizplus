@@ -69,9 +69,12 @@
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">🚀 사용자 경험 및 기능</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
-      <p style="margin: 4px 0;">• GIF 첨부 및 방해 금지 설정</p>
-      <p style="margin: 4px 0;">• 참여/퇴장 메시지 및 모바일 사용량</p>
-      <p style="margin: 4px 0;">• 캔버스 및 워크플로 내보내기</p>
+      <p style="margin: 4px 0;">• GIF 첨부</p>
+      <p style="margin: 4px 0;">• 방해 금지</p>
+      <p style="margin: 4px 0;">• 채널 참여 및 나가기 메시지</p>
+      <p style="margin: 4px 0;">• 모바일 사용량</p>
+      <p style="margin: 4px 0;">• 캔버스</p>
+      <p style="margin: 4px 0;">• 워크플로 내보내기</p>
     </div>
     <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
