@@ -39,6 +39,8 @@
   </div>
 </div>
 
+---
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
