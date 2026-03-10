@@ -82,8 +82,9 @@
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">📦 데이터 보관 정책</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
-      <p style="margin: 4px 0;">• 메시지 및 파일 내역 보관</p>
-      <p style="margin: 4px 0;">• 캔버스 및 리스트 내역 관리</p>
+      <p style="margin: 4px 0;">• 메시지 내역</p>
+      <p style="margin: 4px 0;">• 파일 내역</p>
+      <p style="margin: 4px 0;">• 캔버스 및 리스트 내역</p>
     </div>
     <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
