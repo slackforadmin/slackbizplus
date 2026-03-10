@@ -2,23 +2,7 @@
 # 설정 및 권한
 해당 워크스페이스 전체 설정 및 기본 설정 가능한 화면입니다.
 
-<div style="padding: 24px; background-color: #F3E5F5; border: 1px solid #F3E5F5; border-radius: 12px; font-family: sans-serif; max-width: 600px; margin: 20px 0;">
-  <div style="display: flex; align-items: center; margin-bottom: 12px;">
-    <span style="font-size: 24px; margin-right: 10px;">⚙️</span>
-    <strong style="font-size: 18px; color: #333;">워크스페이스 설정 가이드</strong>
-  </div>
-  
-  <p style="font-size: 15px; color: #666; line-height: 1.5; margin: 0 0 20px 0;">
-    처음 방문하셨나요? 팀원들과 협업을 시작하기 전에<br>
-    우리 조직만의 <strong>기본 환경 설정</strong>을 먼저 완료해 주세요.
-  </p>
-
-  <a href="#settingguide" style="display: inline-block; background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 14px;">
-    지금 설정하러 가기 →
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px 28px; background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; font-family: 'Pretendard', sans-serif; max-width: 800px; margin: 20px 0; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px 28px; background-color: #F3E5F5; border: 1px solid #F3E5F5; border-radius: 12px; font-family: 'Pretendard', sans-serif; max-width: 800px; margin: 20px 0; gap: 20px;">
   
   <div style="display: flex; align-items: center; gap: 16px;">
     <span style="font-size: 28px;">⚙️</span>
