@@ -3,7 +3,7 @@
 해당 워크스페이스 전체 설정 및 기본 설정 가능한 화면입니다.
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
     <h4 style="margin-top:0;">📢 주목!!</h4>
     <p style="font-size: 0.9em;">처음이시라면 <strong>기본 설정을</strong> 지정해보세요.</p>
     <a href="#channel-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
