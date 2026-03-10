@@ -18,6 +18,22 @@
   </a>
 </div>
 
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px 28px; background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; font-family: 'Pretendard', sans-serif; max-width: 800px; margin: 20px 0; gap: 20px;">
+  
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <span style="font-size: 28px;">⚙️</span>
+    <div>
+      <strong style="display: block; font-size: 16px; color: #333; margin-bottom: 2px;">처음이신가요? 기본 설정을 확인해 보세요.</strong>
+      <p style="margin: 0; font-size: 14px; color: #666;">워크스페이스의 원활한 이용을 위해 초기 세팅이 필요합니다.</p>
+    </div>
+  </div>
+
+  <a href="#settingguide" style="white-space: nowrap; background-color: #8E44AD; color: #ffffff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: background 0.2s;">
+    설정하러 가기 →
+  </a>
+
+</div>
+
 
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/bde38b28-06d6-422a-a6f6-efc08655d1e2" />
 
