@@ -4,7 +4,8 @@
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
-    <h4 style="margin-top:0;">📢 주목!! 처음이시라면 기본 설정을 지정해보세요.<br>
+    <h4 style="margin-top:0;">📢 주목!! 처음이시라면 기본 설정을 지정해보세요.
+      <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;"></span>
     <a href="#settingguide" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
   </div>
 </div>
