@@ -39,7 +39,7 @@
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
   
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">⚙️ 워크스페이스 기본 설정</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
       <p style="margin: 4px 0;">• 워크스페이스 이름 및 URL</p>
@@ -49,7 +49,7 @@
     <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">👥 멤버 관리 및 접근 권한</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
       <p style="margin: 4px 0;">• 이메일 도메인 참여 허용</p>
@@ -64,7 +64,7 @@
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
   
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">🚀 사용자 경험 및 기능</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
       <p style="margin: 4px 0;">• GIF 첨부 및 방해 금지 설정</p>
@@ -74,7 +74,7 @@
     <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
-  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">📦 데이터 보관 정책</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
       <p style="margin: 4px 0;">• 메시지 및 파일 내역 보관</p>
