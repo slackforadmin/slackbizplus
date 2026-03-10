@@ -1,7 +1,7 @@
 # 관리자 기본 설정 방법
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">:gear: 워크스페이스 기본 설정</h4>
     <p style="font-size: 0.9em;">워크스페이스 이름 및 URL</p>
    <p style="font-size: 0.9em;">워크스페이스 아이콘</p>
@@ -20,7 +20,7 @@
   </div>
 </div>
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">:rocket: 사용자 경험 및 기능</h4>
     <p style="font-size: 0.9em;">GIF 첨부</p>
     <p style="font-size: 0.9em;">방해 금지</p>
@@ -31,7 +31,7 @@
     <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
   </div>
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
-    <h4 style="margin-top:0;">:archive: 데이터 보관 정책</h4>
+    <h4 style="margin-top:0;">:package: 데이터 보관 정책</h4>
     <p style="font-size: 0.9em;">메시지 내역</p>
     <p style="font-size: 0.9em;">파일 내역</p>
     <p style="font-size: 0.9em;">캔버스 및 리스트 내역</p>
