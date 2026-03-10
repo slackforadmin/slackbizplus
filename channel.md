@@ -50,3 +50,19 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
         - 채널을 삭제하는 경우엔 영구 삭제 처리 되며 복원 할 수 없습니다. (데이터 내보내기시에도 나오지 않습니다.)
   </span>
 </div>
+
+---
+
+ # 데이터 내보내기 요청
+워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br> 
+신청서에는 <strong>워크스페이스 주 소유자의 승인이 필요</strong>하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다.
+
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A;">⚠️ <b>비공개/DM까지 포함하여 데이터 내보내기</b>를 하기위해서 또는 <b>채널 관리에서 비공개채널을 확인</b>하기 위해서는 아래의 절차가 필요합니다. <br>
+   <br>
+  - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 및 채널 관리에서 비공개 채널 확인 가능
+  </span>
+</div>
+
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/bcc19fb5-e734-4e69-8235-e3e3cda7407f" />
+
