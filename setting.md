@@ -155,7 +155,7 @@ Analytics 페이지를 볼 수 있는 사람을 선택합니다.<br>
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">🛡️ 보안 1순위</h4>
     <p style="font-size: 0.9em;"><strong>승인된 이메일 도메인</strong>을 설정하여 회사 구성원만 가입하도록 제한하세요.</p>
-    <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+    <a href="#domain-setting" style="color: #F3E5F5; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
   </div>
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">👥 초대 권한</h4>
