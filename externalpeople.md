@@ -1,6 +1,6 @@
 
 # 외부 사람들
-외부사람들은 Slack Connect를 사용하여 Slack 채널 또는 다이렉트 메시지(DM)로 연결된 외부 조직 인원으로,<br>
+외부사람들은 Slack Connect를 사용하여 Slack 채널 또는 다이렉트 메시지(DM)로 연결된 외부 조직 인원으로,
 다이렉트 메시지 대화 및 채널에서의 모든 외부 사람들을 해당 화면에서 볼 수 있습니다.
 
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/397c33e0-6af7-4200-a40d-f658b0e61575" />
