@@ -52,10 +52,12 @@
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">👥 멤버 관리 및 접근 권한</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
-      <p style="margin: 4px 0;">• 이메일 도메인 참여 허용</p>
-      <p style="margin: 4px 0;">• 기본 채널 및 새 사용자 알림</p>
-      <p style="margin: 4px 0;">• 이름 및 이메일 표시 지침</p>
-      <p style="margin: 4px 0;">• Slack Connect 프로필</p>
+      <p style="margin: 4px 0;">• 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용</p>
+      <p style="margin: 4px 0;">• 기본 채널</p>
+      <p style="margin: 4px 0;">• 새 사용자 알림</p>
+      <p style="margin: 4px 0;">• 이름 지침 표시</p>
+      <p style="margin: 4px 0;">• 이메일 표시</p>
+      <p style="margin: 4px 0;">• Slack Connect 멤버 프로필</p>
     </div>
     <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
