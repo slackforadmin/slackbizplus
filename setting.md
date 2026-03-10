@@ -4,8 +4,8 @@
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
-    <h5 style="margin-top:0;">📢 주목!!</h5>
-    <p style="font-size: 1.0em;">처음이시라면 <strong>기본 설정을</strong> 지정해보세요.</p>
+    <h4 style="margin-top:0;">📢 주목!!</h4>
+    <p style="font-size: 1.1em;">처음이시라면 <strong>기본 설정을</strong> 지정해보세요.</p>
     <a href="#channel-setting" style="color: #0366d6; font-size: 1.0em; font-weight: bold;">설정하러 가기 →</a>
   </div>
 </div>
