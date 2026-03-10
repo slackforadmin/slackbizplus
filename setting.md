@@ -10,6 +10,30 @@
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin: 20px 0; font-family: 'Pretendard', sans-serif;">
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); border: 1px solid rgba(0,0,0,0.05); padding: 24px; border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); position: relative; overflow: hidden;">
+    
+    <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: rgba(255,255,255,0.3); border-radius: 50%;"></div>
+
+    <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px;">
+      <span style="font-size: 24px;">🚀</span>
+      <h5 style="margin: 0; font-size: 1.25rem; color: #333; font-weight: 700;">반갑습니다! 처음이신가요?</h5>
+    </div>
+
+    <p style="font-size: 1rem; color: #555; line-height: 1.6; margin: 0 0 20px 0;">
+      원활한 협업을 위해 워크스페이스의 <strong>기본 환경 설정</strong>을 먼저 완료해 보세요.
+    </p>
+
+    <a href="#settingguide" style="display: inline-flex; align-items: center; background: #4f46e5; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.95rem; transition: all 0.2s ease;">
+      기본 설정 시작하기
+      <svg style="margin-left: 8px; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2;" viewBox="0 0 24 24">
+        <path d="M5 12h14M12 5l7 7-7 7"></path>
+      </svg>
+    </a>
+  </div>
+</div>
+
+
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/bde38b28-06d6-422a-a6f6-efc08655d1e2" />
 
 [설정]<br>
