@@ -1,5 +1,44 @@
 # 관리자 기본 설정 방법
 
+<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
+    <h4 style="margin-top:0;">:gear: 워크스페이스 기본 설정</h4>
+    <p style="font-size: 0.9em;">워크스페이스 이름 및 URL</p>
+   <p style="font-size: 0.9em;">워크스페이스 아이콘</p>
+   <p style="font-size: 0.9em;">워크스페이스 언어</p>
+    <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">👥 멤버 관리 및 접근 권한</h4>
+    <p style="font-size: 0.9em;">승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용</p>
+    <p style="font-size: 0.9em;">기본 채널</p>
+    <p style="font-size: 0.9em;">새 사용자 알림</p>
+    <p style="font-size: 0.9em;">이름 지침 표시</p>
+    <p style="font-size: 0.9em;">이메일 표시</p>
+    <p style="font-size: 0.9em;">Slack Connect 멤버 프로필</p>
+    <a href="#invite-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+</div>
+<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
+    <h4 style="margin-top:0;">:rocket: 사용자 경험 및 기능</h4>
+    <p style="font-size: 0.9em;">GIF 첨부</p>
+    <p style="font-size: 0.9em;">방해 금지</p>
+    <p style="font-size: 0.9em;">채널 참여 및 나가기 메시지</p>
+    <p style="font-size: 0.9em;">모바일 사용량</p>
+    <p style="font-size: 0.9em;">캔버스</p>
+    <p style="font-size: 0.9em;">워크플로 내보내기</p>
+    <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">:archive: 데이터 보관 정책</h4>
+    <p style="font-size: 0.9em;">메시지 내역</p>
+    <p style="font-size: 0.9em;">파일 내역</p>
+    <p style="font-size: 0.9em;">캔버스 및 리스트 내역</p>
+    <a href="#invite-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+</div>
+
 
  - 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용
 이메일 초대와 함께 이메일 주소가 승인된 도메인과 일치하는 경우에도 사람들은 워크스페이스에 안전하게 참여할 수 있습니다. 승인된 도메인을 가진 사람이 Slack에 로그인할 때 이메일 주소를 확인하고 워크스페이스에 참여할 수 있는 링크가 생성됩니다.
