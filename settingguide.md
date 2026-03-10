@@ -9,7 +9,7 @@
       <p style="margin: 4px 0;">• 워크스페이스 아이콘</p>
       <p style="margin: 4px 0;">• 워크스페이스 언어</p>
     </div>
-    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="#basicsetup" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -55,7 +55,7 @@
 </div>
 
 
-# 워크스페이스 기본 설정
+<h1 id="basicsetup" style="padding-top: 20px; margin-top: 40px; border-top: 1px solid #eee;"># 워크스페이스 기본 설정</h1>
 
  - 워크스페이스 아이콘
 
