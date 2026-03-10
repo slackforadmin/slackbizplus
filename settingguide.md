@@ -39,6 +39,54 @@
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h4 style="margin: 0 0 15px 0; color: #1a1f23;">⚙️ 워크스페이스 기본 설정</h4>
+    <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
+      <p style="margin: 4px 0;">• 워크스페이스 이름 및 URL</p>
+      <p style="margin: 4px 0;">• 워크스페이스 아이콘</p>
+      <p style="margin: 4px 0;">• 워크스페이스 언어</p>
+    </div>
+    <a href="#domain-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h4 style="margin: 0 0 15px 0; color: #1a1f23;">👥 멤버 관리 및 접근 권한</h4>
+    <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
+      <p style="margin: 4px 0;">• 이메일 도메인 참여 허용</p>
+      <p style="margin: 4px 0;">• 기본 채널 및 새 사용자 알림</p>
+      <p style="margin: 4px 0;">• 이름 및 이메일 표시 지침</p>
+      <p style="margin: 4px 0;">• Slack Connect 프로필</p>
+    </div>
+    <a href="#invite-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+  </div>
+  
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h4 style="margin: 0 0 15px 0; color: #1a1f23;">🚀 사용자 경험 및 기능</h4>
+    <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
+      <p style="margin: 4px 0;">• GIF 첨부 및 방해 금지 설정</p>
+      <p style="margin: 4px 0;">• 참여/퇴장 메시지 및 모바일 사용량</p>
+      <p style="margin: 4px 0;">• 캔버스 및 워크플로 내보내기</p>
+    </div>
+    <a href="#domain-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h4 style="margin: 0 0 15px 0; color: #1a1f23;">📦 데이터 보관 정책</h4>
+    <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
+      <p style="margin: 4px 0;">• 메시지 및 파일 내역 보관</p>
+      <p style="margin: 4px 0;">• 캔버스 및 리스트 내역 관리</p>
+    </div>
+    <a href="#invite-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+  </div>
+
+</div>
+
 
  - 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용
 이메일 초대와 함께 이메일 주소가 승인된 도메인과 일치하는 경우에도 사람들은 워크스페이스에 안전하게 참여할 수 있습니다. 승인된 도메인을 가진 사람이 Slack에 로그인할 때 이메일 주소를 확인하고 워크스페이스에 참여할 수 있는 링크가 생성됩니다.
