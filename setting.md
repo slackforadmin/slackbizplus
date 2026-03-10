@@ -2,6 +2,14 @@
 # 설정 및 권한
 해당 워크스페이스 전체 설정 및 기본 설정 가능한 화면입니다.
 
+<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">📢 기본 설정 <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;">필수 확인</span></h4>
+    <p style="font-size: 0.9em;">주목!! 처음이시라면 <strong>기본 설정 지정</strong>을 추천드립니다. </p>
+    <a href="#settingguide" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+</div>
+
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/bde38b28-06d6-422a-a6f6-efc08655d1e2" />
 
 [설정]<br>
