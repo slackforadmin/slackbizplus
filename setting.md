@@ -7,8 +7,8 @@
   <div style="display: flex; align-items: center; gap: 16px;">
     <span style="font-size: 28px;">⚙️</span>
     <div>
-      <strong style="display: block; font-size: 16px; color: #333; margin-bottom: 2px;">처음이신가요? 기본 설정을 확인해 보세요.</strong>
-      <p style="margin: 0; font-size: 14px; color: #666;">워크스페이스의 원활한 이용을 위해 초기 세팅이 필요합니다.</p>
+      <strong style="display: block; font-size: 18px; color: #333; margin-bottom: 2px;">처음이신가요? 기본 설정을 확인해 보세요.</strong>
+      <p style="margin: 0; font-size: 16px; color: #666;">워크스페이스의 원활한 이용을 위해 초기 세팅이 필요합니다.</p>
     </div>
   </div>
 
