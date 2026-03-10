@@ -7,3 +7,11 @@
        alt="image" 
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
+
+---
+
+# 관리자화면으로 이동방법
+
+사이드바의 [설정 아이큰]클릭 -> [워크스페이스 설정]클릭
+
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/cad18e87-6aff-4f3e-bebd-32243aacb777" />
