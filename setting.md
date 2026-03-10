@@ -152,10 +152,10 @@ Analytics 페이지를 볼 수 있는 사람을 선택합니다.<br>
 [고객지원센터에서 자세히 알아보세요.](https://slack.com/intl/ko-kr/help/articles/16749280664595-Slack-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EB%B9%8C%EB%8D%94-%EC%BB%A4%EB%84%A5%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%A1%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC)
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">🛡️ 보안 1순위</h4>
     <p style="font-size: 0.9em;"><strong>승인된 이메일 도메인</strong>을 설정하여 회사 구성원만 가입하도록 제한하세요.</p>
-    <a href="#domain-setting" style="color: #F3E5F5; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+    <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
   </div>
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
     <h4 style="margin-top:0;">👥 초대 권한</h4>
