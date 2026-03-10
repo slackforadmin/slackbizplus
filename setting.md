@@ -2,15 +2,7 @@
 # 설정 및 권한
 해당 워크스페이스 전체 설정 및 기본 설정 가능한 화면입니다.
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; border: 2px solid #F3E5F5; padding: 20px; border-radius: 10px; background: #F3E5F5;">
-    <h5 style="margin-top:0;">📢 주목!!</h5>
-    <p style="font-size: 1.1em;">처음이시라면 <strong>기본 설정을</strong> 지정해보세요.</p>
-    <a href="#settingguide" style="color: #0366d6; font-size: 1.0em; font-weight: bold;">설정하러 가기 →</a>
-  </div>
-</div>
-
-<div style="padding: 24px; background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 12px; font-family: sans-serif; max-width: 600px; margin: 20px 0;">
+<div style="padding: 24px; background-color: #F3E5F5; border: 1px solid #F3E5F5; border-radius: 12px; font-family: sans-serif; max-width: 600px; margin: 20px 0;">
   <div style="display: flex; align-items: center; margin-bottom: 12px;">
     <span style="font-size: 24px; margin-right: 10px;">⚙️</span>
     <strong style="font-size: 18px; color: #333;">워크스페이스 설정 가이드</strong>
@@ -18,7 +10,7 @@
   
   <p style="font-size: 15px; color: #666; line-height: 1.5; margin: 0 0 20px 0;">
     처음 방문하셨나요? 팀원들과 협업을 시작하기 전에<br>
-    우리 팀만의 <strong>기본 환경 설정</strong>을 먼저 완료해 주세요.
+    우리 조직만의 <strong>기본 환경 설정</strong>을 먼저 완료해 주세요.
   </p>
 
   <a href="#settingguide" style="display: inline-block; background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 14px;">
