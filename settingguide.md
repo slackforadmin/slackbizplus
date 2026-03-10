@@ -46,7 +46,7 @@
       <p style="margin: 4px 0;">• 워크스페이스 아이콘</p>
       <p style="margin: 4px 0;">• 워크스페이스 언어</p>
     </div>
-    <a href="#domain-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -57,7 +57,7 @@
       <p style="margin: 4px 0;">• 이름 및 이메일 표시 지침</p>
       <p style="margin: 4px 0;">• Slack Connect 프로필</p>
     </div>
-    <a href="#invite-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
   
 </div>
@@ -71,7 +71,7 @@
       <p style="margin: 4px 0;">• 참여/퇴장 메시지 및 모바일 사용량</p>
       <p style="margin: 4px 0;">• 캔버스 및 워크플로 내보내기</p>
     </div>
-    <a href="#domain-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -80,7 +80,7 @@
       <p style="margin: 4px 0;">• 메시지 및 파일 내역 보관</p>
       <p style="margin: 4px 0;">• 캔버스 및 리스트 내역 관리</p>
     </div>
-    <a href="#invite-setting" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
   </div>
 
 </div>
