@@ -150,3 +150,48 @@ Analytics 페이지를 볼 수 있는 사람을 선택합니다.<br>
  - 앱이 추가한 워크플로 빌더 단계(레거시)<br>
 레거시 워크플로에서 타사 앱의 단계를 허용합니다. 타사 앱 단계는 새 버전의 워크플로에서 다르게 관리됩니다. <br>
 [고객지원센터에서 자세히 알아보세요.](https://slack.com/intl/ko-kr/help/articles/16749280664595-Slack-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C-%EB%B9%8C%EB%8D%94-%EC%BB%A4%EB%84%A5%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%A1%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC)
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">🛡️ 보안 1순위</h4>
+    <p style="font-size: 0.9em;"><strong>승인된 이메일 도메인</strong>을 설정하여 회사 구성원만 가입하도록 제한하세요.</p>
+    <a href="#domain-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">👥 초대 권한</h4>
+    <p style="font-size: 0.9em;">멤버가 자유롭게 초대하게 할지, <strong>관리자 승인</strong>을 거칠지 결정하세요.</p>
+    <a href="#invite-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+  <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 20px; border-radius: 10px; background: #f6f8fa;">
+    <h4 style="margin-top:0;">📢 기본 채널</h4>
+    <p style="font-size: 0.9em;">신규 멤버가 자동으로 입장할 <strong>#공지사항</strong> 등의 채널을 지정하세요.</p>
+    <a href="#channel-setting" style="color: #0366d6; font-size: 0.9em; font-weight: bold;">설정하러 가기 →</a>
+  </div>
+</div>
+
+
+<details open style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
+  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 600;">
+    🔒 워크스페이스 보안 및 가입 설정 
+    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;">필수 확인</span>
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
+    <ul style="line-height: 1.8;">
+      <li><strong>승인된 이메일 도메인:</strong> 특정 도메인 소유자만 참여 허용</li>
+      <li><strong>초대 권한 관리:</strong> 관리자 승인 프로세스 활성화 여부</li>
+      <li><strong>TLS 시행:</strong> 이메일 알림 보안 강화</li>
+    </ul>
+  </div>
+</details>
+
+<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
+  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 600;">
+    🎨 멤버 프로필 및 인터페이스
+    <span style="background: #e1e4e8; color: #586069; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;">권장</span>
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
+    </div>
+</details>
+
+
+
