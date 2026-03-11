@@ -9,20 +9,21 @@
       <p style="margin: 4px 0;">• 워크스페이스 아이콘</p>
       <p style="margin: 4px 0;">• 워크스페이스 언어</p>
     </div>
-    <a href="#basicsetup" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; pt: 15px; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="javascript:void(0);" onclick="document.getElementById('basic-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">👥 멤버 관리 및 접근 권한</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
-      <p style="margin: 4px 0;">• 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용</p>
+      <p style="margin: 4px 0;">• 승인된 이메일 도메인 허용</p>
       <p style="margin: 4px 0;">• 기본 채널</p>
       <p style="margin: 4px 0;">• 새 사용자 알림</p>
       <p style="margin: 4px 0;">• 이름 지침 표시</p>
       <p style="margin: 4px 0;">• 이메일 표시</p>
       <p style="margin: 4px 0;">• Slack Connect 멤버 프로필</p>
+
     </div>
-    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="javascript:void(0);" onclick="document.getElementById('member-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
   
 </div>
@@ -38,8 +39,9 @@
       <p style="margin: 4px 0;">• 모바일 사용량</p>
       <p style="margin: 4px 0;">• 캔버스</p>
       <p style="margin: 4px 0;">• 워크플로 내보내기</p>
+
     </div>
-    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="javascript:void(0);" onclick="document.getElementById('experience-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -49,65 +51,50 @@
       <p style="margin: 4px 0;">• 파일 내역</p>
       <p style="margin: 4px 0;">• 캔버스 및 리스트 내역</p>
     </div>
-    <a href="#settingguide" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px;">설정하러 가기 →</a>
+    <a href="javascript:void(0);" onclick="document.getElementById('data-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
 
 </div>
 
+<hr style="border: 0; height: 1px; background: #e1e4e8; margin: 40px 0;">
 
-워크스페이스 기본 설정
+<div id="basic-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
+  <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 워크스페이스 기본 설정</h2>
+  <ul style="line-height: 1.8;">
+    <li><strong>워크스페이스 아이콘</strong>: 팀의 정체성을 나타내는 이미지를 업로드합니다.</li>
+    <li><strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 명칭과 접속 주소를 설정합니다.</li>
+    <li><strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. 현재 설정은 <b>한국어</b>입니다.</li>
+  </ul>
+</div>
 
- - 워크스페이스 아이콘
+<div id="member-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
+  <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 멤버 관리 및 접근 권한</h2>
+  <ul style="line-height: 1.8;">
+    <li><strong>승인된 이메일 도메인 허용</strong>: 특정 도메인 이메일 소유자가 링크를 통해 즉시 참여할 수 있게 합니다.</li>
+    <li><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</li>
+    <li><strong>이름 지침 표시</strong>: 멤버가 프로필 이름을 설정할 때 참고할 가이드를 작성합니다.</li>
+    <li><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 노출 여부를 결정합니다.</li>
+    <li><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</li>
+  </ul>
+</div>
 
- - 워크스페이스 이름 및 URL
+<div id="experience-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
+  <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 사용자 경험 및 기능</h2>
+  <ul style="line-height: 1.8;">
+    <li><strong>GIF 첨부</strong>: Tenor에서 제공하는 GIF 사용 가능 여부를 설정합니다.</li>
+    <li><strong>방해 금지</strong>: 멤버들의 기본 알림 일시 중지 시간을 설정합니다.</li>
+    <li><strong>채널 참여 및 나가기 메시지</strong>: 채널 입퇴장 시 알림 메시지 표시 여부를 선택합니다.</li>
+    <li><strong>모바일 사용량</strong>: 모바일 앱 설치 권장 메시지 노출 여부를 설정합니다.</li>
+    <li><strong>캔버스</strong>: 캔버스의 버전 내역 액세스 및 복구 권한을 설정합니다.</li>
+    <li><strong>워크플로 내보내기</strong>: 워크플로를 JSON 파일로 내보낼 수 있도록 허용합니다.</li>
+  </ul>
+</div>
 
- - 워크스페이스 언어
-워크스페이스를 위한 언어를 설정합니다. 언어는 시스템 알림, Slackbot 메시지 및 가입 이메일에 영향을 줍니다. 현재 설정된 워크스페이스 언어는 한국어입니다.
-
-
-
-
- - 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용
-이메일 초대와 함께 이메일 주소가 승인된 도메인과 일치하는 경우에도 사람들은 워크스페이스에 안전하게 참여할 수 있습니다. 승인된 도메인을 가진 사람이 Slack에 로그인할 때 이메일 주소를 확인하고 워크스페이스에 참여할 수 있는 링크가 생성됩니다.
-
- - 기본 채널
-새 멤버가 자동으로 추가될 채널을 선택합니다(#새-워크스페이스-전체 이외의 채널).
-
- - 이름 지침 표시
-멤버가 표시 이름을 설정할 때 따라야 할 지침을 설명합니다.
-
- - 이메일 표시
-Slack 프로필에 멤버의 이메일 주소를 표시할지 여부를 선택합니다.
-
- - GIF 첨부
-메시지에서 멤버들이 GIF를 사용할 수 있는지 여부를 선택합니다(다음에서 제공: Tenor).
-
- - Slack Connect 멤버 프로필
-다른 조직과 협업할 때 멤버에 관해 표시할 정보를 선택합니다.
-
- - 방해 금지
-워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.
-
- - 채널 참여 및 나가기 메시지
-원하는 경우 Slack은 누군가가 참여하거나 나갈 때마다 채널에 알릴 수 있습니다.
-
- - 워크플로 내보내기
-워크플로 청사진을 JSON 파일로 내보내기 허용
-
- - 새 사용자 알림
-새 팀 멤버가 참여할 때 멤버에게 알릴지 여부를 선택합니다.
-
- - 캔버스
-기본 설정으로 Slack에서 캔버스 편집자가 캔버스 버전 내역을 액세스하고 캔버스의 이전 버전을 복구할 수 있습니다.
-
- - 모바일 사용량
-멤버들에게 Slack 모바일 앱을 사용하라는 메시지를 안내할지 여부를 선택합니다.
-
- - 메시지 내역?????? 없어!!!!!!!!!
-
- - 파일 내역
-기본적으로 Slack은 워크스페이스 수명 기간 동안 모든 파일을 보관합니다. 원하는 경우 일정 시간이 지나면 삭제되도록 설정할 수 있습니다. 이 설정은 이미지, 문서, Slack 게시물, 클립을 포함하여 모든 파일에 영향을 줍니다.
-
- - 캔버스 및 리스트 내역
-기본적으로 Slack은 워크스페이스 수명 기간 동안 모든 캔버스 및 목록을 보관합니다. 원하는 경우 일정 시간이 지나면 삭제되도록 설정할 수 있습니다. 이 설정은 채널 또는 DM과 연결된 캔버스 및 리스트을 포함한 모든 캔버스 및 리스트, 캔버스 및 리스트에 연결된 코멘트, 버전 내역에 적용됩니다.
-
+<div id="data-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
+  <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
+  <ul style="line-height: 1.8;">
+    <li style="color: #d73a49;"><strong>메시지 내역</strong>: (현재 플랜 또는 설정에 따라 관리자 페이지의 [데이터 보존] 탭에서 별도로 확인 가능합니다.)</li>
+    <li><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정합니다. 기간 경과 시 자동 삭제되도록 구성할 수 있습니다.</li>
+    <li><strong>캔버스 및 리스트 내역</strong>: 캔버스, 리스트, 코멘트 및 버전 내역의 보관 및 삭제 주기를 관리합니다.</li>
+  </ul>
+</div>
