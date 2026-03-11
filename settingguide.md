@@ -139,7 +139,7 @@
   <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
 </div>
     <img width="894" alt="image" src="https://github.com/user-attachments/assets/d9653e60-5785-4a8b-9654-bb1f0f3ca8da" />
-    <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알림 여부를 선택합니다.</span></li>
     <img width="889" alt="image" src="https://github.com/user-attachments/assets/7dcfab76-f954-40ae-a25b-3fdea575c0cb" />
     <img width="551" alt="image" src="https://github.com/user-attachments/assets/4aeeba62-5a77-4193-b166-9173bcdccc93" />
     <li><span style="font-size: 1.15rem;"><strong>모바일 사용량</strong>: 멤버들에게 Slack 모바일 앱 사용 안내 메시지를 보낼지 여부를 설정합니다.</span></li>
