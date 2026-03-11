@@ -139,6 +139,12 @@
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>데이터 보존</strong>: ???</span></li>
+    <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 아래의 내용으로 설정하는 것으로 추천드리고 있습니다!!<br>
+      공개 채널 / 비공개 채널 / 다이렉트 메시지 모두 [메시지를 절대 삭제하지 않음 - 편집 내용 저장]<br>
+      데이터 보전의 재정의를 설정할 수 있는 사람 - 재정의  허용 안 함<br>
+      </span>
+</div>
     <img width="924" alt="image" src="https://github.com/user-attachments/assets/0cd5f181-3582-40ef-baf5-093fdea158d3" />
     <li><span style="font-size: 1.15rem;"><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정하며, 일정 시간이 지나면 삭제되도록 관리합니다.</span></li>
     <img width="891" alt="image" src="https://github.com/user-attachments/assets/a391e5ad-41e2-49ba-b9f0-02afb2031fe6" />
