@@ -136,7 +136,7 @@
   </div>
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 <a href="https://slack.com/intl/ko-kr/help/articles/214888418-%EA%B8%B0%EB%B3%B8-%EB%B0%A9%ED%95%B4-%EA%B8%88%EC%A7%80-%EC%8B%9C%EA%B0%84-%EC%84%A4%EC%A0%95?utm_source=slack&utm_medium=settings&utm_campaign=hc" target="_blank" rel="noopener noreferrer" style="color: #0366d6; text-decoration: underline;">방해 금지</a> 시간을 설정합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
 </div>
     <img width="894" alt="image" src="https://github.com/user-attachments/assets/d9653e60-5785-4a8b-9654-bb1f0f3ca8da" />
     <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
