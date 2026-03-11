@@ -124,25 +124,41 @@
       subMaxLevel: 3,
       auto2top: true,
       
-      // 검색 플러그인 설정 추가
+      // 검색 플러그인 설정 (고객 친화적 최적화)
       search: {
         maxAge: 86400000, 
         paths: 'auto',
         placeholder: '검색어를 입력하세요',
         noData: '결과가 없습니다',
-        depth: 6
+        depth: 3, // 너무 깊은 소스 영역까지 인덱싱하지 않도록 제한
+        
+        // [핵심] 검색에서 완전히 제외할 요소들 정의
+        // 1. 스타일 태그, 스크립트 태그 제외
+        // 2. 'ignore-search' 클래스가 붙은 요소 제외
+        ignore: [
+          'style',
+          'script',
+          '.ignore-search',
+          '[data-ignore-search]'
+        ],
+        
+        // 검색 결과 창에 소스 코드가 노출되는 것을 방지하는 정규식 처리 지원
+        hideOtherSidebarContent: true,
+        namespace: 'biz-admin-guide'
       },
 
       plugins: [
         function(hook) {
           hook.ready(function() {
             var header = document.querySelector('.sidebar > h1');
-            var img = document.createElement('img');
-            img.src = 'https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg';
-            img.style.width = '60px'; /* 로고 크기도 글씨에 맞춰 소폭 확대 */
-            img.style.display = 'block';
-            img.style.margin = '0 auto 15px auto';
-            header.insertBefore(img, header.firstChild);
+            if (header) {
+              var img = document.createElement('img');
+              img.src = 'https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg';
+              img.style.width = '60px';
+              img.style.display = 'block';
+              img.style.margin = '0 auto 15px auto';
+              header.insertBefore(img, header.firstChild);
+            }
           });
         }
       ]
