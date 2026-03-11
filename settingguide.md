@@ -45,7 +45,7 @@
   <div style="flex: 1; min-width: 250px; border: 2px solid #e1e4e8; padding: 24px; border-radius: 12px; background: #ffffff; display: flex; flex-direction: column; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="margin: 0 0 15px 0; color: #1a1f23;">📦 데이터 보관 정책</h4>
     <div style="font-size: 0.9em; color: #586069; line-height: 1.6; margin-bottom: 20px;">
-      <p style="margin: 4px 0;">• 메시지 내역</p>
+      <p style="margin: 4px 0;">• 데이터 보존</p>
       <p style="margin: 4px 0;">• 파일 내역</p>
       <p style="margin: 4px 0;">• 캔버스 및 리스트 내역</p>
     </div>
@@ -138,7 +138,8 @@
 <div id="data-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
-    <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>메시지 내역</strong>: (현재 요금제나 설정에 따라 [데이터 보존] 탭에서 확인이 가능할 수 있습니다.)</span></li>
+    <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>데이터 보존</strong>: ???</span></li>
+    <img width="917" alt="image" src="https://github.com/user-attachments/assets/ead97e6e-4b77-47dc-b1fe-b9a6e1ba2614" />
     <li><span style="font-size: 1.15rem;"><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정하며, 일정 시간이 지나면 삭제되도록 관리합니다.</span></li>
     <img width="891" alt="image" src="https://github.com/user-attachments/assets/a391e5ad-41e2-49ba-b9f0-02afb2031fe6" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스 및 리스트 내역</strong>: 캔버스, 목록, 코멘트 및 버전 내역의 보존 기간을 적용합니다.</span></li>
