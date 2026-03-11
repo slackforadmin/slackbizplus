@@ -62,6 +62,8 @@
     <li><strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 명칭과 접속 주소를 설정합니다.</li>
     <img width="1251" alt="image" src="https://github.com/user-attachments/assets/29937071-dd2d-4173-9621-00ff6927a682" />
     <li><strong>워크스페이스 아이콘</strong>: 팀의 정체성을 나타내는 이미지를 업로드합니다.</li>
+    <img width="888" alt="image" src="https://github.com/user-attachments/assets/e8c1af1e-d474-45fe-8edf-f6787c6a154a" />
+    <img width="970" alt="image" src="https://github.com/user-attachments/assets/9c68d2ba-b98a-456e-9345-0da738c6bfd1" />
     <li><strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. 현재 설정은 <b>한국어</b>입니다.</li>
   </ul>
 </div>
