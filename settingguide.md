@@ -129,7 +129,7 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: GIF 사용 가능 여부를 설정합니다. 멤버들이 자유롭게 사용할 수 있도록 해보세요!!</span></li>
     <img width="889" alt="image" src="https://github.com/user-attachments/assets/2bb4d19d-de9f-4817-9c8b-3545e670878d" />
-    :bulb: 사용 방법
+    <strong>:bulb: 사용 방법</strong>
       <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" style="max-width: 50%; height: auto;" />
