@@ -21,7 +21,6 @@
       <p style="margin: 4px 0;">• 이름 지침 표시</p>
       <p style="margin: 4px 0;">• 이메일 표시</p>
       <p style="margin: 4px 0;">• Slack Connect 멤버 프로필</p>
-
     </div>
     <a href="javascript:void(0);" onclick="document.getElementById('member-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
@@ -39,7 +38,6 @@
       <p style="margin: 4px 0;">• 모바일 사용량</p>
       <p style="margin: 4px 0;">• 캔버스</p>
       <p style="margin: 4px 0;">• 워크플로 내보내기</p>
-
     </div>
     <a href="javascript:void(0);" onclick="document.getElementById('experience-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
