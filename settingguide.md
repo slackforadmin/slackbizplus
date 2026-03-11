@@ -98,8 +98,9 @@
     
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
     <li><span style="font-size: 1.15rem;"><strong>이름 지침 표시</strong>: 멤버가 표시 이름을 설정할 때 따라야 할 가이드를 작성합니다.</span></li>
+    
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/d6d6c55a-b661-49f5-bdb0-441f1a83987d" />
-    <img width="708" alt="image" src="https://github.com/user-attachments/assets/04e99749-a0ea-479e-944d-716b6a285b5b" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/1138564d-d2df-4827-9f2f-1e2fa849b584" />
     <li><span style="font-size: 1.15rem;"><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 노출 여부를 결정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/2bb6687b-84a0-403e-9cc6-260751367e89" />
     <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
