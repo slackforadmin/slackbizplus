@@ -113,6 +113,8 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: Tenor에서 제공하는 GIF 사용 가능 여부를 설정합니다.</span></li>
     <img width="889" alt="image" src="https://github.com/user-attachments/assets/2bb4d19d-de9f-4817-9c8b-3545e670878d" />
+    <img width="591" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" />
+    <img width="375" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" />
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
     <img width="894" alt="image" src="https://github.com/user-attachments/assets/d9653e60-5785-4a8b-9654-bb1f0f3ca8da" />
     <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
