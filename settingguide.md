@@ -86,7 +86,7 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>승인된 이메일 도메인 허용</strong>: 특정 도메인 이메일 소유자가 즉시 참여할 수 있게 합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 해당 도메인 이메일을 가진 직원들이 별도 승인 없이 자동으로 워크스페이스에 참여할 수 있습니다. SSO를 사용하지 않는 경우 특히 유용하며, 다수의 인원을 빠르게 온보딩할 수 있습니다.</span>
+  <span style="color: #6A1B9A; font-weight: bold;">:point_right: 회사 도메인을 설정하면 해당 도메인 이메일을 가진 직원들이 별도 승인 없이 자동으로 워크스페이스에 참여할 수 있습니다. SSO를 사용하지 않는 경우 특히 유용하며, 다수의 인원을 빠르게 온보딩할 수 있습니다.</span>
 </div>
 <details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
