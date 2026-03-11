@@ -107,14 +107,16 @@
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 새로운 멤버가 들어오는 경우, 기본 채널을 설정해서 바로 전사 공용 채널에 들어올 수 있도록 할 수 있습니다.</span>
+  <span style="color: #6A1B9A; font-weight: bold;">:point_right: 새로운 멤버가 들어오는 경우, 기본 채널을 설정해서 바로 전사 공용 채널에 들어올 수 있도록 할 수 있습니다.</span>
 </div>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
     <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
     <img width="887" alt="image" src="https://github.com/user-attachments/assets/070919b8-7734-49f3-9100-f46d7132d82d" />
     <li><span style="font-size: 1.15rem;"><strong>이름 지침 표시</strong>: 멤버가 표시 이름을 설정할 때 따라야 할 가이드를 작성합니다.</span></li>
-    <img width="906" alt="image" src="https://github.com/user-attachments/assets/d6d6c55a-b661-49f5-bdb0-441f1a83987d" />
-    <img width="708" alt="image" src="https://github.com/user-attachments/assets/1138564d-d2df-4827-9f2f-1e2fa849b584" />
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/d6d6c55a-b661-49f5-bdb0-441f1a83987d" style="max-width: 50%; height: auto;" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/1138564d-d2df-4827-9f2f-1e2fa849b584" style="max-width: 50%; height: auto;" />
+  </div>
     <li><span style="font-size: 1.15rem;"><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 노출 여부를 결정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/2bb6687b-84a0-403e-9cc6-260751367e89" />
     <li><span style="font-size: 1.15rem;"><strong>Slack Connect 멤버 프로필</strong>: 외부와 연계되었을 떄, 상대방에게 보이는 정보를 설정할 수 있습니다.</span></li>
