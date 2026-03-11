@@ -117,9 +117,9 @@
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/d6d6c55a-b661-49f5-bdb0-441f1a83987d" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/1138564d-d2df-4827-9f2f-1e2fa849b584" style="max-width: 50%; height: auto;" />
   </div>
-    <li><span style="font-size: 1.15rem;"><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 노출 여부를 결정합니다.</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 표시 여부를 결정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/2bb6687b-84a0-403e-9cc6-260751367e89" />
-    <li><span style="font-size: 1.15rem;"><strong>Slack Connect 멤버 프로필</strong>: 외부와 연계되었을 떄, 상대방에게 보이는 정보를 설정할 수 있습니다.</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>Slack Connect 멤버 프로필</strong>: 외부와 연계되었을 때, 상대방에게 보이는 정보를 설정할 수 있습니다.</span></li>
     <img width="919" alt="image" src="https://github.com/user-attachments/assets/76f13512-e37c-4487-af2a-e292ce10f70b" />
   </ul>
 </div>
@@ -127,10 +127,12 @@
 <div id="experience-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 사용자 경험 및 기능</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
-    <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: Tenor에서 제공하는 GIF 사용 가능 여부를 설정합니다.</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: GIF 사용 가능 여부를 설정합니다. 멤버들이 자유롭게 사용할 수 있도록 해보세요!!</span></li>
     <img width="889" alt="image" src="https://github.com/user-attachments/assets/2bb4d19d-de9f-4817-9c8b-3545e670878d" />
-    <img width="591" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" />
-    <img width="375" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" />
+      <div style="display: flex; align-items: center; gap: 10px;">
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" style="max-width: 50%; height: auto;" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" style="max-width: 50%; height: auto;" />
+  </div>
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
