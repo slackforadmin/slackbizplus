@@ -105,6 +105,8 @@
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/2bb6687b-84a0-403e-9cc6-260751367e89" />
     <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
     <img width="887" alt="image" src="https://github.com/user-attachments/assets/070919b8-7734-49f3-9100-f46d7132d82d" />
+    <li><span style="font-size: 1.15rem;"><strong>Slack Connect 멤버 프로필</strong>: 외부와 연계되었을 떄, 상대방에게 보이는 정보를 설정할 수 있습니다.</span></li>
+    <img width="919" alt="image" src="https://github.com/user-attachments/assets/76f13512-e37c-4487-af2a-e292ce10f70b" />
   </ul>
 </div>
 
