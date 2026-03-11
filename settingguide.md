@@ -61,7 +61,7 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li>
       <span style="font-size: 1.15rem;">
-        <strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 명칭과 접속 주소를 설정합니다.
+        <strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 이름과 접속 주소(URL)를 설정합니다.
       </span>
     </li>
     <img width="1251" alt="image" src="https://github.com/user-attachments/assets/29937071-dd2d-4173-9621-00ff6927a682" style="margin: 10px 0;" />
@@ -94,14 +94,14 @@
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ul style="line-height: 1.8;">
-      <li>1.이메일 도메인 설정</li>
+    <ol style="line-height: 1.8;">
+      <li>이메일 도메인 설정</li>
               <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
-      <li>2.사용자 초대로 이동</li>
+      <li>사용자 초대로 이동</li>
               <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
-      <li>3.초대링크 복사 후, 전달</li>
+      <li>초대링크 복사 후, 전달(링크로 들어오는 사용자 중 설정된 도메인 계정으로 들어오는 경우 승인없이 입장가능)</li>
         <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
-    </ul>
+    </ol>
   </div>
 </details>
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
