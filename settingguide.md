@@ -74,7 +74,7 @@
     <img width="970" alt="image" src="https://github.com/user-attachments/assets/9c68d2ba-b98a-456e-9345-0da738c6bfd1" style="margin: 10px 0;" />
     <li>
       <span style="font-size: 1.15rem;">
-        <strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. <b>한국어</b>로 바꿔주면 좋을 것 같습니다!!
+        <strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. <b>한국어</b>로 바꿔서 편리하게 사용하세요!!
       </span>
     </li>
     <img width="885" alt="image" src="https://github.com/user-attachments/assets/e2dfb747-62e8-4b9d-8a9d-373632554661" style="margin: 10px 0;" />
