@@ -85,6 +85,9 @@
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 멤버 관리 및 접근 권한</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>승인된 이메일 도메인 허용</strong>: 특정 도메인 이메일 소유자가 링크를 통해 즉시 참여할 수 있게 합니다.</span></li>
+    <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 회사 도메인 이메일을 가지신 분들이 별도의 승인절차없이 빠르게 들어오실 수 있습니다.</span>
+</div>
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
