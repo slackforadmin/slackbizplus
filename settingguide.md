@@ -101,11 +101,17 @@
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 사용자 경험 및 기능</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: Tenor에서 제공하는 GIF 사용 가능 여부를 설정합니다.</span></li>
+    <img width="889" alt="image" src="https://github.com/user-attachments/assets/2bb4d19d-de9f-4817-9c8b-3545e670878d" />
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
+    <img width="894" alt="image" src="https://github.com/user-attachments/assets/d9653e60-5785-4a8b-9654-bb1f0f3ca8da" />
     <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
+    <img width="889" alt="image" src="https://github.com/user-attachments/assets/7dcfab76-f954-40ae-a25b-3fdea575c0cb" />
     <li><span style="font-size: 1.15rem;"><strong>모바일 사용량</strong>: 멤버들에게 Slack 모바일 앱 사용 안내 메시지를 보낼지 여부를 설정합니다.</span></li>
+    <img width="892" alt="image" src="https://github.com/user-attachments/assets/55faa989-fab3-4580-9290-e4c6c1645e92" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스</strong>: 기본 설정으로 캔버스 편집자가 버전 내역을 액세스하고 복구할 수 있습니다.</span></li>
+    <img width="892" alt="image" src="https://github.com/user-attachments/assets/7d1d68b1-dbe7-449b-b9c0-8b87d645f6e7" />
     <li><span style="font-size: 1.15rem;"><strong>워크플로 내보내기</strong>: 워크플로 청사진을 JSON 파일로 내보내는 것을 허용합니다.</span></li>
+    <img width="895" alt="image" src="https://github.com/user-attachments/assets/8cfed4fd-cb5d-4fd8-b0a2-19b4e6e9389b" />
   </ul>
 </div>
 
