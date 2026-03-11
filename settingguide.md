@@ -60,6 +60,8 @@
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 워크스페이스 기본 설정</h2>
   <ul style="line-height: 1.8;">
     <li><strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 명칭과 접속 주소를 설정합니다.</li>
+    <img width="1251" alt="image" src="https://github.com/user-attachments/assets/29937071-dd2d-4173-9621-00ff6927a682" />
+
     <li><strong>워크스페이스 아이콘</strong>: 팀의 정체성을 나타내는 이미지를 업로드합니다.</li>
     <li><strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. 현재 설정은 <b>한국어</b>입니다.</li>
   </ul>
