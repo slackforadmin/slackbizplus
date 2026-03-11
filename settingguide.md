@@ -95,16 +95,14 @@
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 새로운 멤버가 들어오는 경우, 기본 채널을 설정해서 바로 전사 공용 채널에 들어올 수 있도록 할 수 있습니다.</span>
 </div>
-    
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
+    <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
+    <img width="887" alt="image" src="https://github.com/user-attachments/assets/070919b8-7734-49f3-9100-f46d7132d82d" />
     <li><span style="font-size: 1.15rem;"><strong>이름 지침 표시</strong>: 멤버가 표시 이름을 설정할 때 따라야 할 가이드를 작성합니다.</span></li>
-    
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/d6d6c55a-b661-49f5-bdb0-441f1a83987d" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/1138564d-d2df-4827-9f2f-1e2fa849b584" />
     <li><span style="font-size: 1.15rem;"><strong>이메일 표시</strong>: 프로필에서 멤버의 이메일 노출 여부를 결정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/2bb6687b-84a0-403e-9cc6-260751367e89" />
-    <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
-    <img width="887" alt="image" src="https://github.com/user-attachments/assets/070919b8-7734-49f3-9100-f46d7132d82d" />
     <li><span style="font-size: 1.15rem;"><strong>Slack Connect 멤버 프로필</strong>: 외부와 연계되었을 떄, 상대방에게 보이는 정보를 설정할 수 있습니다.</span></li>
     <img width="919" alt="image" src="https://github.com/user-attachments/assets/76f13512-e37c-4487-af2a-e292ce10f70b" />
   </ul>
@@ -118,10 +116,17 @@
     <img width="591" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" />
     <img width="375" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" />
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
+    <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
+</div>
     <img width="894" alt="image" src="https://github.com/user-attachments/assets/d9653e60-5785-4a8b-9654-bb1f0f3ca8da" />
     <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
     <img width="889" alt="image" src="https://github.com/user-attachments/assets/7dcfab76-f954-40ae-a25b-3fdea575c0cb" />
+    <img width="551" alt="image" src="https://github.com/user-attachments/assets/4aeeba62-5a77-4193-b166-9173bcdccc93" />
     <li><span style="font-size: 1.15rem;"><strong>모바일 사용량</strong>: 멤버들에게 Slack 모바일 앱 사용 안내 메시지를 보낼지 여부를 설정합니다.</span></li>
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 초기에 데스크탑뿐만 아니라 모바일에도 적극적으로 활용할 수 있게 체크해두면 좋을 것 같습니다.</span>
+</div>
     <img width="892" alt="image" src="https://github.com/user-attachments/assets/55faa989-fab3-4580-9290-e4c6c1645e92" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스</strong>: 기본 설정으로 캔버스 편집자가 버전 내역을 액세스하고 복구할 수 있습니다.</span></li>
     <img width="892" alt="image" src="https://github.com/user-attachments/assets/7d1d68b1-dbe7-449b-b9c0-8b87d645f6e7" />
