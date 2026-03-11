@@ -86,8 +86,10 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>승인된 이메일 도메인 허용</strong>: 특정 도메인 이메일 소유자가 링크를 통해 즉시 참여할 수 있게 합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 회사 도메인 이메일을 가지신 분들이 별도의 승인절차없이 빠르게 들어오실 수 있습니다.</span>
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 회사 도메인 이메일을 가지신 분들이 별도의 승인절차없이 빠르게 들어오실 수 있습니다.<br>SSO으로 설정해두지 않는 경우, 설정해두면 다수의 인원을 훨씬 빠르게 들어오게 할 수 있습니다.</span>
 </div>
+    <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" />
+    <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" />
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
