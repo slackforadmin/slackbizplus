@@ -89,9 +89,9 @@
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 회사 도메인 이메일을 가지신 분들이 별도의 승인절차없이 빠르게 들어오실 수 있습니다.<br>SSO으로 설정해두지 않는 경우, 설정해두면 다수의 인원을 훨씬 빠르게 들어오게 할 수 있습니다.</span>
 </div>
 <details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
-  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 600;">
+  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
     🔒 승인 없이 회사 멤버 일괄 초대하기
-    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;">추천</span>
+    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
     <ul style="line-height: 1.8;">
