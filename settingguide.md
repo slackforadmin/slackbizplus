@@ -134,7 +134,7 @@
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/5bd83311-d5e5-4b40-8baa-8c8640256c09" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/6eee558a-c6fc-44ed-b7a5-e7bcd47e4a5c" style="max-width: 50%; height: auto;" />
   </div>
-    <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 <a href="https://slack.com/intl/ko-kr/help/articles/214888418-%EA%B8%B0%EB%B3%B8-%EB%B0%A9%ED%95%B4-%EA%B8%88%EC%A7%80-%EC%8B%9C%EA%B0%84-%EC%84%A4%EC%A0%95?utm_source=slack&utm_medium=settings&utm_campaign=hc" style="color: #0366d6; text-decoration: none;">방해 금지</a> 시간을 설정합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 설정을 했더라도 멤버가 자체적으로 변경할 수 있습니다. </span>
 </div>
