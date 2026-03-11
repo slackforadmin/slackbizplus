@@ -144,7 +144,7 @@
     <img width="551" alt="image" src="https://github.com/user-attachments/assets/4aeeba62-5a77-4193-b166-9173bcdccc93" />
     <li><span style="font-size: 1.15rem;"><strong>모바일 사용량</strong>: 멤버들에게 Slack 모바일 앱 사용 안내 메시지를 보낼지 여부를 설정합니다.</span></li>
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 초기에 데스크탑뿐만 아니라 모바일에도 적극적으로 활용할 수 있게 체크해두면 좋을 것 같습니다.</span>
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 초기에 데스크탑뿐만 아니라 모바일도 적극적으로 활용할 수 있게 설정하는 것을 권장합니다.</span>
 </div>
     <img width="892" alt="image" src="https://github.com/user-attachments/assets/55faa989-fab3-4580-9290-e4c6c1645e92" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스</strong>: 기본 설정으로 캔버스 편집자가 버전 내역을 액세스하고 복구할 수 있습니다.</span></li>
