@@ -95,11 +95,12 @@
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
     <ul style="line-height: 1.8;">
-      <li><strong>승인된 이메일 도메인:</strong> 특정 도메인 소유자만 참여 허용</li>
-      <li><strong>초대 권한 관리:</strong> 관리자 승인 프로세스 활성화 여부</li>
-      <li><strong>TLS 시행:</strong> 이메일 알림 보안 강화</li>
-      <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
-      <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
+      <li>1.이메일 도메인 설정</li>
+              <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
+      <li>2.사용자 초대로 이동</li>
+              <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
+      <li>3.초대링크 복사 후, 전달</li>
+        <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
     </ul>
   </div>
 </details>
