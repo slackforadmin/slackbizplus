@@ -65,6 +65,7 @@
     <img width="888" alt="image" src="https://github.com/user-attachments/assets/90d42690-e24f-4b1f-81be-2f4ca52dddbb" />
     <img width="970" alt="image" src="https://github.com/user-attachments/assets/9c68d2ba-b98a-456e-9345-0da738c6bfd1" />
     <li><strong>워크스페이스 언어</strong>: 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. 현재 설정은 <b>한국어</b>입니다.</li>
+    <img width="885" alt="image" src="https://github.com/user-attachments/assets/e2dfb747-62e8-4b9d-8a9d-373632554661" />
   </ul>
 </div>
 
