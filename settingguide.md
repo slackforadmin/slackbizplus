@@ -88,7 +88,7 @@
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 회사 도메인을 설정하면 회사 도메인 이메일을 가지신 분들이 별도의 승인절차없이 빠르게 들어오실 수 있습니다.<br>SSO으로 설정해두지 않는 경우, 설정해두면 다수의 인원을 훨씬 빠르게 들어오게 할 수 있습니다.</span>
 </div>
-    <details open style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
+<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 600;">
     🔒 승인 없이 회사 멤버 일괄 초대하기
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 10px;">필수 확인</span>
@@ -98,8 +98,8 @@
       <li><strong>승인된 이메일 도메인:</strong> 특정 도메인 소유자만 참여 허용</li>
       <li><strong>초대 권한 관리:</strong> 관리자 승인 프로세스 활성화 여부</li>
       <li><strong>TLS 시행:</strong> 이메일 알림 보안 강화</li>
-          <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" />
-    <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" />
+      <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
+      <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
     </ul>
   </div>
 </details>
