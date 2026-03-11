@@ -58,7 +58,7 @@
 
 <div id="basic-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 워크스페이스 기본 설정</h2>
-  <ul style="line-height: 2.2; list-style-type: disc; padding-left: 20px;">
+  <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li>
       <span style="font-size: 1.15rem;">
         <strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 명칭과 접속 주소를 설정합니다.
@@ -83,7 +83,7 @@
 
 <div id="member-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 멤버 관리 및 접근 권한</h2>
-  <ul style="line-height: 2.5; list-style-type: disc; padding-left: 20px;">
+  <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>승인된 이메일 도메인 허용</strong>: 특정 도메인 이메일 소유자가 링크를 통해 즉시 참여할 수 있게 합니다.</span></li>
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
     <li><span style="font-size: 1.15rem;"><strong>이름 지침 표시</strong>: 멤버가 표시 이름을 설정할 때 따라야 할 가이드를 작성합니다.</span></li>
@@ -94,7 +94,7 @@
 
 <div id="experience-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 사용자 경험 및 기능</h2>
-  <ul style="line-height: 2.5; list-style-type: disc; padding-left: 20px;">
+  <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li><span style="font-size: 1.15rem;"><strong>GIF 첨부</strong>: Tenor에서 제공하는 GIF 사용 가능 여부를 설정합니다.</span></li>
     <li><span style="font-size: 1.15rem;"><strong>방해 금지</strong>: 워크스페이스 멤버에 대한 기본 방해 금지 시간을 설정합니다.</span></li>
     <li><span style="font-size: 1.15rem;"><strong>채널 참여 및 나가기 메시지</strong>: 누군가가 참여하거나 나갈 때마다 채널에 알릴지 여부를 선택합니다.</span></li>
@@ -106,7 +106,7 @@
 
 <div id="data-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
-  <ul style="line-height: 2.5; list-style-type: disc; padding-left: 20px;">
+  <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>메시지 내역</strong>: (현재 요금제나 설정에 따라 [데이터 보존] 탭에서 확인이 가능할 수 있습니다.)</span></li>
     <li><span style="font-size: 1.15rem;"><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정하며, 일정 시간이 지나면 삭제되도록 관리합니다.</span></li>
     <li><span style="font-size: 1.15rem;"><strong>캔버스 및 리스트 내역</strong>: 캔버스, 목록, 코멘트 및 버전 내역의 보존 기간을 적용합니다.</span></li>
