@@ -120,6 +120,8 @@
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
     <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>메시지 내역</strong>: (현재 요금제나 설정에 따라 [데이터 보존] 탭에서 확인이 가능할 수 있습니다.)</span></li>
     <li><span style="font-size: 1.15rem;"><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정하며, 일정 시간이 지나면 삭제되도록 관리합니다.</span></li>
+    <img width="891" alt="image" src="https://github.com/user-attachments/assets/a391e5ad-41e2-49ba-b9f0-02afb2031fe6" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스 및 리스트 내역</strong>: 캔버스, 목록, 코멘트 및 버전 내역의 보존 기간을 적용합니다.</span></li>
+    <img width="899" alt="image" src="https://github.com/user-attachments/assets/bfcc4763-b445-4dc6-a497-973a34b57fa3" />
   </ul>
 </div>
