@@ -179,6 +179,13 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
  - <Strong>메시징</Strong><br>
 @everyone, @channel, @here을 사용할 때 경고를 설정합니다.<br>
 
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 무분별한 사용은 사용자 피로도를 높일 수 있으니, 사용 패턴을 분석한 후 필요시 설정을 조정해 주세요.</span>
+</div>
+
+<img width="832" alt="image" src="https://github.com/user-attachments/assets/442d7583-b268-42a7-87b2-6256f9754fc2" />
+
+
  - <Strong>초대</Strong><br>
 기본적으로 어떤 멤버든 워크스페이스에 새로운 사람을 초대할 수 있습니다. 원하는 경우 초대에 [관리자 승인](https://slack.com/intl/ko-kr/help/articles/115004854783-Slack%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B4%88%EB%8C%80%EC%97%90-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%8A%B9%EC%9D%B8-%ED%95%84%EC%9A%94?utm_source=slack&utm_medium=settings&utm_campaign=hc)이 필요하도록 이 설정을 변경할 수 있습니다.<br>
 
