@@ -5,7 +5,7 @@
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/bde38b28-06d6-422a-a6f6-efc08655d1e2" />
 
 [설정]<br>
- - 승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용<br>
+ - <Strong>승인된 이메일 도메인을 가진 사람들이 이 워크스페이스에 참여하도록 허용</Strong><br>
 특정 도메인 이메일 소유자가 즉시 참여할 수 있게 합니다.<br>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 회사 도메인을 설정하면 해당 도메인 이메일을 가진 직원들이 별도 승인 없이 자동으로 워크스페이스에 참여할 수 있습니다. SSO를 사용하지 않는 경우 특히 유용하며, 다수의 인원을 빠르게 온보딩할 수 있습니다.</span>
