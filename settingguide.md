@@ -148,7 +148,7 @@
 </div>
     <img width="892" alt="image" src="https://github.com/user-attachments/assets/55faa989-fab3-4580-9290-e4c6c1645e92" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스</strong>: 기본 설정으로 캔버스 편집자가 버전 내역을 액세스하고 복구할 수 있습니다.</span></li>
-    <img width="892" alt="image" src="https://github.com/user-attachments/assets/7d1d68b1-dbe7-449b-b9c0-8b87d645f6e7" />
+    <img width="866" alt="image" src="https://github.com/user-attachments/assets/8caf387c-b9b5-43d6-9820-3429db5b49b8" />
     <li><span style="font-size: 1.15rem;"><strong>워크플로 내보내기</strong>: 워크플로 청사진을 JSON 파일로 내보내는 것을 허용합니다.</span></li>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/8cfed4fd-cb5d-4fd8-b0a2-19b4e6e9389b" />
   </ul>
