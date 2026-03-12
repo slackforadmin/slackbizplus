@@ -193,6 +193,8 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
   <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 추가적으로 신규 입사자분들만 관리하에 초대하고 싶으신 경우 설정할 수 있습니다.</span>
 </div>
 
+<img width="837" alt="image" src="https://github.com/user-attachments/assets/c93ee6d0-aaa6-4d88-87df-a862beb056ea" />
+
  - <Strong>Slack Connect 검색 기능</Strong><br>
 연계에 앞서, 멤버의 이름과 Slack 사용 여부를 볼 수 있는 사람을 선택하세요. <br>
 [Slack에서 외부 사용자 찾기](https://slack.com/intl/ko-kr/help/articles/5534401382675-Slack%EC%97%90%EC%84%9C-%EC%99%B8%EB%B6%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B0%BE%EA%B8%B0)
@@ -237,6 +239,13 @@ Slack Connect 채널에서 서로 다른 조직이 소유한 워크플로를 실
   - <Strong>사용자 그룹</Strong><br>
 사용자 그룹을 생성 및 관리할 수 있는 사람을 설정합니다.<br>
 [사용자 그룹 생성 및 편집](https://slack.com/intl/ko-kr/help/articles/212906697-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EC%83%9D%EC%84%B1-%EB%B0%8F-%ED%8E%B8%EC%A7%91?utm_source=slack&utm_medium=settings&utm_campaign=hc)
+
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 팀 단위로 설정할 수 있게 풀어주는 것을 추천드립니다.</span>
+</div>
+
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/d9df3b9f-04f1-4d7b-ad68-bcf25d21e9eb" />
+
 
  - <Strong>메시지 편집</Strong><br>
 메시지 편집을 허용할 시기를 선택합니다.
