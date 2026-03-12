@@ -170,7 +170,7 @@
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ [삭제된 파일을 포함해 모든 파일을 보관합니다.]옵션을 권장합니다. 추후 내역 확인이 필요할 때 삭제된 기록이 남아있지 않으면 문제가 발생할 수 있기 때문입니다.
       </span>
 </div>
-<img width="934" height="297" alt="image" src="https://github.com/user-attachments/assets/84e770cf-8986-4c96-a310-e00f14e4381f" />
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/84e770cf-8986-4c96-a310-e00f14e4381f" />
     <li><span style="font-size: 1.15rem;"><strong>캔버스 및 리스트 내역</strong>: 캔버스, 목록, 코멘트 및 버전 내역의 보존 기간을 적용합니다.</span></li>
     <img width="899" alt="image" src="https://github.com/user-attachments/assets/bfcc4763-b445-4dc6-a497-973a34b57fa3" />
   </ul>
