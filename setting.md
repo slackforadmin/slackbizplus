@@ -189,6 +189,10 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
  - <Strong>초대</Strong><br>
 기본적으로 어떤 멤버든 워크스페이스에 새로운 사람을 초대할 수 있습니다. 원하는 경우 초대에 [관리자 승인](https://slack.com/intl/ko-kr/help/articles/115004854783-Slack%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B4%88%EB%8C%80%EC%97%90-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%8A%B9%EC%9D%B8-%ED%95%84%EC%9A%94?utm_source=slack&utm_medium=settings&utm_campaign=hc)이 필요하도록 이 설정을 변경할 수 있습니다.<br>
 
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 추가적으로 신규 입사자분들만 관리하에 초대하고 싶으신 경우 설정할 수 있습니다.</span>
+</div>
+
  - <Strong>Slack Connect 검색 기능</Strong><br>
 연계에 앞서, 멤버의 이름과 Slack 사용 여부를 볼 수 있는 사람을 선택하세요. <br>
 [Slack에서 외부 사용자 찾기](https://slack.com/intl/ko-kr/help/articles/5534401382675-Slack%EC%97%90%EC%84%9C-%EC%99%B8%EB%B6%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B0%BE%EA%B8%B0)
