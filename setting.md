@@ -186,6 +186,17 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
 연계에 앞서, 멤버의 이름과 Slack 사용 여부를 볼 수 있는 사람을 선택하세요. <br>
 [Slack에서 외부 사용자 찾기](https://slack.com/intl/ko-kr/help/articles/5534401382675-Slack%EC%97%90%EC%84%9C-%EC%99%B8%EB%B6%80-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B0%BE%EA%B8%B0)
 
+ - <Strong>Slack Connect 채널</Strong><br>
+Slack Connect를 통해 조직의 멤버는 파트너, 벤더 및 동일한 채널의 다른 제삼자와 협업할 수 있습니다. <br>
+[Slack Connect 채널 승인 설정 및 초대 요청 관리](https://slack.com/intl/ko-kr/help/articles/115005912706-Slack-Connect-%EC%B1%84%EB%84%90-%EC%8A%B9%EC%9D%B8-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B4%88%EB%8C%80-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC?utm_medium=in-prod&utm_source=in-prod&utm_campaign=cd_in-prod_in-prod_all_en_sharedchannels-betterinvites_cr-channel-administration-learn-more_ym-201912)
+
+ - <Strong>Slack Connect의 캔버스</Strong><br>
+멤버가 외부의 사람들과 캔버스를 공유할 수 있는지 그리고 멤버가 외부 조직의 캔버스를 볼 수 있는지를 선택하세요.
+
+  - <Strong>Slack Connect의 리스트</Strong><br>
+멤버에게 서식 있는 미리보기를 지원하는 앱의 URL에 대한 컴팩트 미리보기만 표시됩니다.<br>
+[링크 미리보기 관리](https://slack.com/intl/ko-kr/help/articles/360001502048-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B4%80%EB%A6%AC)
+
  - <Strong>Slack Connect의 워크 오브젝트 미리보기</Strong><br>
 멤버에게 서식 있는 미리보기를 지원하는 앱의 URL에 대한 컴팩트 미리보기만 표시됩니다.<br>
 [링크 미리보기 관리](https://slack.com/intl/ko-kr/help/articles/360001502048-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B4%80%EB%A6%AC)
@@ -193,12 +204,34 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
  - <Strong>새로운 Slack Connect 채널에 대한 초대 수락</Strong><br>
 이미 Slack Connect 채널에 있는 멤버는 관리자가 확인한 후 새로운 채널에 모두 자동으로 추가됩니다.<br>
 
+ - <Strong>Slack Connect용 파일 업로드</Strong><br>
+ 사람들이 외부 사람을 포함한 채널 및 대화에 자신의 기기에 있는 파일을 업로드하거나 이미 Slack에 업로드된 파일을 공유할지 여부를 선택합니다. 이 권한은 오디오 및 비디오 클립 공유는 제어하지 않습니다.<br>
+ [Slack Connect의 파일 업로드, 캔버스 공유, 리스트 공유 관리](https://slack.com/intl/ko-kr/help/articles/1500005777562-Slack-Connect%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%BA%94%EB%B2%84%EC%8A%A4-%EA%B3%B5%EC%9C%A0-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B3%B5%EC%9C%A0-%EA%B4%80%EB%A6%AC?utm_source=slack&utm_medium=prod&utm_campaign=hc)
+
+
  - <Strong>Slack Connect 다이렉트 메시지</Strong><br>
 조직의 멤버가 MinaBiz+에 아직 연계되지 않은 외부 조직의 사람들과 DM을 시작하도록 허용합니다. <br>
 [Slack Connect 다이렉트 메시지에 대한 권한 및 설정 관리](https://slack.com/intl/ko-kr/help/articles/360060326994-Slack-Connect-%EB%8B%A4%EC%9D%B4%EB%A0%89%ED%8A%B8-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B6%8C%ED%95%9C-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EA%B4%80%EB%A6%AC)
 
- - <Strong>비공개 Slack Connect 채널로 변경새 항목</Strong><br>
+ - <Strong>확인되지 않은 조직의 다이렉트 메시지 초대 허용</Strong><br>
+비활성화된 경우 멤버는 확인된 조직의 초대만 수락할 수 있습니다. 초대는 항상 모든 조직에 보낼 수 있습니다.<br>
+[확인된 조직](https://slack.com/intl/ko-kr/help/articles/360057439733-%ED%99%95%EC%9D%B8%EB%90%9C-%EC%A1%B0%EC%A7%81)
+
+ - <Strong>비공개 Slack Connect 채널로 변경</Strong><br>
 멤버는 외부 사람들과 주고받은 기존 그룹 다이렉트 메시지를 비공개 채널로 변경할 수 있습니다.<br>
+
+ - <Strong>Slack Connect의 워크플로 사용</Strong><br>
+Slack Connect 채널에서 서로 다른 조직이 소유한 워크플로를 실행할 수 있는 사용자를 선택하세요.
+
+  - <Strong>사용자 그룹</Strong><br>
+사용자 그룹을 생성 및 관리할 수 있는 사람을 설정합니다.<br>
+[사용자 그룹 생성 및 편집](https://slack.com/intl/ko-kr/help/articles/212906697-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EC%83%9D%EC%84%B1-%EB%B0%8F-%ED%8E%B8%EC%A7%91?utm_source=slack&utm_medium=settings&utm_campaign=hc)
+
+ - <Strong>메시지 편집</Strong><br>
+메시지 편집을 허용할 시기를 선택합니다.
+
+- <Strong>프로필 사용자 지정</Strong><br>
+워크스페이스의 프로필에 새 필드를 추가할 수 있는 사람을 선택합니다.
 
  - <Strong>워크스페이스 분석</Strong><br>
 Analytics 페이지를 볼 수 있는 사람을 선택합니다.<br>
