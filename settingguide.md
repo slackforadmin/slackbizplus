@@ -167,7 +167,8 @@
     <img width="924" alt="image" src="https://github.com/user-attachments/assets/0cd5f181-3582-40ef-baf5-093fdea158d3" />
     <li><span style="font-size: 1.15rem;"><strong>파일 내역</strong>: 모든 파일의 보관 기간을 설정하며, 일정 시간이 지나면 삭제되도록 관리합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ [삭제된 파일을 포함해 모든 파일을 보관합니다.]옵션을 권장합니다. 추후 내역 확인이 필요할 때 삭제된 기록이 남아있지 않으면 문제가 발생할 수 있기 때문입니다.
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ [삭제된 파일을 포함해 모든 파일을 보관합니다.]옵션을 권장합니다.<br> 
+    추후 내역 확인이 필요할 때 삭제된 기록이 남아있지 않으면 문제가 발생할 수 있기 때문입니다.
       </span>
 </div>
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/84e770cf-8986-4c96-a310-e00f14e4381f" />
