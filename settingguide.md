@@ -107,7 +107,7 @@
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">:point_right: 새로운 멤버가 들어오는 경우, 기본 채널을 설정해서 바로 전사 공용 채널에 들어올 수 있도록 할 수 있습니다.</span>
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 새로운 멤버가 들어오는 경우, 기본 채널을 설정해서 바로 전사 공용 채널에 들어올 수 있도록 할 수 있습니다.</span>
 </div>
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/e5e11f2f-5c59-4b15-98cf-333a3b03d57e" />
     <li><span style="font-size: 1.15rem;"><strong>새 사용자 알림</strong>: 새로운 팀원이 합류했을 때 알림 여부를 설정합니다.</span></li>
