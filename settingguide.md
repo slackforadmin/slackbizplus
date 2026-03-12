@@ -157,7 +157,7 @@
 <div id="data-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
-    <li style="color: #d73a49;"><span style="font-size: 1.15rem;"><strong>데이터 보존</strong>: ???</span></li>
+    <li><span style="font-size: 1.15rem;"><strong>데이터 보존</strong>: 메시지의 보관 기간을 설정하여 데이터를 관리합니다.</span></li>
     <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 아래의 내용으로 설정하는 것으로 추천드립니다.<br>
        - 공개 채널 / 비공개 채널 / 다이렉트 메시지 모두 : [메시지를 절대 삭제하지 않음 - 편집 내용 저장]<br>
