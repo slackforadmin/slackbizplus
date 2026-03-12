@@ -203,7 +203,7 @@ Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메
  - <Strong>워크스페이스 분석</Strong><br>
 Analytics 페이지를 볼 수 있는 사람을 선택합니다.<br>
 
- - <Strong>자동화된 메시지</Strong>br>
+ - <Strong>자동화된 메시지</Strong><br>
 워크스페이스에서 키워드 또는 문구에 응답하기 위해 자동화된 메시지를 허용하는 경우 선택하세요.<br>
 
  - <Strong>워크플로 게시</Strong><br>
