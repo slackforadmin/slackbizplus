@@ -8,7 +8,7 @@
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
     <ul style="line-height: 1.8;">
-      <li><Strong>Okta SSO</Strong></li>
+      <li><Strong> - Okta SSO</Strong></li>
          <video width="400" controls>
            <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
            <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" target="_blank" title="PDF 가이드 보기" style="text-decoration: none; display: inline-block;">
