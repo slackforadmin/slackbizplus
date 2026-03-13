@@ -51,7 +51,6 @@
     </div>
     <a href="javascript:void(0);" onclick="document.getElementById('data-setup-section').scrollIntoView({behavior: 'smooth'});" style="margin-top: auto; color: #0366d6; font-size: 0.9em; font-weight: bold; text-decoration: none; border-top: 1px solid #f1f3f5; padding-top: 15px; cursor: pointer;">설정하러 가기 →</a>
   </div>
-
 </div>
 
 <hr style="border: 0; height: 1px; background: #e1e4e8; margin: 40px 0;">
