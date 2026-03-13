@@ -8,12 +8,11 @@
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
     <ul style="line-height: 1.8; list-style: none; padding-left: 0;">
-      <li><strong>Okta SSO 및 가이드 문서</strong></li>
+      <li><strong>Okta SSO 동영상 및 가이드 문서</strong></li>
       <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px; flex-wrap: wrap;">
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
         </video>
-
         <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" target="_blank" title="PDF 가이드 보기" style="text-decoration: none; display: inline-block;">
           <div style="width: 160px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.2s;">
             <img src=""
