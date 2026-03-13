@@ -54,9 +54,9 @@
 
 </div>
 
-<video width="800" controls>
-<source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
-    </video>
+<video width="400" controls>
+  <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+</video>
 
 <hr style="border: 0; height: 1px; background: #e1e4e8; margin: 40px 0;">
 
