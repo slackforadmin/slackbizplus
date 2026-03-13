@@ -1,32 +1,10 @@
 
 # SSO 및 인증
 
-<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
-  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
-    :dart: SSO 연동 가이드
-    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
-  </summary>
-  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <div style="margin-bottom: 10px; font-weight: bold;">✔️ Okta 설정 가이드</div>
-    <div style="display: flex; align-items: stretch; gap: 15px; flex-wrap: nowrap;">
-      <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); flex-shrink: 0;">
-        <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
-      </video>
-      <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" style="display: flex; align-items: center; padding: 0 20px; background-color: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 250px; min-height: 100%;">
-        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="width: 35px; height: auto; margin-right: 12px;">
-        <div style="display: flex; flex-direction: column;">
-          <span style="font-weight: bold; font-size: 14px; color: #0366d6;">Slack 가이드.pdf</span>
-          <span style="font-size: 12px; color: #586069;">클릭하여 다운로드</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</details>
-
 <details style="border: 1px solid #e1e4e8; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(27,31,35,0.04);">
   <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
     <div>
-      <span style="margin-right: 8px;">🎯</span>SSO 연동 가이드
+      :dart: SSO 연동 가이드
     </div>
     <span style="background: #ffd33d; color: #24292e; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600; margin-left: 10px;">추천</span>
   </summary>
