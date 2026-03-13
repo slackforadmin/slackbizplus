@@ -14,6 +14,7 @@
         </video>
       </div>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+      <div style="text-align: center;">
         <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" 
            download="Slack_Okta_SSO_설정.pdf" 
            target="_blank" 
@@ -25,6 +26,8 @@
            onmouseup="this.style.transform='scale(1.1)';">
           <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
         </a>
+        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">가이드 다운로드</div>
+      </div>
         <div style="margin-top: 12px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">가이드 다운로드</div>
       </div>
     </div>
