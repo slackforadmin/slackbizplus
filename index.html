@@ -129,7 +129,9 @@
         paths: 'auto',
         placeholder: '검색어를 입력하세요',
         noData: '결과가 없습니다',
-        depth: 6
+        depth: 6,
+        // [핵심] 검색 결과에서 소스코드(ID, URL 등) 노출을 줄이는 설정
+        hideOtherSidebarContent: true
       },
       plugins: [
         function(hook) {
