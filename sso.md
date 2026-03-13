@@ -40,7 +40,6 @@
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
         </video>
-
         <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" style="display: flex; align-items: center; padding: 15px 20px; background-color: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 280px;">
           <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="width: 40px; height: auto; margin-right: 15px;">
           
@@ -48,7 +47,6 @@
             <span style="font-weight: bold; font-size: 14px; color: #0366d6;">Slack 가이드.pdf</span>
             <span style="font-size: 12px; color: #586069;">클릭하여 다운로드</span>
           </div>
-          
           <span style="font-size: 18px; color: #0366d6;">⬇️</span>
         </a>
       </div>
