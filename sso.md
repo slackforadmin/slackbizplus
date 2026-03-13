@@ -3,38 +3,12 @@
 
 <details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
-    :dart: SSO 연동 방법
-    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
-  </summary>
-  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ul style="line-height: 1.8;">
-      <li><Strong>Okta SSO</Strong></li>
-         <video width="400" controls>
-           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
-           <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" target="_blank" title="PDF 가이드 보기" style="text-decoration: none; display: inline-block;">
-          <div style="width: 160px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.2s;">
-            <img src=""
- alt="Slack Bot Use Cases PDF" style="width: 100%; display: block;">
-            <div style="padding: 8px; background: #fff; font-size: 12px; color: #586069; text-align: center; border-top: 1px solid #e1e4e8;">
-              📄 Use Cases 가이드
-            </div>
-          </div>
-        </a>
-         <li><Strong>Google SSO</Strong></li>
-         <li><Strong>MS SSO</Strong></li>
- </video>
-    </ul>
-  </div>
-</details>
-
-<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
-  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
     :dart: SSO 연동 가이드
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ol style="line-height: 1.8; list-style: none; padding-left: 0;">
-      <li><strong> * Okta</strong></li>
+    <ul style="line-height: 1.8; padding-left: 0;">
+      <li><strong>Okta</strong></li>
       <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px; flex-wrap: wrap;">
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
@@ -48,7 +22,7 @@
           </div>
         </a>
       </div>
-    </ol>
+    </ul>
   </div>
 </details>
 
