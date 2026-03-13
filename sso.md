@@ -29,7 +29,7 @@
 
 <details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
-    🎯 SSO 연동 방법 및 가이드
+    :dart: SSO 연동 가이드
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
