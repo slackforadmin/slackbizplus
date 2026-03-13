@@ -19,7 +19,6 @@
             <span style="font-weight: bold; font-size: 14px; color: #0366d6;">Slack 가이드.pdf</span>
             <span style="font-size: 12px; color: #586069;">클릭하여 다운로드</span>
           </div>
-          <span style="font-size: 18px; color: #0366d6;">⬇️</span>
         </a>
       </div>
     </ul>
