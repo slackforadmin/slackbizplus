@@ -31,7 +31,7 @@
       </div>
     </div>
   </div>
-  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+    <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
         <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Google SSO</div>
@@ -40,7 +40,10 @@
         </video>
       </div>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" target="_blank" title="Slack 가이드 PDF 다운로드" 
+        <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" 
+           download="Slack_Google_SSO_설정.pdf" 
+           target="_blank" 
+           title="Slack 가이드 PDF 다운로드" 
            style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
            onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
            onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
@@ -55,10 +58,13 @@
     <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
-        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Entra ID</div>
+        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Entra ID SSO</div>
       </div>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" target="_blank" title="Slack 가이드 PDF 다운로드" 
+        <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" 
+           download="Slack_EntraID_SSO_설정.pdf" 
+           target="_blank" 
+           title="Slack 가이드 PDF 다운로드" 
            style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
            onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
            onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
