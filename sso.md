@@ -15,16 +15,16 @@
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
         </video>
       </div>
-      <div style="text-align: center;">
+      <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" target="_blank" title="Slack 가이드 PDF 다운로드" 
-           style="display: inline-flex; align-items: center; justify-content: center; width: 64px; height: 64px; background-color: #f0f3f6; border: 2px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 3px 6px rgba(3,102,214,0.15); flex-shrink: 0;"
+           style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
            onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
            onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
            onmousedown="this.style.transform='scale(0.9)';" 
            onmouseup="this.style.transform='scale(1.1)';">
-          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 32px; height: auto; display: block;">
+          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
         </a>
-        <div style="margin-top: 8px; font-size: 12px; color: #0366d6; font-weight: 600;">가이드 받기</div>
+        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">가이드 받기</div>
       </div>
     </div>
   </div>
