@@ -56,21 +56,23 @@
     </div>
   </div>
 <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 200px; gap: 20px;">
-    <div style="font-weight: 600; color: #444; font-size: 15px; letter-spacing: -0.3px;">✔️ Entra ID SSO</div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="display: flex; flex-direction: column; min-height: 200px;">
+    <div style="align-self: flex-start; font-weight: 600; color: #444; font-size: 15px; letter-spacing: -0.3px; margin-bottom: 20px;">
+      ✔️ Entra ID SSO
+    </div>
+    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
       <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" 
          download="Slack_EntraID_SSO_설정.pdf" 
          target="_blank" 
          title="Slack 가이드 PDF 다운로드" 
-         style="display: inline-flex; align-items: center; justify-content: center; width: 80px; height: 80px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
+         style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
          onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
          onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
          onmousedown="this.style.transform='scale(0.9)';" 
          onmouseup="this.style.transform='scale(1.1)';">
-        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 40px; height: auto; display: block;">
+        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
       </a>
-      <div style="margin-top: 12px; font-size: 14px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">Entra ID 설정 가이드 받기</div>
+      <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">Entra ID 설정 가이드 받기</div>
     </div>
   </div>
 </div>
