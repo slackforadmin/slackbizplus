@@ -6,7 +6,6 @@
     <div>
       :dart: SSO 연동 가이드
     </div>
-    <span style="background: #ffd33d; color: #24292e; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
