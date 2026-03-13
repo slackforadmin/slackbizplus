@@ -39,7 +39,6 @@
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
         </video>
-
         <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" target="_blank" title="PDF 가이드 보기" style="text-decoration: none; display: inline-block;">
           <div class="pdf-card" style="width: 160px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.2s;">
             <img src="https://spn-sta.github.io/gen-ai-w/demos/mina_slack_pdf_preview.png" alt="Slack Bot Use Cases PDF" style="width: 100%; display: block;">
