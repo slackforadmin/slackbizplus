@@ -59,7 +59,6 @@
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
         <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Entra ID SSO</div>
-      </div>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" 
            download="Slack_EntraID_SSO_설정.pdf" 
