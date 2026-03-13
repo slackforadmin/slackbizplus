@@ -1,6 +1,21 @@
 
 # SSO 및 인증
 
+<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
+  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
+    :sso: SSO 연동 방법
+    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
+  </summary>
+  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
+    <ul style="line-height: 1.8;">
+      <li>Okta SSO</li>
+       <video width="400" controls>
+   <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+ </video>
+    </ul>
+  </div>
+</details>
+
 우측 상단의 SSO 설정을 클릭하여 SSO 설정을 끝내고 나면, 아래 화면이 보입니다. 
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
