@@ -23,6 +23,34 @@
   </div>
 </details>
 
+<details style="border: 1px solid #e1e4e8; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(27,31,35,0.04);">
+  <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
+    <div>
+      <span style="margin-right: 8px;">🎯</span>SSO 연동 가이드
+    </div>
+    <span style="background: #ffd33d; color: #24292e; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600; margin-left: 10px;">추천</span>
+  </summary>
+  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+    <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+      <div style="flex: 1; min-width: 300px;">
+        <div style="margin-bottom: 12px; font-weight: 600; color: #2f363d; font-size: 15px;">✔️ Okta 설정 가이드</div>
+        <video width="100%" max-width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
+          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+        </video>
+      </div>
+      <a href="https://github.com/minaslack/slackbizplus/raw/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" target="_blank" title="Slack 가이드 PDF 다운로드" 
+         class="modern-pdf-btn"
+         style="display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px; background-color: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 50%; color: #0366d6; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 1px 2px rgba(0,0,0,0.05); flex-shrink: 0;"
+         onmouseover="this.style.backgroundColor='#e1e4e8'; this.style.borderColor='#d1d5da'; this.style.transform='scale(1.05)';" 
+         onmouseout="this.style.backgroundColor='#f6f8fa'; this.style.borderColor='#e1e4e8'; this.style.transform='scale(1)';"
+         onmousedown="this.style.transform='scale(0.95)';" 
+         onmouseup="this.style.transform='scale(1.05)';">
+        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 24px; height: auto; display: block;">
+      </a>
+    </div>
+  </div>
+</details>
+
 우측 상단의 SSO 설정을 클릭하여 SSO 설정을 끝내고 나면, 아래 화면이 보입니다. 
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
