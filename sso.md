@@ -10,7 +10,7 @@
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
-        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Okta 설정 가이드</div>
+        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Okta</div>
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
         </video>
