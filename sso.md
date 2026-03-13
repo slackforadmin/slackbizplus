@@ -7,7 +7,7 @@
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
   <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ul style="line-height: 1.8; list-style: none; padding-left: 0;">
+    <ul style="line-height: 1.8; list-style: none; padding-left: 8px;">
       <li><strong>Okta</strong></li>
       <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px; flex-wrap: wrap;">
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
