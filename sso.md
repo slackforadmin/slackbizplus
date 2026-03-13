@@ -12,7 +12,7 @@
          <video width="400" controls>
            <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
          <li><Strong>Google SSO</Strong></li>
-         <li><Strong>Google SSO</Strong></li>
+         <li><Strong>MS SSO</Strong></li>
  </video>
     </ul>
   </div>
