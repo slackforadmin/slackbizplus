@@ -34,27 +34,6 @@
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
-        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Okta SSO</div>
-        <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
-          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
-        </video>
-      </div>
-      <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/Slack_Okta_SSO_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.pdf" download="Slack_Okta_SSO_설정.pdf" target="_blank" title="Slack 가이드 PDF 다운로드" 
-           style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
-           onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
-           onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
-           onmousedown="this.style.transform='scale(0.9)';" 
-           onmouseup="this.style.transform='scale(1.1)';">
-          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
-        </a>
-        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">Okta 설정 가이드 받기</div>
-      </div>
-    </div>
-  </div>
-  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
-    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
-      <div style="flex-shrink: 0;">
         <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Google SSO</div>
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
           <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
