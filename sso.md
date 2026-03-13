@@ -26,31 +26,6 @@
   </div>
 </details>
 
-<details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
-  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
-    :dart: SSO 연동 가이드
-    <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
-  </summary>
-  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ul style="line-height: 1.8; padding-left: 10px; list-style: none;">
-      <li><strong>Okta</strong></li>
-      <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px; flex-wrap: wrap;">
-        <video width="400" controls style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
-        </video>
-        <a href="https://github.com/minaslack/slackbizplus/blob/main/asset/pdf/slackbotusecasesprompts.pdf" download="SlackBot_Guide.pdf" style="display: flex; align-items: center; padding: 15px 20px; background-color: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 4px 10px rgba(0,0,0,0.1); width: 280px;">
-          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="width: 40px; height: auto; margin-right: 15px;">
-          <div style="display: flex; flex-direction: column; flex-grow: 1;">
-            <span style="font-weight: bold; font-size: 14px; color: #0366d6;">Slack 가이드.pdf</span>
-            <span style="font-size: 12px; color: #586069;">클릭하여 다운로드</span>
-          </div>
-          <span style="font-size: 18px; color: #0366d6;">⬇️</span>
-        </a>
-      </div>
-    </ul>
-  </div>
-</details>
-
 우측 상단의 SSO 설정을 클릭하여 SSO 설정을 끝내고 나면, 아래 화면이 보입니다. 
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/cbfce6c0-8b9f-4379-8791-bb7bd5b24587" />
