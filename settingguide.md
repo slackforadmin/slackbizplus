@@ -63,6 +63,10 @@
         <strong>워크스페이스 이름 및 URL</strong>: 워크스페이스의 이름과 접속 주소(URL)를 설정합니다.
       </span>
     </li>
+        <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 의미 있는 워크스페이스 이름과 URL을 설정하십시오. 이는 귀하의 회사, 부서, 팀 및/또는 프로젝트를 반영해야 합니다. 
+</span>
+</div>
     <img width="1251" alt="image" src="https://github.com/user-attachments/assets/29937071-dd2d-4173-9621-00ff6927a682" style="margin: 10px 0;" />
     <li>
       <span style="font-size: 1.15rem;">
