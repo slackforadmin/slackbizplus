@@ -80,7 +80,6 @@
     </div>
   </div>
 </details>
-
 <script>
   function checkGuidePassword() {
     var password = "1234";
