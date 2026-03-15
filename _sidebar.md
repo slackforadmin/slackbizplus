@@ -52,4 +52,4 @@
   * [지원 중단](deprecation.md)
   * [이 워크스페이스 정보](workspacesetting.md)
  
-* [**영상 가이드**](videoguide.md)
+* [**가이드 및 참고자료**](videoguide.md)
