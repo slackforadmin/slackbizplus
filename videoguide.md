@@ -106,7 +106,7 @@
 <details style="border: 1px solid #e1e4e8; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(27,31,35,0.04);">
   <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
     <div>
-      :slack:  참고 링크 및 참고 자료
+      :dart: 참고 링크 및 참고 자료
     </div>
   </summary>
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
@@ -116,42 +116,56 @@
   <div>
     <h4 style="margin-top: 0; color: #4a154b;">🚀 시작하기</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack 관리자를 위한 시작</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack 소개 이메일 템플릿</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 새 사용자를 위한 시작 가이드</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Enterprise 워크스페이스 요청</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack을 소개하기 위한 이메일 템플릿</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 새 Slack 사용자를 위한 시작하기 가이드</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack 워크스페이스에 참여</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Enterprise 조직에서 새 워크스페이스 요청</a></li>
     </ul>
   </div>
-
   <div>
     <h4 style="margin-top: 0; color: #4a154b;">⚖️ 역할 및 권한</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack 역할 유형 검토</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 게스트 역할 이해하기</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 역할별 권한 상세</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack에서의 역할 유형</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack의 게스트 역할 이해하기</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack의 역할별 권한</a></li>
     </ul>
   </div>
-
   <div>
     <h4 style="margin-top: 0; color: #4a154b;">👥 멤버 관리</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버 초대 및 초대 링크 관리</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버 역할 및 프로필 변경</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 계정 비활성화 및 재활성화</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 워크스페이스의 멤버 목록 다운로드</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 시스템 역할에 멤버 할당</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 워크스페이스에 새 멤버 초대</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Google Directory에서 워크스페이스에 새 멤버 초대</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack에 초대된 멤버</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 워크스페이스에 대해 보류 중인 초대 및 초대 링크 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버의 역할 변경</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버 프로필로 연결되는 링크 생성</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack에서 멤버 이름 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 구성원의 이메일 주소 변경</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버의 프로필 보기 및 편집</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack Connect 외부 사람들 대시보드 사용</a></li>
       <li><a href="#" style="color: #1264a3; text-decoration: none;">• 중복 계정 수정 및 방지</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버의 계정 비활성화</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멤버의 계정 재활성화</a></li>
     </ul>
   </div>
-
   <div>
     <h4 style="margin-top: 0; color: #4a154b;">💬 채널 관리</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 매니저 및 도구 사용</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack Connect 관리 및 승인</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 관리 도구 사용</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack의 채널 매니저 이해하기</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 전문가 설정 및 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 관리 도구에 대한 권한 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 게시 권한을 설정할 수 있는 사용자 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack Connect 채널 승인 설정 및 초대 요청 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack Connect의 파일 업로드, 캔버스 공유, 리스트 공유 관리</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 데이터 관리 기능을 Slack Connect에 적용하는 방법</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 멀티 워크스페이스 채널 관리</a></li>
       <li><a href="#" style="color: #1264a3; text-decoration: none;">• 채널 이름 지침 만들기</a></li>
-      <li><a href="#" style="color: #1264a3; text-decoration: none;">• 워크스페이스 간 채널 이동</a></li>
+      <li><a href="#" style="color: #1264a3; text-decoration: none;">• Enterprise 조직에서 워크스페이스 간의 채널 이동</a></li>
     </ul>
   </div>
-
 </div>
     </div>
   </div>
