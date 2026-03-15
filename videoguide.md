@@ -116,7 +116,14 @@
   <div>
     <h4 style="margin-top: 0; color: #4a154b;">🚀 시작하기</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="https://slack.com/intl/ko-kr/help/articles/217626378-Slack%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%85%9C%ED%94%8C%EB%A6%BF" style="color: #1264a3; text-decoration: none;">• Slack을 소개하기 위한 이메일 템플릿</a></li>
+      <li>
+  <a href="https://slack.com/intl/ko-kr/help/articles/217626378-Slack%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%85%9C%ED%94%8C%EB%A6%BF" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="color: #1264a3; text-decoration: none;">
+     • Slack을 소개하기 위한 이메일 템플릿
+  </a>
+</li>
       <li><a href="#" style="color: #1264a3; text-decoration: none;">• 새 Slack 사용자를 위한 시작하기 가이드</a></li>
       <li><a href="#" style="color: #1264a3; text-decoration: none;">• Slack 워크스페이스에 참여</a></li>
       <li><a href="#" style="color: #1264a3; text-decoration: none;">• Enterprise 조직에서 새 워크스페이스 요청</a></li>
