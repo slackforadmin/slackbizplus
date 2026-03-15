@@ -6,7 +6,6 @@
       :dart: SSO 연동 가이드
     </div>
   </summary>
-  
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="flex-shrink: 0;">
@@ -58,7 +57,6 @@
       </div>
     </div>
   </div>
-
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; flex-direction: column; min-height: 200px;">
       <div style="align-self: flex-start; font-weight: 600; color: #444; font-size: 15px; letter-spacing: -0.3px; margin-bottom: 20px;">
