@@ -1,4 +1,4 @@
-# 관리자 기본 설정 방법
+# 관리자 기본 설정
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
   
