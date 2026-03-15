@@ -167,8 +167,10 @@ GIF 사용 가능 여부를 설정합니다. 멤버들이 자유롭게 사용할
 
  - <Strong>워크스페이스 삭제</Strong><br>
 Slack 워크스페이스 삭제 작업은 취소할 수 없습니다. 모든 메시지 및 파일을 복구할 수 없습니다. 삭제하기 전에 신중하게 데이터 내보내기를 고려하세요.<br>
-참고: 워크스페이스의 이름 또는 URL을 변경하기만 하려면 워크스페이스를 삭제하지 마세요. 워크스페이스를 삭제하기 전에 데이터 내보내기를 할 수도 있습니다.<br>
-
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 워크스페이스의 이름 또는 URL을 변경하기만 하려면 워크스페이스를 삭제하지 마세요. 워크스페이스를 삭제하기 전에 데이터 내보내기를 할 수도 있습니다.
+</span>
+</div>
  - <Strong>리스트</Strong><br>
 팀이 목록을 만들고 큐레이팅할 수 있도록 지원합니다.<br>
 
