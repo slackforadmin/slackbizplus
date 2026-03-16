@@ -30,7 +30,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML을 권장하는게 좋을 것 같은데)
+        Q : 구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML을 권장하는게 좋을 것 같은데)
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
