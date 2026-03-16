@@ -12,15 +12,6 @@
         <a href="https://slack.com/intl/ko-kr/help/articles/217626378" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline;">이메일 템플릿 보기 ↗</a>
       </div>
     </details>
-    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>채널 관리 화면에서 비공개 채널이 안 보이는 이유</span>
-        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
-      </summary>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-            Q : 채널 관리에서 왜 비공개 채널이 안 보이는지 관리자가 계속 보려면 어떻게 해야 하는지
-      </div>
-    </details>
   </div>
   <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🔐 보안 및 인증</h3>
