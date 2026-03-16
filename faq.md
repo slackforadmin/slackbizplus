@@ -1,5 +1,5 @@
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 20px auto; color: #1d1c1d; line-height: 1.6;">
-  <h2 style="border-left: 5px solid #4a154b; padding-left: 15px; margin-bottom: 25px; color: #4a154b;">💬 Slack 자주 묻는 질문</h2>
+  <h2 style="border-left: 5px solid #8E44AD; padding-left: 15px; margin-bottom: 25px; color: #8E44AD;">💬 Slack 자주 묻는 질문</h2>
   <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📁 카테고리 1: 채널 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
