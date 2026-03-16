@@ -1,7 +1,7 @@
 <div style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 20px auto; color: #1d1c1d; line-height: 1.6;">
-  <h2 style="border-left: 5px solid #8E44AD; padding-left: 15px; margin-bottom: 25px; color: #8E44AD;">💬 Slack 자주 묻는 질문</h2>
+  <h2 style="border-left: 5px solid #7d3c98; padding-left: 15px; margin-bottom: 25px; color: #7d3c98;">💬 Slack 자주 묻는 질문</h2>
   <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📁 카테고리 1: 채널 관리</h3>
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📁 채널 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Business+ 채널 관리 기능에서 할 수 있는 작업 (비공개 채널 관리 + 퇴사자 채널 복구 방법)</span>
@@ -24,7 +24,7 @@
     </details>
   </div>
   <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🔐 카테고리 2: 보안 및 인증</h3>
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🔐 보안 및 인증</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Google OAuth vs SAML 로그인 방식 차이 및 권장 설정</span>
@@ -45,7 +45,7 @@
     </details>
   </div>
   <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📤 카테고리 3: 데이터 내보내기 및 메시지 관리</h3>
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📤 데이터 내보내기 및 메시지 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Business+ 전체 데이터 내보내기 방법 및 가독성 있게 확인하는 무료 방법</span>
@@ -66,7 +66,7 @@
     </details>
   </div>
     <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 카테고리 4: 계정 및 사용자 관리</h3>
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 계정 및 사용자 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Business+ 유저 이메일 변경 방법 (개인 계정 → 회사 계정, 관리자 이메일, 도메인 변경)</span>
@@ -96,7 +96,7 @@
     </details>
   </div>
     <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 카테고리 5: 외부 협업 및 권한 설정</h3>
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Slack Connect 및 게스트 초대를 관리자 승인 하에 운영하는 방법</span>
