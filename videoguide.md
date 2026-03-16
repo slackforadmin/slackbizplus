@@ -1,6 +1,6 @@
 # 영상 가이드
 
-<details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">>
+<details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
   <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
     <div>
       :dart: SSO 연동 가이드
