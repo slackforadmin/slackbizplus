@@ -53,3 +53,5 @@
   * [이 워크스페이스 정보](workspacesetting.md)
  
 * [**가이드 및 참고 링크**](videoguide.md)
+
+* [**FAQ**](faq.md)
