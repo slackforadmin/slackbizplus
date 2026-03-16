@@ -41,6 +41,7 @@ Slack에 초대했지만 가입을 완료하지 않은 멤버에게는 수신한
   <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 보안이 중요한 기업이나 조직에서, 초대 이메일이 중간에 탈취되거나 변조되는 걸 막기 위해 사용합니다. 특히 금융, 의료, 법률 같은 민감한 업종에서 유용합니다.
       </span>
 </div>
+<img width="898" alt="image" src="https://github.com/minaslack/slackbizplus/blob/main/asset/image/TLS.png" />
 
  - <Strong>워크스페이스 언어</Strong><br>
 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. <b>한국어</b>로 바꿔서 편리하게 사용하세요!!<br>
