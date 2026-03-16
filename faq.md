@@ -8,18 +8,17 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        관리자용 시작 가이드와 구성원들에게 발송할 수 있는 이메일 템플릿을 활용해 보세요. 
-        <br><br>
+      Q : 비공개 채널 관리 + 2명이 비공개 채널에서 소통하다 퇴사시 해당 채널을 어떻게 다시 살려서 활용할지        <br><br>
         <a href="https://slack.com/intl/ko-kr/help/articles/217626378" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline;">이메일 템플릿 보기 ↗</a>
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>채널 관리 화면에서 비공개 채널이 안 보이는 이유 및 관리자가 지속적으로 보는 방법</span>
+        <span>채널 관리 화면에서 비공개 채널이 안 보이는 이유</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Slack에는 소유자, 관리자, 멤버, 게스트(단일/멀티 채널) 역할이 있습니다. 각 역할에 따라 채널 관리 및 설정 권한이 다르게 부여됩니다.
+            Q : 채널 관리에서 왜 비공개 채널이 안 보이는지 관리자가 계속 보려면 어떻게 해야 하는지
       </div>
     </details>
   </div>
@@ -31,7 +30,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        '멤버 관리' 대시보드에서 개별 초대나 Google Directory 연동이 가능합니다. 멤버의 이메일 변경이나 프로필 편집도 관리자 권한으로 지원할 수 있습니다.
+        구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML을 권장하는게 좋을 것 같은데)
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
@@ -40,7 +39,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        멤버 목록에서 특정 멤버를 선택해 계정을 즉시 비활성화할 수 있습니다. 비활성화된 멤버는 나중에 언제든 다시 재활성화가 가능하며 데이터는 유지됩니다.
+        Q : 사용자 계정 관리를 위한 SCIM Provisioning은 어떻게 활용할 수 있을지 (프로필 및 유저 관리와 연관 있을 것 같은데 실제 저희 Plan 비교표에도 나와있지만 실제 활용하는 고객은 거의 없어 Business+ 를 계속 사용하게 하는데 중요한 요소가 될 수 있을 것 같습니다)
       </div>
     </details>
   </div>
@@ -52,7 +51,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        채널 매니저는 채널 이름을 변경하거나 게시 권한을 제한할 수 있습니다. 전사 채널(#general 등)의 공지 전용 설정을 활용해 보세요.
+        Q : 데이터를 내보내고 어떻게 가독성 있게 확인이 가능한지 (여러 방법이 있는 것 같은데 무료로 가독성 있게 관리자가 확인 가능한 방법은 무엇인지)
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
@@ -61,7 +60,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Slack Connect를 통해 외부 조직과 채널을 공유하세요. 파일 업로드 제한이나 캔버스 공유 권한 등을 관리자 대시보드에서 세부적으로 조절할 수 있습니다.
+        Q : 메시지 삭제 및 편집 관련 설정 (e.g 최초에 Default 세팅 편집 및 삭제는 추적하지 않음으로 되어 있다 추후에 변경시 이전에 삭제 및 수정 메시지는 보관하지 않을 것 같은데 이러한 설명 및 고객사 권장 설정)
       </div>
     </details>
   </div>
@@ -73,7 +72,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        채널 매니저는 채널 이름을 변경하거나 게시 권한을 제한할 수 있습니다. 전사 채널(#general 등)의 공지 전용 설정을 활용해 보세요.
+        Q : 유저 이메일 변경 방법 (간혹 개인 계정으로 만들어서 사용하는 유저들 이메일 변경 방법 + 관리자들 이메일 변경 방법), 회사 이메일 도메인 변경시 변경 방법
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
@@ -82,7 +81,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Slack Connect를 통해 외부 조직과 채널을 공유하세요. 파일 업로드 제한이나 캔버스 공유 권한 등을 관리자 대시보드에서 세부적으로 조절할 수 있습니다.
+        Q : 최초 도입 혹은 평가판 활용시 권장 유저 초대 방법 (SSO 없다고 가정 하에)
       </div>
     </details>
       <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
@@ -91,7 +90,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Slack Connect를 통해 외부 조직과 채널을 공유하세요. 파일 업로드 제한이나 캔버스 공유 권한 등을 관리자 대시보드에서 세부적으로 조절할 수 있습니다.
+        Q : 사용자 프로필에 들어가야 할 내용을 중앙에서 API로 넣어줄 수 있는 방법 (Okta, Entra ID 안 쓰는 경우에도)
       </div>
     </details>
   </div>
@@ -103,16 +102,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        채널 매니저는 채널 이름을 변경하거나 게시 권한을 제한할 수 있습니다. 전사 채널(#general 등)의 공지 전용 설정을 활용해 보세요.
-      </div>
-    </details>
-    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>설정 및 권한 탭 메뉴 항목별 상세 설명</span>
-        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
-      </summary>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Slack Connect를 통해 외부 조직과 채널을 공유하세요. 파일 업로드 제한이나 캔버스 공유 권한 등을 관리자 대시보드에서 세부적으로 조절할 수 있습니다.
+        Q : 운영시 슬랙 Connect, 게스트 초대 관리자 승인하에 운영되게 하는 방법
       </div>
     </details>
   </div>
