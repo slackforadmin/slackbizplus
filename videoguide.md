@@ -89,20 +89,6 @@
     </div>
   </div>
 </details>
-
-<details style="border: 1px solid #e1e4e8; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(27,31,35,0.04);">
-  <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
-    <div>
-      :dart: Slack Connect 가이드
-    </div>
-  </summary>
-  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
-    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
-      
-    </div>
-  </div>
-</details>
-
 <details style="border: 1px solid #e1e4e8; border-radius: 8px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(27,31,35,0.04);">
   <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
     <div>
