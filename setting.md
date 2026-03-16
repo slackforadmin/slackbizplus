@@ -42,7 +42,7 @@ Slack에 초대했지만 가입을 완료하지 않은 멤버에게는 수신한
       </span>
 </div>
 <div style="margin: 15px 0;">
-  <img src="https://github.com/minaslack/slackbizplus/blob/main/asset/image/TLS.png?raw=true" alt="TLS 시행 설정 예시" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="https://github.com/minaslack/slackbizplus/blob/main/asset/image/TLS.png?raw=true" alt="TLS 시행 설정 예시" style="max-width: 100%; height: auto; border: none; border-radius: 8px;">
 </div>
 
  - <Strong>워크스페이스 언어</Strong><br>
