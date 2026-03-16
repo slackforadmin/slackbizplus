@@ -36,7 +36,11 @@ Slack에 초대했지만 가입을 완료하지 않은 멤버에게는 수신한
 도메인 허용 목록을 활용하면 채널 이메일 주소 또는 개인적 포워딩 이메일 주소를 사용하여 채널로 이메일을 보낼 수 있는 도메인을 지정할 수 있습니다.<br>
 
  - <Strong>초대된 멤버용 TLS 시행</Strong><br>
-초대된 멤버에게 전송되는 이메일 알림에 대해 TLS(전송 계층 보안)를 시행하도록 선택할 수 있습니다.<br>
+초대 이메일을 암호화된 안전한 경로로만 보내도록 강제하는 보안 설정입니다.<br>
+<div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 보안이 중요한 기업이나 조직에서, 초대 이메일이 중간에 탈취되거나 변조되는 걸 막기 위해 사용합니다. 특히 <b>금융, 의료, 법률</b> 같은 민감한 업종에서 유용합니다.
+      </span>
+</div>
 
  - <Strong>워크스페이스 언어</Strong><br>
 시스템 알림, Slackbot 메시지 및 가입 이메일에 적용됩니다. <b>한국어</b>로 바꿔서 편리하게 사용하세요!!<br>
