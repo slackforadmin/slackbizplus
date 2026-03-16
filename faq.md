@@ -66,6 +66,22 @@
   </div>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 계정 및 사용자 관리</h3>
+      <details style="border: 1px solid #d1d5da; border-radius: 6px; margin-bottom: 10px;">
+        <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
+          🔒 승인 없이 회사 멤버 일괄 초대하기
+          <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
+        </summary>
+        <div style="padding: 15px; border-top: 1px solid #d1d5da;">
+          <ol style="line-height: 1.8;">
+            <li>이메일 도메인 설정</li>
+                    <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
+            <li>사용자 초대로 이동</li>
+                    <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
+            <li>초대링크 복사 후, 전달<br> - 설정된 도메인 계정으로 링크를 통해 접속하는 사용자는 승인 절차 없이 바로 입장</li>
+              <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
+          </ol>
+        </div>
+      </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>Business+ 유저 이메일 변경 방법 (개인 계정 → 회사 계정, 관리자 이메일, 도메인 변경)</span>
