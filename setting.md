@@ -38,7 +38,7 @@ Slack에 초대했지만 가입을 완료하지 않은 멤버에게는 수신한
  - <Strong>초대된 멤버용 TLS 시행</Strong><br>
 초대 이메일을 암호화된 안전한 경로로만 보내도록 강제하는 보안 설정입니다.<br>
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 보안이 중요한 기업이나 조직에서, 초대 이메일이 중간에 탈취되거나 변조되는 걸 막기 위해 사용합니다. 특히 <b>금융, 의료, 법률</b> 같은 민감한 업종에서 유용합니다.
+  <span style="color: #6A1B9A; font-weight: bold;">:pushpin: 보안이 중요한 기업이나 조직에서, 초대 이메일이 중간에 탈취되거나 변조되는 걸 막기 위해 사용합니다. 특히 금융, 의료, 법률 같은 민감한 업종에서 유용합니다.
       </span>
 </div>
 
