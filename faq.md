@@ -77,7 +77,7 @@
                     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
             <li>사용자 초대로 이동</li>
                     <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
-            <li>초대링크 복사 후, 전달<br> - 설정된 도메인 계정으로 링크를 통해 접속하는 사용자는 승인 절차 없이 바로 입장</li>
+            <li>이메일 설정 및 초대링크 복사 후, 전달<br> - 설정된 도메인 계정으로 링크를 통해 접속하는 사용자는 승인 절차 없이 바로 입장</li>
               <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
           </ol>
       </div>
