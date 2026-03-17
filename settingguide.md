@@ -58,7 +58,7 @@
 <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
   <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
     <div>
-      :dart: 관리자 기본 설정 가이드
+      :dart: 관리자 기본 설정 가이드(영상)
     </div>
   </summary>
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
