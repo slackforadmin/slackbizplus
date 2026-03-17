@@ -121,7 +121,7 @@
     💡 <strong>팁:</strong> 슬랙에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
   </div>
   <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #1264a3; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
-    JSON을 표로 변환하기 (JSON to Table) ↗
+    JSON을 표로 변환하기 (JSON to Table)
   </a>
         <img width="1459" alt="image" src="https://github.com/user-attachments/assets/e9e2f438-7290-458b-ab00-d5223f2803cb" />
 
