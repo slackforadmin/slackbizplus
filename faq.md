@@ -115,7 +115,13 @@
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         📌 <Strong>비공개 채널/DM까지 포함하여 데이터 내보내기</Strong>를 하기위해서 [<a href="https://minaslack.github.io/slackbizplus/#/dataexport?id=%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%ec%9a%94%ec%b2%ad" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 데이터 내보내기 요청 </a>]🔼이 필요합니다.
       </div>
+       - 보안 > 데이터 가져오기 및 내보내기 > 내보내기 날짜 범위 선택 후 [내보내기 시작]클릭<br>
       <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" />
+       - [다운로드 준비]클릭<br>
+      <img width="926" alt="image" src="https://github.com/user-attachments/assets/27de6c60-b338-42dd-9b1a-fdd95157a69c" />
+       - [JSON을 표로 변환하기 (JSON to Table)]버튼 클릭 후, 변환 도구 웹사이트 오픈<br>
+         JSON파일 업로드 또는 붙여넣기 후, 결과 확인<br>
+      <img width="1454" alt="image" src="https://github.com/user-attachments/assets/b48dc82e-3f96-46cf-ad56-9ed7798e4d08" />
       <div style="padding: 15px; background: #fff;">
   <div style="background: #F3E5F5; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 15px;">
     💡 <strong>팁:</strong> Slack에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
