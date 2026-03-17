@@ -128,7 +128,7 @@
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
     ⚠️ 보안 주의사항
   </p>
-  <p style="margin: 0; font-size: 15px; color: #444; line-height: 1.6;">
+  <p style="margin: 0; font-size: 13px; color: #444; line-height: 1.6;">
     기업의 민감 데이터가 포함된 경우 외부 사이트 대신 <strong>엑셀(데이터 가져오기 > JSON)</strong>이나 
     브라우저의 <strong>JSON Viewer 확장 프로그램</strong>을 사용해 로컬에서 확인하는 것을 권장합니다.
   </p>
