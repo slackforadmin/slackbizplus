@@ -24,7 +24,6 @@
     <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
       <strong>Q : 구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML 권장)</strong>
     </p>
-    
     <table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
       <thead>
         <tr style="background: #f8f9fa;">
