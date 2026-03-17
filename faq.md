@@ -117,13 +117,15 @@
       </div>
       <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" />
       <div style="padding: 15px; background: #fff;">
-  <div style="background: #f1f8ff; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 13px; color: #0366d6;">
-    💡 <strong>팁:</strong> 슬랙에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
+  <div style="background: #F3E5F5; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 15px; color: #0366d6;">
+    💡 <strong>팁:</strong> Slack에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
   </div>
-  <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #1264a3; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
+  <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #8E44AD; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
     JSON을 표로 변환하기 (JSON to Table)
   </a>
-        <img width="1459" alt="image" src="https://github.com/user-attachments/assets/e9e2f438-7290-458b-ab00-d5223f2803cb" />
+  <br>
+  [예시 화면]
+  <img width="1459" alt="image" src="https://github.com/user-attachments/assets/e9e2f438-7290-458b-ab00-d5223f2803cb" />
 
 </div>
     </details>
