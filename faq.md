@@ -159,11 +159,11 @@
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>Business+ 유저 이메일 변경 방법 (개인 계정 → 회사 계정, 관리자 이메일, 도메인 변경)</span>
+        <span>사용자 이메일 변경 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Q : 유저 이메일 변경 방법 (간혹 개인 계정으로 만들어서 사용하는 유저들 이메일 변경 방법 + 관리자들 이메일 변경 방법), 회사 이메일 도메인 변경시 변경 방법
+        워크스페이스 소유자가 SSO(Single Sign-On)을 활성화한 경우 이메일 주소를 포함한 개인 정보 편집 기능이 제한될 수 있습니다.
       </div>
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
