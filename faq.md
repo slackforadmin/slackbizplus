@@ -92,6 +92,16 @@
 </div>
   <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📤 데이터 내보내기 및 메시지 관리</h3>
+        <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
+      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
+        <span>비공개 채널/DM까지 포함하여 데이터 내보내기 또는 채널 관리에서 비공개 채널을 확인할 수 있는 방법</span>
+        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
+      </summary>
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        📌 <Strong>필요합니다.
+      </div>
+      <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" />
+    </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>데이터 내보내기 및 가독성 있게 확인하는 방법</span>
