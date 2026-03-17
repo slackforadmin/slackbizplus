@@ -20,10 +20,12 @@
     <span>Google OAuth vs SAML 로그인 방식 차이 및 권장 설정</span>
     <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
   </summary>
-  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-    <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
-      <strong>Q : 구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML 권장)</strong>
-    </p>
+  <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
+    <div style="padding: 0 15px;">
+      <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
+        <strong>Q : 구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML 권장)</strong>
+      </p>
+    </div>
     <table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
       <thead>
         <tr style="background: #f8f9fa;">
@@ -34,34 +36,34 @@
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">설정 난이도</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">쉬움 (빠른 설정)</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">중간 (IDP 설정 필요)</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">설정 난이도</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">쉬움 (빠른 설정)</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">중간 (IDP 설정 필요)</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">지원 플랜</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">Pro, Business+</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">Business+, Enterprise Grid</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">지원 플랜</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Pro, Business+</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Business+, Enterprise Grid</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">JIT 프로비저닝 제어</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #e01e5a;">❌</span> 항상 ON (끌 수 없음)</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #2eb67d;">✅</span> ON/OFF 선택 가능</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">JIT 프로비저닝 제어</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #e01e5a;">❌</span> 항상 ON (끌 수 없음)</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #2eb67d;">✅</span> ON/OFF 선택 가능</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">사용자 단위 접근 제어</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #e01e5a;">❌</span> 도메인 단위만 가능</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #2eb67d;">✅</span> 사용자/그룹 단위 제어</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">사용자 단위 접근 제어</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #e01e5a;">❌</span> 도메인 단위만 가능</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #2eb67d;">✅</span> 사용자/그룹 단위 제어</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">SCIM 연동</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #e01e5a;">❌</span> 불가</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;"><span style="color: #2eb67d;">✅</span> 가능</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">SCIM 연동</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #e01e5a;">❌</span> 불가</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;"><span style="color: #2eb67d;">✅</span> 가능</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600;">2FA 적용</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">IDP 레벨 설정 필요</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">IDP 레벨 설정 필요</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">2FA 적용</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">IDP 레벨 설정 필요</td>
+          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">IDP 레벨 설정 필요</td>
         </tr>
       </tbody>
     </table>
