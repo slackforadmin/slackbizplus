@@ -117,7 +117,7 @@
       </div>
       <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" />
             <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        📌 <a href="https://slack.com/intl/ko-kr/help/articles/220556107-Slack-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> Slack 데이터 내보내기를 읽는 방법 </a>
+        <a href="https://slack.com/intl/ko-kr/help/articles/220556107-Slack-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> Slack 데이터 내보내기를 읽는 방법 </a>
       </div>
       <div style="padding: 15px; background: #fff;">
   <div style="background: #F3E5F5; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 15px;">
