@@ -17,13 +17,13 @@
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🔐 보안 및 인증</h3>
 <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
   <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-    <span>Google OAuth vs SAML 로그인 방식 차이 및 권장 설정</span>
+    <span>Google OAuth vs SAML 차이 및 권장 설정</span>
     <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
   </summary>
   <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
     <div style="padding: 0 15px;">
       <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
-        <strong>Q : 구글 Oauth, SAML 기반 로그인 방식 차이 및 권장 (SAML 권장)</strong>
+        <strong> * Google OAuth vs SAML 차이</strong>
       </p>
     </div>
     <table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
