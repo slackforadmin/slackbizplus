@@ -120,6 +120,15 @@
   <div style="background: #F3E5F5; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 15px;">
     💡 <strong>팁:</strong> Slack에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
   </div>
+        <div style="margin-top: 15px; padding: 12px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+  <p style="margin: 0 0 8px 0; font-size: 13px; color: #c0392b; font-weight: bold;">
+    ⚠️ 보안 주의사항
+  </p>
+  <p style="margin: 0; font-size: 12px; color: #444; line-height: 1.6;">
+    기업의 민감 데이터가 포함된 경우 외부 사이트 대신 <strong>엑셀(데이터 가져오기 > JSON)</strong>이나 
+    브라우저의 <strong>JSON Viewer 확장 프로그램</strong>을 사용해 로컬에서 확인하는 것을 권장합니다.
+  </p>
+</div>
   <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #8E44AD; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
     JSON을 표로 변환하기 (JSON to Table)
   </a>
