@@ -23,7 +23,9 @@
   <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
     <div style="padding: 0 15px;">
       <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
-        <strong>[Google OAuth vs SAML 차이]</strong>
+        <strong>[Google OAuth vs SAML 차이]</strong><br>
+        아래의 제어 차이로 SAML설정을 권장합니다.<br>
+        * JIT(Just-In-Time) 프로비저닝은 <strong>사용자가 처음 로그인할 때 자동으로 계정이 만들어지는 기능</strong>입니다. 이 기능을 끄면 관리자가 사전에 승인한 사용자만 접근할 수 있어서 보안을 더 단단하게 유지할 수 있습니다.
       </p>
     </div>
     <table style="width: 100%; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
