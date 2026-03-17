@@ -78,9 +78,10 @@
 </div>
 </details>
   <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-    <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-      <span>Google OAuth vs SAML 차이 및 권장 설정</span>
-      <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
+    <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
+      <div>
+        :dart: Google OAuth vs SAML 차이 및 권장 설정
+      </div>
     </summary>
     <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
       <div style="padding: 0 15px;">
