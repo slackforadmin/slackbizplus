@@ -101,15 +101,6 @@
         Q : 데이터를 내보내고 어떻게 가독성 있게 확인이 가능한지 (여러 방법이 있는 것 같은데 무료로 가독성 있게 관리자가 확인 가능한 방법은 무엇인지)
       </div>
     </details>
-    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>메시지 삭제·편집 추적 설정 (기본값 안내 + 변경 시 주의사항 + 권장 설정)</span>
-        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
-      </summary>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Q : 메시지 삭제 및 편집 관련 설정 (e.g 최초에 Default 세팅 편집 및 삭제는 추적하지 않음으로 되어 있다 추후에 변경시 이전에 삭제 및 수정 메시지는 보관하지 않을 것 같은데 이러한 설명 및 고객사 권장 설정)
-      </div>
-    </details>
   </div>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 계정 및 사용자 관리</h3>
