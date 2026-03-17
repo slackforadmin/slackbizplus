@@ -26,7 +26,7 @@
         <strong>[Google OAuth vs SAML 차이]</strong>
       </p>
     </div>
-    <table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
+    <table style="width: 100%; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
       <thead>
         <tr style="background: #f8f9fa;">
           <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">항목</th>
