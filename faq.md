@@ -70,6 +70,7 @@
       </table>
         <div style="padding: 0 15px;">
           <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
+            <br>
             📌 참조<br>
                   1. <strong>JIT(Just-In-Time) 프로비저닝</strong>은 <strong>사용자가 처음 로그인할 때 자동으로 계정이 만들어지는 기능</strong>입니다.<br>
               이 기능을 끄면 관리자가 사전에 승인한 사용자만 접근할 수 있어서 보안을 강화할 수 있습니다.<br>
