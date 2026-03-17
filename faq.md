@@ -44,11 +44,6 @@
           <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center;">Business+, Enterprise Grid</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; background: #fafbfc; font-weight: 600; text-align: center;">Enterprise Grid 지원</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; color: #e01e5a;">❌ 미지원</td>
-          <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; color: #2eb67d;">✅ 지원</td>
-        </tr>
-        <tr>
           <td style="padding: 10px; border: 1px solid #e1e4e8; background: #fafbfc; font-weight: 600; text-align: center;">JIT 프로비저닝 제어</td>
           <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; color: #e01e5a;">❌ 항상 ON (끌 수 없음)</td>
           <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; color: #2eb67d;">✅ ON/OFF 선택 가능</td>
