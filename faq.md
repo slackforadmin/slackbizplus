@@ -98,7 +98,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Q : 데이터를 내보내고 어떻게 가독성 있게 확인이 가능한지 (여러 방법이 있는 것 같은데 무료로 가독성 있게 관리자가 확인 가능한 방법은 무엇인지)
+        <Strong>비공개/DM까지 포함하여 데이터 내보내기</Strong>를 하기위해서 [<a href="https://minaslack.github.io/slackbizplus/#/dataexport?id=%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%ec%9a%94%ec%b2%ad" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 13px; font-weight: 600;"> 데이터 내보내기 요청 </a>]이 필요합니다.
       </div>
     </details>
   </div>
