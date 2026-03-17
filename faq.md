@@ -165,7 +165,12 @@
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 계정 및 사용자 관리</h3>
 <div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
-
+    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
+      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
+        <span>[완료]승인 없이 다수 멤버 일괄 초대 방법</span>
+        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
+      </summary>
+<div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
   <div style="padding: 20px 0 40px 0;">
     <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 01</div>
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">이메일 도메인 설정</div>
@@ -192,6 +197,7 @@
     <img width="669" alt="초대 링크 복사" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
 </div>
+    </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
         <span>사용자 이메일 변경 방법</span>
