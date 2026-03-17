@@ -23,7 +23,7 @@
   <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
     <div style="padding: 0 15px;">
       <p style="margin-top: 0; margin-bottom: 15px; font-size: 14px; color: #1d1c1d;">
-        <strong> * Google OAuth vs SAML 차이</strong>
+        <strong>[Google OAuth vs SAML 차이]</strong>
       </p>
     </div>
     <table style="width: 100%; border-collapse: collapse; font-size: 13px; line-height: 1.5; border: 1px solid #e1e4e8; background-color: #ffffff;">
