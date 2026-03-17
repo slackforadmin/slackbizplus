@@ -124,6 +124,9 @@
     JSON을 표로 변환하기 (JSON to Table)
   </a>
   <br>
+  <br>
+  [예시 화면]
+  <img width="1459" alt="image" src="https://github.com/user-attachments/assets/e9e2f438-7290-458b-ab00-d5223f2803cb" />
   <div style="margin-top: 15px; padding: 12px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
     ⚠️ 보안 주의사항
@@ -133,10 +136,6 @@
     브라우저의 <strong>JSON Viewer 확장 프로그램</strong>을 사용해 로컬에서 확인하는 것을 권장합니다.
   </p>
 </div>
-  <br>
-  [예시 화면]
-  <img width="1459" alt="image" src="https://github.com/user-attachments/assets/e9e2f438-7290-458b-ab00-d5223f2803cb" />
-
 </div>
     </details>
   </div>
