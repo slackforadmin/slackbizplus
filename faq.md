@@ -116,6 +116,14 @@
         📌 <Strong>비공개/DM까지 포함하여 데이터 내보내기</Strong>를 하기위해서 [<a href="https://minaslack.github.io/slackbizplus/#/dataexport?id=%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%ec%9a%94%ec%b2%ad" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 데이터 내보내기 요청 </a>]🔼이 필요합니다.
       </div>
       <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" />
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+  <div style="background: #f1f8ff; padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 13px; color: #0366d6;">
+    💡 <strong>팁:</strong> 슬랙에서 다운로드한 JSON 파일을 아래 도구에 붙여넣으면 표 형태로 편하게 보실 수 있습니다.
+  </div>
+  <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #1264a3; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
+    JSON을 표로 변환하기 (JSON to Table) ↗
+  </a>
+</div>
     </details>
   </div>
     <div style="margin-bottom: 30px;">
