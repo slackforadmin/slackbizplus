@@ -109,7 +109,7 @@
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>데이터 내보내기 및 가독성 있게 확인하는 방법</span>
+        <span>[완료]데이터 내보내기 및 가독성 있게 확인하는 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -168,26 +168,26 @@
       </summary>
 <div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
   <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 01</div>
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">이메일 도메인 설정</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
-      1. 관리자 설정에서 허용할 <b>이메일 도메인</b>을 먼저 등록합니다.
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 01</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 15px;">이메일 도메인 설정</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 10px;">
+      1. 관리자 화면에서 설정 > 설정 및 권한 > <b>승인된 이메일</b> 도메인 설정
     </div>
     <img width="898" alt="이메일 도메인 설정" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
   <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 02</div>
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">사용자 초대 메뉴 이동</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
-      2. 멤버 관리 화면에서 <b>[사용자 초대]</b> 버튼을 클릭하여 이동합니다.
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 02</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 15px;">사용자 초대 메뉴 이동</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 10px;">
+      2. 워크스페이스명 > 사용자 초대 버튼 클릭해서 <b>사용자 초대 팝업 오픈</b>
     </div>
     <img width="376" alt="사용자 초대 이동" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
   <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 03</div>
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 03</div>
     <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">초대 링크 복사 및 전달</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
-      3. 이메일 설정 확인 후 <b>초대 링크를 복사</b>하여 대상자들에게 전달합니다.<br>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 10px;">
+      3. 이메일 설정하거나 초대 링크를 복사해서 대상자들에게 전달
       <span style="color: #666; font-size: 14px;">※ 설정된 도메인 계정 사용자는 별도 승인 절차 없이 <b>즉시 입장</b>이 가능합니다.</span>
     </div>
     <img width="669" alt="초대 링크 복사" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
