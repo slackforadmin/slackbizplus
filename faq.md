@@ -118,9 +118,9 @@
 <div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
   
   <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px; margin-left: 5px;">STEP 01</div>
-    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px; margin-left: 5px;">데이터 내보내기 설정</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px; margin-left: 15px;">STEP 01</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px; margin-left: 15px;">데이터 내보내기 설정</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
       1. 보안 > 데이터 가져오기 및 내보내기 > 내보내기 날짜 범위 선택 후 <b>[내보내기 시작]</b> 클릭
     </div>
     <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" style="display: block; border: 1px solid #eee; border-radius: 4px;" />
