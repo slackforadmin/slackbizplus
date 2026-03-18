@@ -136,13 +136,14 @@
   <div style="padding: 20px 0 20px 0;">
     <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 03</div>
     <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">JSON 데이터 변환</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
       3. <b>[JSON을 표로 변환하기]</b> 버튼 클릭 후 변환 도구 웹사이트 오픈<br>
       &nbsp;&nbsp;&nbsp;JSON 파일 업로드 또는 붙여넣기 후 결과 확인
     </div>
   <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #8E44AD; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
     JSON을 표로 변환하기 (JSON to Table)
   </a>
+    <br>
     <img width="1454" alt="image" src="https://github.com/user-attachments/assets/b48dc82e-3f96-46cf-ad56-9ed7798e4d08" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
 <div style="margin-top: 15px; padding: 12px 20px; padding-left: 15px; padding-right: 15px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
