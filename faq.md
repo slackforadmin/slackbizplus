@@ -117,7 +117,7 @@
       </div>
 <div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
   
-  <div style="padding: 20px 0 40px 0;">
+  <div style="padding: 20px 0 20px 0;">
     <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px; margin-left: 15px;">STEP 01</div>
     <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px; margin-left: 15px;">데이터 내보내기 설정</div>
     <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
@@ -125,18 +125,18 @@
     </div>
     <img width="401" alt="image" src="https://github.com/user-attachments/assets/7a2a06a8-cc2d-4a89-ad76-7e74c96f4423" style="display: block; border: 1px solid #eee; border-radius: 4px;" />
   </div>
-  <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 02</div>
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">파일 다운로드</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
+  <div style="padding: 20px 0 20px 0;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 02</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">파일 다운로드</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
       2. 목록에서 <b>[다운로드 준비]</b> 버튼을 클릭하여 파일을 저장합니다.
     </div>
     <img width="926" alt="image" src="https://github.com/user-attachments/assets/27de6c60-b338-42dd-9b1a-fdd95157a69c" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
-  <div style="padding: 20px 0 40px 0;">
-    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;">STEP 03</div>
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 15px;">JSON 데이터 변환</div>
-    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 15px;">
+  <div style="padding: 20px 0 20px 0;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 03</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">JSON 데이터 변환</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
       3. <b>[JSON을 표로 변환하기]</b> 버튼 클릭 후 변환 도구 웹사이트 오픈<br>
       &nbsp;&nbsp;&nbsp;JSON 파일 업로드 또는 붙여넣기 후 결과를 확인하세요.
     </div>
