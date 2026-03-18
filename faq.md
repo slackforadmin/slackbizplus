@@ -140,11 +140,11 @@
       3. <b>[JSON을 표로 변환하기]</b> 버튼 클릭 후 변환 도구 웹사이트 오픈<br>
       &nbsp;&nbsp;&nbsp;JSON 파일 업로드 또는 붙여넣기 후 결과 확인
     </div>
-          <div style="padding: 15px; background: #fff;">
   <a href="https://jsontotable.org/" target="_blank" rel="noopener" style="display: inline-block; padding: 8px 16px; background-color: #8E44AD; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 13px; font-weight: 600;">
     JSON을 표로 변환하기 (JSON to Table)
   </a>
-  <div style="margin-top: 15px; padding: 12px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+    <img width="1454" alt="image" src="https://github.com/user-attachments/assets/b48dc82e-3f96-46cf-ad56-9ed7798e4d08" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
+      <div style="margin-top: 15px; padding: 12px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
     ⚠️ 보안 주의사항
   </p>
@@ -153,8 +153,6 @@
     브라우저의 <strong>JSON Viewer 확장 프로그램</strong>을 사용해 로컬에서 확인하는 것을 권장합니다.
   </p>
 </div>
-</div>
-    <img width="1454" alt="image" src="https://github.com/user-attachments/assets/b48dc82e-3f96-46cf-ad56-9ed7798e4d08" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
 </div>
     </details>
