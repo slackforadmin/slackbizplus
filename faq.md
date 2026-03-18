@@ -144,7 +144,7 @@
     JSON을 표로 변환하기 (JSON to Table)
   </a>
     <img width="1454" alt="image" src="https://github.com/user-attachments/assets/b48dc82e-3f96-46cf-ad56-9ed7798e4d08" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
-      <div style="margin-top: 15px; padding: 12px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+<div style="margin-top: 15px; padding: 12px 20px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
     ⚠️ 보안 주의사항
   </p>
