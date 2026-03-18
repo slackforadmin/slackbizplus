@@ -109,16 +109,33 @@
     🔒 승인 없이 다수 멤버 일괄 초대 방법
     <span style="background: #ffd33d; color: #24292e; padding: 2px 8px; border-radius: 10px; font-size: 13px; margin-left: 10px;">추천</span>
   </summary>
-  <div style="padding: 15px; border-top: 1px solid #d1d5da;">
-    <ol style="line-height: 1.8;">
-      <li>이메일 도메인 설정</li>
-              <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
-      <li>사용자 초대로 이동</li>
-              <img width="376" alt="image" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; margin-top: 10px;" />
-      <li>이메일 설정 및 초대링크 복사 후, 전달<br> - 설정된 도메인 계정으로 링크를 통해 접속하는 사용자는 승인 절차 없이 바로 입장</li>
-        <img width="669" alt="image" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; margin-top: 10px;" />
-    </ol>
+<div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
+  <div style="padding: 20px 0 20px 0;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 01</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">이메일 도메인 설정</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
+      1. 관리자 화면에서 설정 > 설정 및 권한 > <b>승인된 이메일 도메인 설정</b> 
+    </div>
+    <img width="898" alt="이메일 도메인 설정" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
   </div>
+  <div style="padding: 20px 0 20px 0;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 02</div>
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">사용자 초대 메뉴 이동</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
+      2. 워크스페이스명 > 사용자 초대 버튼 클릭해서 <b>사용자 초대 팝업 오픈</b>
+    </div>
+    <img width="376" alt="사용자 초대 이동" src="https://github.com/user-attachments/assets/5d6b5eb1-8aaa-4e15-8942-88b6994afc1d" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
+  </div>
+  <div style="padding: 20px 0 20px 0;">
+    <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 03</div>
+    <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">초대 링크 복사 및 전달</div>
+    <div style="padding: 15px 20px; background-color: #f9f9f9; border-radius: 8px; margin-bottom: 5px;">
+      3. 이메일 설정하거나 초대 링크를 복사해서 대상자들에게 전달<br>
+      <span style="font-size: 15px;">※ 설정된 도메인 계정 사용자는 별도 승인 절차 없이 <b>즉시 입장</b>이 가능합니다.</span>
+    </div>
+    <img width="500" alt="초대 링크 복사" src="https://github.com/user-attachments/assets/8e1d2660-c074-4850-89ca-69c24abb469a" style="display: block; max-width: 100%; border: 1px solid #eee; border-radius: 4px;" />
+  </div>
+</div>
 </details>
     <img width="898" alt="image" src="https://github.com/user-attachments/assets/f73d3b75-8076-40ce-8a5c-e5b9869cc4f2" />
     <li><span style="font-size: 1.15rem;"><strong>기본 채널</strong>: 신규 멤버가 자동으로 입장하게 될 채널을 지정합니다.</span></li>
@@ -139,7 +156,6 @@
     <img width="919" alt="image" src="https://github.com/user-attachments/assets/76f13512-e37c-4487-af2a-e292ce10f70b" />
   </ul>
 </div>
-
 <div id="experience-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 사용자 경험 및 기능</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
@@ -169,7 +185,6 @@
     <img width="895" alt="image" src="https://github.com/user-attachments/assets/8cfed4fd-cb5d-4fd8-b0a2-19b4e6e9389b" />
   </ul>
 </div>
-
 <div id="data-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 데이터 보관 정책</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
