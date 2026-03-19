@@ -203,8 +203,9 @@
         📌 SSO를 활성화한 경우 이메일 주소를 포함한 <b>개인 정보 편집 기능이 제한</b>될 수 있으나,<br>
             <b>워크스페이스 소유자</b>가 이메일 주소를 변경할 수 있도록 허용할 수 있습니다.<br>
         <br>
+        🔗 참조 링크
         <a href="https://slack.com/intl/ko-kr/help/articles/207262907-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%A3%BC%EC%86%8C-%EB%B3%80%EA%B2%BD?gad_source=1&gad_campaignid=23274986143&gbraid=0AAAAACylTvomOl6mvXW5Kww-Pj98WDTOo&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWion0c2Ez6xoOYmDZYm113CjSolE9b0bVu26oxttDRe9rdAcAD_1saAkk-EALw_wcB#%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-1" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 이메일 주소 변경 </a><br>
-        <a href="https://slack.com/intl/ko-kr/help/articles/225531168-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%A3%BC%EC%86%8C-%EB%B3%80%EA%B2%BD" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 구성원의 이메일 주소 변경 </a>
+        <a href="https://slack.com/intl/ko-kr/help/articles/225531168-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%A3%BC%EC%86%8C-%EB%B3%80%EA%B2%BD" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 구성원의 이메일 주소 변경 </a><br>
         <br>
         💡 <b>이메일 주소를 변경할 수 있도록 허용하는 방법</b>
       </div>
