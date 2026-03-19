@@ -12,7 +12,7 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
     🔒 승인 없이 다수 멤버 일괄 초대 방법
   </summary>
-<div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6;">
+<div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6; border-top: 1px solid #e1e4e8;">
   <div style="padding: 20px 0 20px 0;">
     <div style="font-size: 13px; font-weight: bold; color: #007bff; margin-bottom: 5px;margin-left: 15px;">STEP 01</div>
     <div style="font-size: 15px; font-weight: bold; margin-bottom: 5px;margin-left: 15px;">이메일 도메인 설정</div>
