@@ -200,7 +200,8 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        📌 SSO 활성화 시 개인 정보 수정은 제한되나, 워크스페이스 소유자가 구성원의 이메일 주소 변경 허용 설정이 가능합니다.<br>
+        📌 워크스페이스 소유자가 SSO를 활성화한 경우 이메일 주소를 포함한 개인 정보 편집 기능이 제한될 수 있습니다.<br>
+        📌 SSO 설정에서 구성원이 이메일 주소를 변경할 수 있도록 허용할 수 있는 것은 오직 워크스페이스 소유자만 가능합니다.<br>
       </div>
     </details>
       <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
