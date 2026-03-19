@@ -7,7 +7,7 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
        alt="image" 
        style="width: 100%; max-width: 1200px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
-
+<br>
 <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
   <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 800;">
     🔒 승인 없이 다수 멤버 일괄 초대 방법
