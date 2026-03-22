@@ -25,7 +25,6 @@
         </div>
     </div>
 </div>
-
 <style>
     @keyframes fadeIn {
         from { opacity: 0; transform: translateY(10px); }
@@ -40,7 +39,6 @@
         border-color: #8E44AD; background: #F8F4FF; transform: translateX(5px); color: #8E44AD;
     }
 </style>
-
 <script>
 (function() {
     const wizData = {
@@ -76,7 +74,6 @@
         guest_solve: { q: "결과", p: 100, a: "비즈니스 플랜은 유료 멤버 1명당 5명의 게스트를 초대할 수 있습니다. 라이선스 한도를 초과하지 않았는지 확인해 보시고, 설정에서 '멀티 채널 게스트' 옵션을 선택했는지 체크하세요." },
         member_solve: { q: "결과", p: 100, a: "사내 직원이라면 [워크스페이스 설정]에서 허용된 도메인(@회사이름.com)으로 가입을 시도하는지 확인하세요. SSO 로그인이 활성화되어 있다면 SSO 계정 생성이 우선입니다." }
     };
-
     function renderWiz(id) {
         const step = wizData[id];
         const qContainer = document.getElementById('wiz-question-container');
@@ -85,10 +82,8 @@
         const btnGroup = document.getElementById('wiz-options');
         const progress = document.getElementById('wiz-progress');
         const rText = document.getElementById('wiz-result-text');
-
         // 프로그레스 바 업데이트
         progress.style.width = step.p + "%";
-
         if (step.a) { // 결과 화면
             qContainer.style.display = 'none';
             rContainer.style.display = 'block';
@@ -98,7 +93,6 @@
             qContainer.style.display = 'block';
             qText.innerText = step.q;
             btnGroup.innerHTML = '';
-            
             step.opts.forEach(opt => {
                 const btn = document.createElement('button');
                 btn.className = 'wiz-btn';
@@ -108,9 +102,7 @@
             });
         }
     }
-
     window.restartWiz = () => renderWiz('start');
-    
     // 초기 로드 시점 조절
     if (document.readyState === 'complete') restartWiz();
     else window.addEventListener('load', restartWiz);
