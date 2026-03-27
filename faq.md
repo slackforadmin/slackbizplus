@@ -219,8 +219,8 @@
         💡 <b>이메일 주소를 변경할 수 있도록 허용하는 방법</b>
       </div>
       <img width="591" alt="image" src="https://github.com/user-attachments/assets/1b52ca77-dadf-4cf5-89f7-321452d0a7e3" />
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-              📌 단, 아래 3개 항목 중 하나라도 기본값과 다르게 설정되어 있는 겨우, 로그인 시 맵핑된 프로필 값이 업데이트 되지 않음<br>
+      <div style="padding: 15px; background: #fff;">
+              📌 단, 아래 3개 항목 중 하나라도 기본값과 다르게 설정되어 있는 경우, 로그인 시 맵핑된 프로필 값이 업데이트 되지 않는 다는 것 기억해주세요!!<br>
               <br>
       </div>
       <img width="1154" alt="image" src="https://github.com/user-attachments/assets/7f316619-32f0-4bcb-84c1-dd66c909df5d" />
