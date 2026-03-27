@@ -210,7 +210,7 @@
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         📌 SSO를 활성화한 경우 이메일 주소를 포함한 <b>개인 정보 편집 기능이 제한</b>될 수 있으나,<br>
-            <b>워크스페이스 소유자</b>가 이메일 주소를 변경할 수 있도록 허용할 수 있습니다.<br>
+                <b>워크스페이스 소유자</b>가 이메일 주소를 변경할 수 있도록 허용할 수 있습니다.<br>
         <br>
         🔗 참조 링크<br>
         <a href="https://slack.com/intl/ko-kr/help/articles/207262907-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%A3%BC%EC%86%8C-%EB%B3%80%EA%B2%BD?gad_source=1&gad_campaignid=23274986143&gbraid=0AAAAACylTvomOl6mvXW5Kww-Pj98WDTOo&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWion0c2Ez6xoOYmDZYm113CjSolE9b0bVu26oxttDRe9rdAcAD_1saAkk-EALw_wcB#%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-1" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> 이메일 주소 변경 </a><br>
