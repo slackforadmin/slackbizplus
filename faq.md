@@ -8,8 +8,14 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-      Q : 비공개 채널 관리 + 2명이 비공개 채널에서 소통하다 퇴사시 해당 채널을 어떻게 다시 살려서 활용할지        <br><br>
-        <a href="https://slack.com/intl/ko-kr/help/articles/217626378" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline;">이메일 템플릿 보기 ↗</a>
+        📌 비공개 채널을 관리하기 위해서는 데이터 내보내기 요청 후 승인을 받아야 합니다.<br>
+          - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 가능<br>
+        <br>
+          <Strong>[데이터 내보내기 요청]</Strong><br>
+          워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br>
+          신청서에는 워크스페이스 주 소유자의 승인이 필요하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다.<br>
+      </div>
+    <img width="80%" alt="image" src="https://github.com/user-attachments/assets/f4ef92dc-31e6-45db-aa6b-85e51494b181" />
       </div>
     </details>
   </div>
