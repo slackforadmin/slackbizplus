@@ -106,7 +106,7 @@
 </div>
         <br>
         🌟 <Strong>IDP별 지원 현황</Strong><br>
-<table style="width: 100%; margin: 0 auto; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
+<table style="width: 100%; margin: 40px 0 40px 20px; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
   <thead>
     <tr style="background: #f8f9fa;">
       <th style="padding: 12px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d; white-space: nowrap;">IDP</th>
