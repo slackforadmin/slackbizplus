@@ -209,7 +209,8 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-    📌 SSO를 활성화한 경우 이메일 주소를 포함한 <b>개인 정보 편집 기능이 제한</b>될 수 있으나,<br>
+    📌 이메일이나 표시이름을 변경할 수 없으신가요?<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSO를 활성화한 경우 이메일 주소를 포함한 <b>개인 정보 편집 기능이 제한</b>될 수 있으나,<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>워크스페이스 소유자</b>가 사용자들이 이메일 주소를 변경할 수 있도록 허용할 수 있습니다.
         <br>
   <br>
