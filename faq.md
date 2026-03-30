@@ -103,7 +103,7 @@
           <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 로그인 시 싱크는 SAML이, 계정 생성·수정·비활성화 등 라이프사이클 관리는 SCIM Connector 앱을 통해 별도로 수행됩니다.</span>
 </div>
-        IDP별 지원 현황
+        🌟 <Strong>IDP별 지원 현황</Strong><br>
               <table style="width: 70%; margin: 0 auto; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
         <thead>
           <tr style="background: #f8f9fa;">
