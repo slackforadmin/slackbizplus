@@ -100,9 +100,36 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;회사의 IDP(Identity Provider, 예: Okta, Entra ID, Google)와 Slack을 연결해서 사용자 계정을 자동으로<br> 
         생성·수정·비활성화할 수 있게 해주는 <Strong>ID 관리를 자동화하는 국제 표준 프로토콜</Strong>입니다.<br>
         <br>
-          <Strong>[데이터 내보내기 요청]</Strong><br>
-          워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br>
-          신청서에는 워크스페이스 주 소유자의 승인이 필요하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다.<br>
+          <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
+  <span style="color: #6A1B9A; font-weight: bold;">⚠️ 로그인 시 싱크는 SAML이, 계정 생성·수정·비활성화 등 라이프사이클 관리는 SCIM Connector 앱을 통해 별도로 수행됩니다.</span>
+</div>
+        IDP별 지원 현황
+              <table style="width: 70%; margin: 0 auto; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
+        <thead>
+          <tr style="background: #f8f9fa;">
+            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">IDP</th>
+            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">SCIM 연동 앱</th>
+            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">비고</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Entra ID</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Microsoft Azure AD Provisioning</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">풀 지원</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Okta</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Okta Provisioning</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">풀 지원</td>
+          </tr>
+          <tr>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Google</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">제한적</td>
+            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">이름·이메일 등 일부 필드만, 그룹 푸시<span style="color: #2eb67d;">❌</span></td>
+          </tr>
+        </tbody>
+      </table>
       </div>
   </details>
 </div>
