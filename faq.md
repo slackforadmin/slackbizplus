@@ -9,8 +9,8 @@
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         📌 채널 리스트에 비공개 채널이 안보이시나요?<br>
-          - 비공개 채널을 관리하기 위해서는 <Strong>데이터 내보내기 요청 후 승인</Strong>을 받아야 합니다.<br>
-          - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 채널리스트에 비공개 채널 표시<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 비공개 채널을 관리하기 위해서는 <Strong>데이터 내보내기 요청 후 승인</Strong>을 받아야 합니다.<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 채널리스트에 비공개 채널 표시<br>
         <br>
           <Strong>참고💡 비공개 채널 관리 도구는 한 번 승인되면 계속 접근 가능</Strong><br>
         <br>
@@ -82,8 +82,8 @@
             <br>
             📌 참조<br>
                   1. <strong>JIT(Just-In-Time) 프로비저닝</strong>은 <strong>사용자가 처음 로그인할 때 자동으로 계정이 만들어지는 기능</strong>입니다.<br>
-              이 기능을 끄면 관리자가 사전에 승인한 사용자만 접근할 수 있어서 보안을 강화할 수 있습니다.<br>
-              참고) 필요한 경우, Feedback 팀으로 요청하여 JIT를 Off할 수 있습니다.<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이 기능을 끄면 관리자가 사전에 승인한 사용자만 접근할 수 있어서 보안을 강화할 수 있습니다.<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;참고) 필요한 경우, Feedback 팀으로 요청하여 JIT를 Off할 수 있습니다.<br>
               2. <strong>SCIM</strong>은 사용자 계정을 IDP(Okta, Google Workspace 등)와 Slack 사이에서 자동으로 동기화해주는 기능입니다.
           </p>
       </div>
@@ -156,7 +156,7 @@
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         📌 <Strong>비공개 채널/DM까지 포함하여 데이터 내보내기</Strong>를 하기위해서는 아래의 절차가 필요합니다.<br>
-          - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 가능<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 데이터 내보내기 가능<br>
         <br>
           <Strong>[데이터 내보내기 요청]</Strong><br>
           워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br>
