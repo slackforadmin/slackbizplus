@@ -95,9 +95,14 @@
       <span>SCIM Provisioning 활용 방법 (프로필·유저 관리 자동화)</span>
       <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
     </summary>
-    <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-      Q : 사용자 계정 관리를 위한 SCIM Provisioning은 어떻게 활용할 수 있을지 (프로필 및 유저 관리와 연관 있을 것 같은데 실제 저희 Plan 비교표에도 나와있지만 실제 활용하는 고객은 거의 없어 Business+ 를 계속 사용하게 하는데 중요한 요소가 될 수 있을 것 같습니다)
-    </div>
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        📌 <Strong>SCIM이란?</Strong><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;회사의 IDP(Identity Provider, 예: Okta, Entra ID, Google)와 Slack을 연결해서 사용자 계정을 자동으로 생성·수정·비활성화할 수 있게 해주는 <Strong>ID 관리를 자동화하는 국제 표준 프로토콜</Strong>입니다.<br>
+        <br>
+          <Strong>[데이터 내보내기 요청]</Strong><br>
+          워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br>
+          신청서에는 워크스페이스 주 소유자의 승인이 필요하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다.<br>
+      </div>
   </details>
 </div>
   <div style="margin-bottom: 30px;">
