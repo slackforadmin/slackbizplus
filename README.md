@@ -17,7 +17,7 @@ slack biz+ 플랜 관리자화면의 각 항목에 대한 상세 설명입니다
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/0000d7f2-9b60-48c4-9512-b0c59b19fd28" 
+<img src="asset/image/OS_Slack.png" 
      alt="Slack Admin Guide" 
      width="1200" height="400"
      loading="eager"
