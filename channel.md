@@ -40,6 +40,25 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
   </div>
 </div>
 </details>
+<br>
+    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
+      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
+        💬 비공개 채널을 관리하는 방법
+      </summary>
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        📌 채널 리스트에 비공개 채널이 안보이시나요?<br>
+          - 비공개 채널을 관리하기 위해서는 <Strong>데이터 내보내기 요청 후 승인</Strong>을 받아야 합니다.<br>
+          - 데이터 내보내기 활성화 사전신청 -> 내부 심사 및 활성화 승인 -> 채널리스트에 비공개 채널 표시<br>
+        <br>
+          <Strong>참고💡 비공개 채널 관리 도구는 한 번 승인되면 계속 접근 가능</Strong><br>
+        <br>
+          <Strong>[데이터 내보내기 요청]</Strong><br>
+          워크스페이스 소유자는 추가 내보내기 유형에 대한 액세스를 신청할 수 있습니다.<br>
+          신청서에는 워크스페이스 주 소유자의 승인이 필요하므로, 지원 팀에서 신청서를 검토하기 전에 이메일로 연락드릴 것입니다.<br>
+      </div>
+    <img width="80%" alt="image" src="https://github.com/user-attachments/assets/f4ef92dc-31e6-45db-aa6b-85e51494b181" />
+      </div>
+    </details>
 
 공개 채널만 관리 가능하며, 비공개 채널은 숨겨져 작업할 수 없습니다.<br>
 [채널 관리 도구 사용](https://slack.com/intl/ko-kr/help/articles/360047512554-%EC%B1%84%EB%84%90-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9)<br>
