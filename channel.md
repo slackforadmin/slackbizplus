@@ -40,9 +40,8 @@ Slack 채널을 생성하고 관리할 수 있는 중앙 관리 화면입니다.
   </div>
 </div>
 </details>
-<br>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
+  <summary style="padding: 12px; cursor: pointer; background: #f6f8fa; font-weight: 600;">
         💬 비공개 채널을 관리하는 방법
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
