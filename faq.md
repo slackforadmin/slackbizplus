@@ -101,8 +101,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;생성·수정·비활성화할 수 있게 해주는 <Strong>ID 관리를 자동화하는 국제 표준 프로토콜</Strong>입니다.<br>
         <br>
           <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
-  <span style="color: #6A1B9A; font-weight: bold;">⚠️ SAML : 로그인 시 싱크 담당<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCIM : 계정 생성·수정·비활성화 등 라이프사이클 관리를 SCIM Connector 앱을 통해 별도 수행</span>
+  <span style="color: #6A1B9A;">⚠️ SAML : 로그인 시 싱크 담당<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCIM : 계정 생성·수정·비활성화 등 라이프사이클 관리를 SCIM Connector 앱을 통해 별도 수행</span>
 </div>
         <br>
         🌟 <Strong>IDP별 지원 현황</Strong><br>
