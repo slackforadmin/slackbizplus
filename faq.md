@@ -105,32 +105,32 @@
 </div>
         <br>
         🌟 <Strong>IDP별 지원 현황</Strong><br>
-              <table style="width: 70%; margin: 0 auto; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
-        <thead>
-          <tr style="background: #f8f9fa;">
-            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">IDP</th>
-            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">SCIM 연동 앱</th>
-            <th style="padding: 12px 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d;">비고</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Entra ID</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Microsoft Azure AD Provisioning</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">풀 지원</td>
-          </tr>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Okta</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">Okta Provisioning</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">풀 지원</td>
-          </tr>
-          <tr>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; background-color: transparent;">Google</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">제한적</td>
-            <td style="padding: 10px; border: 1px solid #e1e4e8; text-align: center; background-color: transparent;">이름·이메일 등 일부 필드만, 그룹 푸시<span style="color: #2eb67d;">❌</span></td>
-          </tr>
-        </tbody>
-      </table>
+<table style="width: auto; min-width: 70%; margin: 0 auto; border-collapse: collapse; font-size: 13px; line-height: 1.5; background-color: #ffffff;">
+  <thead>
+    <tr style="background: #f8f9fa;">
+      <th style="padding: 12px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d; white-space: nowrap;">IDP</th>
+      <th style="padding: 12px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d; white-space: nowrap;">SCIM 연동 앱</th>
+      <th style="padding: 12px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 700; color: #1d1c1d; white-space: nowrap;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; white-space: nowrap;">Entra ID</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">Microsoft Azure AD Provisioning</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">풀 지원</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; white-space: nowrap;">Okta</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">Okta Provisioning</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">풀 지원</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; font-weight: 600; white-space: nowrap;">Google</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">제한적</td>
+      <td style="padding: 10px 15px; border: 1px solid #e1e4e8; text-align: center; white-space: nowrap;">이름·이메일 등 일부 필드만, 그룹 푸시❌</td>
+    </tr>
+  </tbody>
+</table>
       </div>
   </details>
 </div>
