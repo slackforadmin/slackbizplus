@@ -283,6 +283,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
               <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+                📌 SCIM API를 호출 하기 위한 앱 생성<br>
         1) api.slack.com/app 으로 접속 > [Create New APP]버튼 클릭
       </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
@@ -320,6 +321,12 @@
         8) [Basic Information] > Client ID 복사
       </div>
       <img width="1103" alt="image" src="https://github.com/user-attachments/assets/54cc5dfa-bc7c-4085-94cf-b916ce0926fe" />
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+                📌 POST MAN 연동<br>
+        </div>
+                <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+                📌 사용자 정보 일괄 Update<br>
+        </div>
     </details>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
