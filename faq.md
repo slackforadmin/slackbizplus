@@ -282,18 +282,7 @@
         <span>사용자 프로필 항목을 SCIM API로 관리하는 방법 (SSO 없는 경우 포함)</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Q : 사용자 프로필에 들어가야 할 내용을 중앙에서 API로 넣어줄 수 있는 방법 (Okta, Entra ID 안 쓰는 경우에도)
-      </div>
-    </details>
-    <div style="margin-bottom: 30px;">
-    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
-    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>Slack Connect 및 게스트 초대를 관리자 승인 하에 운영하는 방법</span>
-        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
-      </summary>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+              <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) api.slack.com/app 으로 접속 > [Create New APP]버튼 클릭
       </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
@@ -326,11 +315,22 @@
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         7) [Manage Distribution] > [Remove Hard Coded Information]의 [I've reviewed and removed any hard-coded information] 체크 후, [Activate public distribution]버튼 클릭
       </div>
-      <img width="1186" height="821" alt="image" src="https://github.com/user-attachments/assets/07eb333e-f470-4d52-a01f-3a647a433259" />
+      <img width="1186" alt="image" src="https://github.com/user-attachments/assets/07eb333e-f470-4d52-a01f-3a647a433259" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         8) [Basic Information] > Client ID 복사
       </div>
       <img width="1103" alt="image" src="https://github.com/user-attachments/assets/54cc5dfa-bc7c-4085-94cf-b916ce0926fe" />
+    </details>
+    <div style="margin-bottom: 30px;">
+    <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
+    <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
+      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
+        <span>Slack Connect 및 게스트 초대를 관리자 승인 하에 운영하는 방법</span>
+        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
+      </summary>
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        곧 업로드 예정(4월 내)
+      </div>
     </details>
   </div>
 </div>
