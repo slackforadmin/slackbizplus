@@ -9,6 +9,13 @@ SCIM API를 통해 프로필 필드를 자동으로 채웁니다.<br>
 Web API를 사용해 프로필 필드를 설정 또는 검색합니다.<br>
 3. 사용자 편집 <br>
 멤버는 수동으로 프로필 필드를 업데이트할 수 있습니다.<br>
+  <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
+    <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
+      <div>
+        :dart: Google OAuth vs SAML 차이 및 권장 설정
+      </div>
+    </summary>
+  </details>
 
 <div style="background-color: #F3E5F5; border-left: 5px solid #8E44AD; padding: 15px; margin: 10px 0; border-radius: 4px;">
   <span style="color: #6A1B9A; font-weight: bold;">⚠️ 변경 후, 우측 상단의 활성화된 [변경사항 개시]버튼을 클릭해야 변경 내용이 저장됩니다.</span>
