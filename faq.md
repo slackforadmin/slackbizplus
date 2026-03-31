@@ -294,8 +294,21 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        Q : 운영시 슬랙 Connect, 게스트 초대 관리자 승인하에 운영되게 하는 방법
+        1) api.slack.com/app 으로 접속 > [Create New APP]버튼 클릭
       </div>
+      <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        2) From scratch 선택
+      </div>
+      <img width="508" alt="image" src="https://github.com/user-attachments/assets/714141cb-1d07-4601-96f7-d6d0c16834b2" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        3) 워크스페이스를 선택 후,[Next]버튼 클릭
+      </div>
+      <img width="512" alt="image" src="https://github.com/user-attachments/assets/bf921635-809a-4a90-82f7-452ae040baf1" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        4) 확인 후, [Next] & [Create]버튼 클릭
+      </div>
+      
     </details>
   </div>
 </div>
