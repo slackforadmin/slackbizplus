@@ -16,7 +16,7 @@
         </video>
       </div>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <a href="asset/pdf/Slack_EntraID_SSO_Setting.pdf" 
+        <a href="asset/pdf/Slack_Okta_SSO_Setting.pdf" 
            download="Slack_Okta_SSO_Setting.pdf" 
            target="_blank" 
            title="Slack 가이드 PDF 다운로드" 
