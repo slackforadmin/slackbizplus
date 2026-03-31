@@ -92,7 +92,7 @@
   </details>
   <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
     <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-      <span>SCIM Provisioning 활용 방법 (프로필·유저 관리 자동화)</span>
+      <span>[완료]SCIM Provisioning 활용 방법 (프로필·유저 관리 자동화)</span>
       <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
     </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
