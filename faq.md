@@ -331,6 +331,13 @@
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/94e7bdee-f008-492b-a1da-e7b8edafb30f" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
   </div>
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        2) SCIM > Authentication > Get access token에서 slack api에서 발급받은 Client Id/Client Secret값 설정
+      </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-59c8-444e-99f2-b7426a27880d" style="max-width: 50%; height: auto;" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/191953e7-2e0b-43da-be36-31f32a9d37d3" style="max-width: 50%; height: auto;" />
+  </div>
                 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 사용자 정보 일괄 Update<br>
         </div>
