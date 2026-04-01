@@ -320,10 +320,17 @@
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         8) [Basic Information] > Client ID 복사
       </div>
-      <img width="1103" alt="image" src="https://github.com/user-attachments/assets/54cc5dfa-bc7c-4085-94cf-b916ce0926fe" />
+<img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 POST MAN 연동<br>
         </div>
+         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        1) Post Man(https://www.postman.com/)오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
+      </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/94e7bdee-f008-492b-a1da-e7b8edafb30f" style="max-width: 50%; height: auto;" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
+  </div>
                 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 사용자 정보 일괄 Update<br>
         </div>
