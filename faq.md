@@ -374,7 +374,6 @@
           2) SCIM > Users > Edit User (PATCH)의 Body에 
       </div>
         <img width="1348" alt="image" src="https://github.com/user-attachments/assets/087fe270-d346-47b0-94dd-d7089109b27e" />
-
     </details>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
