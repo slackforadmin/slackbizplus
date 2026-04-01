@@ -4,7 +4,7 @@
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📁 채널 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[완료]비공개 채널을 관리하는 방법</span>
+        <span>비공개 채널을 관리하는 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -26,7 +26,7 @@
   <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🔐 보안 및 인증</h3>
   <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
     <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-      <span>[완료]Google OAuth vs SAML 차이 및 권장 설정</span>
+      <span>Google OAuth vs SAML 차이 및 권장 설정</span>
       <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
     </summary>
     <div style="padding: 15px 0; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -92,7 +92,7 @@
   </details>
   <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
     <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-      <span>[완료]SCIM Provisioning 활용 방법 (프로필·유저 관리 자동화)</span>
+      <span>SCIM Provisioning 활용 방법 (프로필·유저 관리 자동화)</span>
       <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
     </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -151,7 +151,7 @@
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">📤 데이터 내보내기 및 메시지 관리</h3>
         <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[완료]비공개 채널/DM까지 포함하여 데이터 내보내기 방법</span>
+        <span>비공개 채널/DM까지 포함하여 데이터 내보내기 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -166,7 +166,7 @@
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[완료]데이터 내보내기 및 가독성 있게 확인하는 방법</span>
+        <span>데이터 내보내기 및 가독성 있게 확인하는 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
             <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -219,7 +219,7 @@
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">👤 계정 및 사용자 관리</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[완료]승인 없이 다수 멤버 일괄 초대 방법</span>
+        <span>승인 없이 다수 멤버 일괄 초대 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
 <div style="font-family: 'Pretendard', -apple-system, sans-serif; max-width: 900px; color: #333; line-height: 1.6; border-top: 1px solid #e1e4e8;">
@@ -252,7 +252,7 @@
     </details>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[완료]SSO연동 시에 사용자 이메일 변경 방법</span>
+        <span>SSO연동 시에 사용자 이메일 변경 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
