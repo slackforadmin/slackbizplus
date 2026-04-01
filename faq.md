@@ -332,12 +332,24 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
   </div>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        2) SCIM > Authentication > Get access token에서 slack api에서 발급받은 Client Id/Client Secret값 설정
+        2) SCIM > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 설정
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-59c8-444e-99f2-b7426a27880d" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/191953e7-2e0b-43da-be36-31f32a9d37d3" style="max-width: 50%; height: auto;" />
   </div>
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        3) Slack api page에서 [setting] > [manage distribution]  > shareable URL을 복사
+      </div>
+<img width="1118" alt="image" src="https://github.com/user-attachments/assets/1ba5daa1-a1d1-4bc7-8e36-3e452022ec8e" />
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        4) 복사한 URL을 크롬의 새창에서 붙여넣기
+      </div>
+        <img width="1306" alt="image" src="https://github.com/user-attachments/assets/4bd7a004-0efe-480c-98c1-c881a6871d56" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        5) 화면 가운데의 [허용] 버튼 클릭
+      </div>
+        <img width="1253" alt="image" src="https://github.com/user-attachments/assets/84f8fbe0-3b56-4481-a64b-b3864a3ec218" />
                 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 사용자 정보 일괄 Update<br>
         </div>
