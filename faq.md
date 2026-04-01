@@ -332,7 +332,7 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
   </div>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        2) SCIM > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 설정
+        2) SCIM > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣기
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-59c8-444e-99f2-b7426a27880d" style="max-width: 50%; height: auto;" />
@@ -347,9 +347,21 @@
       </div>
         <img width="1306" alt="image" src="https://github.com/user-attachments/assets/4bd7a004-0efe-480c-98c1-c881a6871d56" />
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        5) 화면 가운데의 [허용] 버튼 클릭
+        5) [허용] 버튼 클릭
       </div>
         <img width="1253" alt="image" src="https://github.com/user-attachments/assets/84f8fbe0-3b56-4481-a64b-b3864a3ec218" />
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        5) [code]와 사이 [&state]사이 값을 복사
+      </div>
+        <img width="779" alt="image" src="https://github.com/user-attachments/assets/6644df59-563e-4d9d-8556-9fb038cfdc09" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        6) SCIM > Authentication > Get access token에서 code값 붙여넣기
+      </div>
+        <img width="1061" alt="image" src="https://github.com/user-attachments/assets/03f041de-9a15-41a4-bcc5-484f73f47669" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        7) [Send]버튼 클릭 후, 아래 body 영역에 access_token값을 복사 
+      </div>
+        <img width="1063" alt="image" src="https://github.com/user-attachments/assets/9453e4b5-e282-46da-bb65-14b46b9c382c" />
                 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 사용자 정보 일괄 Update<br>
         </div>
