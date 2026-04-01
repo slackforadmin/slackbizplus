@@ -366,9 +366,15 @@
                 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 사용자 정보 일괄 Update<br>
         </div>
+  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
           1) SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣기
       </div>
         <img width="1351" height="639" alt="image" src="https://github.com/user-attachments/assets/03b8b0f1-da4f-4d4d-b1b1-0c5229f53487" />
+<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+          2) SCIM > Users > Edit User (PATCH)의 Body에 
+      </div>
+        <img width="1348" alt="image" src="https://github.com/user-attachments/assets/087fe270-d346-47b0-94dd-d7089109b27e" />
+
     </details>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
