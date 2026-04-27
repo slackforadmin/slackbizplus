@@ -329,8 +329,8 @@
       </div>
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
       </details>
-        <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
-      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+        <details style="border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         2️⃣ [초기설정2]POST MAN 연동
       </summary>
          <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -376,8 +376,8 @@
       </div>
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/bd8f3a5f-9c5b-414f-a112-ad08bacfc26f" />
           </details>
-        <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
-      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+        <details style="border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         3️⃣ 사용자 정보 일괄 Update
       </summary>
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
