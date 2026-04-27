@@ -279,7 +279,7 @@
     </details>
       <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>SCIM API를 활용한 Atlas 설정 방법</span>
+        <span>[수정중]SCIM API를 활용한 Atlas 설정 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
@@ -290,6 +290,16 @@
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         1️⃣ [초기설정1]SCIM API를 호출 하기 위한 앱 생성
       </summary>
+    <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
+      <div style="flex-shrink: 0;">
+        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Okta SSO</div>
+        <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
+          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+  </div>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) <a href="http://api.slack.com/apps" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> api.slack.com/apps </a>으로 접속 > [Create New APP] 버튼 클릭
         </div>
@@ -328,6 +338,30 @@
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         2️⃣ [초기설정2]POST MAN 연동
       </summary>
+            <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
+      <div style="flex-shrink: 0;">
+        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ Okta SSO</div>
+        <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
+          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <a href="asset/pdf/Slack_Okta_SSO_Setting.pdf" 
+           download="Slack_Okta_SSO_Setting.pdf" 
+           target="_blank" 
+           title="Slack 가이드 PDF 다운로드" 
+           style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
+           onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
+           onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
+           onmousedown="this.style.transform='scale(0.9)';" 
+           onmouseup="this.style.transform='scale(1.1)';">
+          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
+        </a>
+        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">Okta 설정 가이드 다운로드</div>
+      </div>
+    </div>
+  </div>
          <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) <a href="https://www.postman.com/" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> Post Man </a> 오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
       </div>
