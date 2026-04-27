@@ -358,7 +358,7 @@
            onmouseup="this.style.transform='scale(1.1)';">
           <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
         </a>
-        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">Okta 설정 가이드 다운로드</div>
+        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">SCIM.postman_collection.json 다운로드</div>
       </div>
     </div>
   </div>
