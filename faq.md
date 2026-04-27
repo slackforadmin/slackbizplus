@@ -297,11 +297,11 @@
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         2) From scratch 선택
       </div>
-      <img width="508" alt="image" src="https://github.com/user-attachments/assets/714141cb-1d07-4601-96f7-d6d0c16834b2" />
+      <img width="508" alt="image" src="https://github.com/user-attachments/assets/8493ad6c-42fd-40ce-b9e9-d37cf47cb7b2" />
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         3) APP 이름을 지정하고, 워크스페이스를 선택 후 [Next]버튼 클릭
       </div>
-      <img width="512" alt="image" src="https://github.com/user-attachments/assets/bf921635-809a-4a90-82f7-452ae040baf1" />
+      <img width="512" alt="image" src="https://github.com/user-attachments/assets/1dd3885a-02cd-4cfe-b63a-efc6046b776c" />
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         4) 확인 후, [Next] & [Create]버튼 클릭
       </div>
