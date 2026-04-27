@@ -282,10 +282,13 @@
         <span>SCIM API를 활용한 Atlas 설정 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
-              <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-                📌 SCIM API를 호출 하기 위한 앱 생성<br>
-        1) api.slack.com/app 으로 접속 > [Create New APP]버튼 클릭
-      </div>
+<details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+        📌 SCIM API를 호출 하기 위한 앱 생성 (열기/닫기)
+      </summary>
+      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+        1) api.slack.com/app 으로 접속 > [Create New APP] 버튼 클릭
+        </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         2) From scratch 선택
@@ -321,6 +324,7 @@
         8) [Basic Information] > Client ID 복사
       </div>
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
+      </details>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
                 📌 POST MAN 연동<br>
         </div>
