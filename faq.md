@@ -291,7 +291,7 @@
         1️⃣ [초기설정1]SCIM API를 호출 하기 위한 앱 생성
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        1) api.slack.com/app 으로 접속 > [Create New APP] 버튼 클릭
+        1) [<a href="http://api.slack.com/app" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> api.slack.com/app </a>]으로 접속 > [Create New APP] 버튼 클릭
         </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
