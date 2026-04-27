@@ -310,22 +310,22 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/c6533df7-4cba-4710-a8e0-c9a9bdcd72dd" style="max-width: 50%; height: auto;" />
   </div>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        5) [OAuth & Permissions] > Redirect URLs에 [Add New Redirect URL]클릭 후, [https://localhost]기입 >[ADD]버튼 클릭 > [Save URLs]버튼 클릭
+        5) 사이드바의 [OAuth & Permissions]선택 > [Redirect URLs]섹션에 [Add New Redirect URL]버튼 클릭 후, [https://localhost]기입 >[ADD]버튼 클릭 > [Save URLs]버튼 클릭
       </div>
       <img width="1225" alt="image" src="https://github.com/user-attachments/assets/f00e4548-a3de-4184-a097-0ecf9a352292" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        6) [사용자 토큰 범위]에 admin 선택
+        6) 동일 페이지 아래 [사용자 토큰 범위]섹션에 [OAuth범위 추가]버튼 클릭 후, [admin] 선택
       </div>
       <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/de16a797-41b6-4df5-9db3-a6782ffa7c7d" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/4026586b-34a9-41fe-8f44-9e013c291163" style="max-width: 50%; height: auto;" />
   </div>
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        7) [Manage Distribution] > [Remove Hard Coded Information]의 [I've reviewed and removed any hard-coded information] 체크 후, [Activate public distribution]버튼 클릭
+        7) 사이드바의 [Manage Distribution]선택 > [Remove Hard Coded Information]의 [I've reviewed and removed any hard-coded information] 체크 후, 활성화된 [Activate public distribution]버튼 클릭
       </div>
       <img width="1186" alt="image" src="https://github.com/user-attachments/assets/07eb333e-f470-4d52-a01f-3a647a433259" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        8) [Basic Information] > Client ID 복사
+        8) 사이드바의 [Basic Information]선택 > Client ID 복사
       </div>
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
       </details>
