@@ -284,7 +284,7 @@
       </summary>
 <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
-        📌 SCIM API를 호출 하기 위한 앱 생성 (열기/닫기)
+        📌 SCIM API를 호출 하기 위한 앱 생성
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) api.slack.com/app 으로 접속 > [Create New APP] 버튼 클릭
