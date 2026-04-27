@@ -320,9 +320,9 @@
       </div>
       <img width="1186" alt="image" src="https://github.com/user-attachments/assets/94db60f8-8fe3-4c6c-bfbb-d05c8cff2583" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        7) 사이드바의 [Basic Information]선택 > Client ID 복사
+        7) 사이드바의 [Basic Information]선택 > Client ID & Client Secret 복사
       </div>
-<img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
+<img width="1103" alt="image" src="https://github.com/user-attachments/assets/ee5592a4-d2f9-4dee-a27a-e92206b86951" />
       </details>
         <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
