@@ -299,9 +299,9 @@
       </div>
       <img width="508" alt="image" src="https://github.com/user-attachments/assets/8493ad6c-42fd-40ce-b9e9-d37cf47cb7b2" />
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        3) APP 이름을 지정하고, 워크스페이스를 선택 후 [Next]버튼 클릭
+        3) APP 이름을 지정하고, 워크스페이스를 선택 후 [Create App]버튼 클릭
       </div>
-      <img width="512" alt="image" src="https://github.com/user-attachments/assets/1dd3885a-02cd-4cfe-b63a-efc6046b776c" />
+      <img width="512" alt="image" src="https://github.com/user-attachments/assets/1395a0f7-579d-4f4d-8403-da8da4bcf92d" />
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         4) 확인 후, [Next] & [Create]버튼 클릭
       </div>
