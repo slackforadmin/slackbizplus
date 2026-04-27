@@ -305,7 +305,7 @@
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         4) 사이드바의 [OAuth & Permissions]선택 > [Redirect URLs]섹션에 [Add New Redirect URL]버튼 클릭 후, [https://localhost]기입 >[ADD]버튼 클릭 > [Save URLs]버튼 클릭
       </div>
-      <img width="1225" alt="image" src="https://github.com/user-attachments/assets/f00e4548-a3de-4184-a097-0ecf9a352292" />
+      <img width="1225" alt="image" src="https://github.com/user-attachments/assets/de3e8501-c353-4a50-8c81-880ce33b5bd4" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         5) 동일 페이지 아래 [사용자 토큰 범위]섹션에 [OAuth범위 추가]버튼 클릭 후, [admin] 선택
       </div>
