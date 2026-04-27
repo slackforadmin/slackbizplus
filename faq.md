@@ -286,8 +286,8 @@
           📌 SCIM API를 활용한 Atlas 설정가이드입니다.<br>
               해당 방식으로 사용자 프로필정보도 업데이트 가능합니다.
       </div>
-<details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
-      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+<details style="border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         1️⃣ [초기설정1]SCIM API를 호출 하기 위한 앱 생성
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
