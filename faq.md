@@ -329,7 +329,7 @@
         2️⃣ [초기설정2]POST MAN 연동
       </summary>
          <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        1) Post Man(https://www.postman.com/)오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
+        1) <a href="https://www.postman.com/" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> Post Man </a> 오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/94e7bdee-f008-492b-a1da-e7b8edafb30f" style="max-width: 50%; height: auto;" />
