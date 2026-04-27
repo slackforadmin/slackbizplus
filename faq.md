@@ -405,6 +405,7 @@
       </div>
           <img width="1163" alt="image" src="https://github.com/user-attachments/assets/2e378969-77a7-4604-b96d-a2a701316e54" />
         </details>
+        </details>
     <div style="margin-bottom: 30px;">
     <h3 style="font-size: 16px; color: #616061; margin-bottom: 10px; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px;">🌐 외부 협업 및 권한 설정</h3>
     <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
