@@ -316,7 +316,7 @@
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         6) 사이드바의 [Manage Distribution]선택 > [Remove Hard Coded Information]의 [I've reviewed and removed any hard-coded information] 체크 후, 활성화된 [Activate public distribution]버튼 클릭
       </div>
-      <img width="1186" alt="image" src="https://github.com/user-attachments/assets/07eb333e-f470-4d52-a01f-3a647a433259" />
+      <img width="1186" alt="image" src="https://github.com/user-attachments/assets/1f4d0048-053e-4589-9d9d-162adea236eb" />
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         7) 사이드바의 [Basic Information]선택 > Client ID 복사
       </div>
