@@ -315,6 +315,7 @@
   </div>
  <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         6) 사이드바의 [Manage Distribution]선택 > [Remove Hard Coded Information]의 [I've reviewed and removed any hard-coded information] 체크 후, 활성화된 [Activate public distribution]버튼 클릭<br>
+   <br>
        📌 만약 [Enable Features & Functionality], [Add OAuth Redirect URLs]가 체크되어 있지 않으면 해당 페이지 새로고침 해주세요!!<br>
       </div>
       <img width="1186" alt="image" src="https://github.com/user-attachments/assets/94db60f8-8fe3-4c6c-bfbb-d05c8cff2583" />
