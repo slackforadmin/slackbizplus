@@ -284,7 +284,7 @@
       </summary>
 <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
-        :1-orange: SCIM API를 호출 하기 위한 앱 생성
+        1️⃣ SCIM API를 호출 하기 위한 앱 생성
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) api.slack.com/app 으로 접속 > [Create New APP] 버튼 클릭
@@ -325,9 +325,10 @@
       </div>
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/b977c731-55a8-4897-a858-c1bc764c254c" />
       </details>
-        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-                📌 POST MAN 연동<br>
-        </div>
+        <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+        2️⃣ POST MAN 연동
+      </summary>
          <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) Post Man(https://www.postman.com/)오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
       </div>
@@ -370,10 +371,11 @@
           8) SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣고, [Save]버튼 클릭
       </div>
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/bd8f3a5f-9c5b-414f-a112-ad08bacfc26f" />
-        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-                <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-                📌 사용자 정보 일괄 Update<br>
-        </div>
+          </details>
+        <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
+      <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
+        3️⃣ 사용자 정보 일괄 Update
+      </summary>
 <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
           1) SCIM > Users > Edit User (PATCH)의 우측 하단의 [Tools] > [Runner]선택
       </div>
