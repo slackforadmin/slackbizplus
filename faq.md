@@ -282,9 +282,13 @@
         <span>SCIM API를 활용한 Atlas 설정 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
+        <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+                📌 SCIM API를 활용한 Atlas 설정가이드입니다.
+                    해당 방식으로 사용자 프로필정보도 업데이트 가능합니다.
+      </div>
 <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
-        1️⃣ SCIM API를 호출 하기 위한 앱 생성
+        1️⃣ [초기설정1]SCIM API를 호출 하기 위한 앱 생성
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) api.slack.com/app 으로 접속 > [Create New APP] 버튼 클릭
@@ -327,7 +331,7 @@
       </details>
         <details style="border: 1px solid #e1e4e8; border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; background: #f8f9fa; cursor: pointer; font-weight: 600; outline: none;">
-        2️⃣ POST MAN 연동
+        2️⃣ [초기설정2]POST MAN 연동
       </summary>
          <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
         1) Post Man(https://www.postman.com/)오픈 > [Import]선택 > SCIM (Shared).postman_collection.json파일 import > [SCIM]폴더 신규 추가 확인
