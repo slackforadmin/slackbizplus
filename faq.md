@@ -428,7 +428,7 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           1) SCIM > Users > Edit User (PATCH)의 우측 하단의 [Tools] > [Runner]선택
       </div>
-<img width="1202" alt="image" src="https://github.com/user-attachments/assets/eebf9512-071b-45e2-8dba-3dc95d401a8c" />
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/4460bc62-ea1b-4e4c-ba8a-cc8c8bab4c88" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           2) 좌측 사이드바에서 [User]폴더를 드래그 앤 드롭
       </div>
