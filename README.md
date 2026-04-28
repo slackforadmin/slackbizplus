@@ -24,17 +24,17 @@ slack biz+ 플랜 관리자화면의 각 항목에 대한 상세 설명입니다
       <span style="font-size: 24px;">📖</span>
     </div>
     <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">이용 가이드</strong>
-    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">워크스페이스의 모든 기능을<br>100% 활용하는 방법을 알아보세요.</p>
-    <a href="#guide" style="display: inline-block; color: #8E44AD; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #F3E5F5;">가이드 읽어보기 →</a>
+    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">준비가 되셨나요?<br>첫 번째 프로젝트를 바로 생성해보세요.</p>
+    <a href="#guide" style="display: inline-block; color: #8E44AD; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #F3E5F5;">지금 시작하기 →</a>
   </div>
 
   <div style="flex: 1; padding: 28px; background: linear-gradient(135deg, #ffffff 0%, #F0F7FF 100%); border: 1px solid #E2EAF3; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03); transition: transform 0.2s ease;">
     <div style="width: 48px; height: 48px; background-color: #E3F2FD; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
       <span style="font-size: 24px;">🚀</span>
     </div>
-    <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">빠른 시작</strong>
-    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">준비가 되셨나요?<br>첫 번째 프로젝트를 바로 생성해보세요.</p>
-    <a href="#start" style="display: inline-block; color: #2980B9; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #E1F5FE;">지금 시작하기 →</a>
+    <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">참고 링크</strong>
+    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">Slack의 모든 기능을<br>100% 활용하는 방법을 알아보세요.</p>
+    <a href="#helpcenter" style="display: inline-block; color: #2980B9; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #E1F5FE;">링크 바로가기 →</a>
   </div>
 
 </div>
