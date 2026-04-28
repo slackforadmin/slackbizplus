@@ -301,23 +301,23 @@
       </div>
     </div>
   </div>
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+      <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         1) <a href="http://api.slack.com/apps" target="_blank" rel="noopener" style="color: #1264a3; text-decoration: underline; font-size: 15px; font-weight: 600;"> api.slack.com/apps </a>으로 접속 > [Create New APP] 버튼 클릭
         </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+      <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         2) From scratch 선택
       </div>
       <img width="508" alt="image" src="https://github.com/user-attachments/assets/8493ad6c-42fd-40ce-b9e9-d37cf47cb7b2" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         3) APP 이름을 지정하고, 워크스페이스를 선택 후 [Create App]버튼 클릭
       </div>
       <img width="512" alt="image" src="https://github.com/user-attachments/assets/1395a0f7-579d-4f4d-8403-da8da4bcf92d" />
-      <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+      <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         4) 사이드바의 [OAuth & Permissions]선택 > [Redirect URLs]섹션에 [Add New Redirect URL]버튼 클릭 후, [https://localhost]기입 >[ADD]버튼 클릭 > [Save URLs]버튼 클릭
       </div>
       <img width="1225" alt="image" src="https://github.com/user-attachments/assets/de3e8501-c353-4a50-8c81-880ce33b5bd4" />
- <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+ <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         5) 동일 페이지 아래 [사용자 토큰 범위]섹션에 [OAuth범위 추가]버튼 클릭 후, [admin] 선택
       </div>
       <div style="display: flex; align-items: center; gap: 10px;">
@@ -330,7 +330,7 @@
        📌 만약 [Enable Features & Functionality], [Add OAuth Redirect URLs]가 체크되어 있지 않으면 해당 페이지 새로고침 해주세요!!<br>
       </div>
       <img width="1186" alt="image" src="https://github.com/user-attachments/assets/94db60f8-8fe3-4c6c-bfbb-d05c8cff2583" />
- <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+ <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         7) 사이드바의 [Basic Information]선택 > Client ID & Client Secret 복사
       </div>
 <img width="1103" alt="image" src="https://github.com/user-attachments/assets/ee5592a4-d2f9-4dee-a27a-e92206b86951" />
