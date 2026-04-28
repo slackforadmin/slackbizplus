@@ -391,7 +391,7 @@
       </div>
         <img width="1306" alt="image" src="https://github.com/user-attachments/assets/4bd7a004-0efe-480c-98c1-c881a6871d56" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        5) [허용] 버튼 클릭
+        5) 적용 워크스페이스 선택 후, [허용] 버튼 클릭
       </div>
         <img width="1253" alt="image" src="https://github.com/user-attachments/assets/84f8fbe0-3b56-4481-a64b-b3864a3ec218" />
         <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
@@ -399,11 +399,11 @@
       </div>
         <img width="779" alt="image" src="https://github.com/user-attachments/assets/6644df59-563e-4d9d-8556-9fb038cfdc09" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        7) SCIM (Shared) > Authentication > Get access token에서 code값 붙여넣기
+        7) SCIM (Shared) > Authentication > Get Access Token에서 code값 붙여넣기
       </div>
         <img width="1061" alt="image" src="https://github.com/user-attachments/assets/03f041de-9a15-41a4-bcc5-484f73f47669" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        8) [Send]버튼 클릭 후, 아래 body 영역에 access_token값을 복사 
+        8) [Send]버튼 클릭 후, 아래 Body 영역에 access_token값을 복사 
       </div>
         <img width="1063" alt="image" src="https://github.com/user-attachments/assets/9453e4b5-e282-46da-bb65-14b46b9c382c" />
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
