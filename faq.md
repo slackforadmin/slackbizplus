@@ -287,7 +287,7 @@
               해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
           <img src="asset/image/Org_Chart.png" 
      alt="Slack Admin Guide"
-     width="600"
+     width="400"
      loading="eager"
       </div>
 <details style="border-radius: 6px; overflow: hidden;">
