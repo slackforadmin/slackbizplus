@@ -376,7 +376,7 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
   </div>
         <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        2) SCIM (Shared) > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣기
+        2) SCIM (Shared) > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣고 [Save]버튼 클릭
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-59c8-444e-99f2-b7426a27880d" style="max-width: 50%; height: auto;" />
@@ -399,7 +399,7 @@
       </div>
         <img width="779" alt="image" src="https://github.com/user-attachments/assets/6644df59-563e-4d9d-8556-9fb038cfdc09" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        7) SCIM (Shared) > Authentication > Get Access Token에서 code값 붙여넣기
+        7) SCIM (Shared) > Authentication > Get Access Token에서 code값 붙여넣고 [Save]버튼 클릭
       </div>
         <img width="1061" alt="image" src="https://github.com/user-attachments/assets/03f041de-9a15-41a4-bcc5-484f73f47669" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
@@ -407,7 +407,7 @@
       </div>
         <img width="1063" alt="image" src="https://github.com/user-attachments/assets/9453e4b5-e282-46da-bb65-14b46b9c382c" />
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣기
+          9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
       </div>
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/aacca4b6-7095-49ef-9159-39f016e20550" />
           </details>
