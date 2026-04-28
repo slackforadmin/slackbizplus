@@ -379,7 +379,7 @@
         2) SCIM (Shared) > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣고 [Save]버튼 클릭
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
-    <img width="906" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-59c8-444e-99f2-b7426a27880d" style="max-width: 50%; height: auto;" />
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/e6013cf9-0dab-4dea-a07f-cd2963caeeb0" style="max-width: 50%; height: auto;" />
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/191953e7-2e0b-43da-be36-31f32a9d37d3" style="max-width: 50%; height: auto;" />
   </div>
         <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
@@ -409,7 +409,7 @@
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
       </div>
-<img width="1351" alt="image" src="https://github.com/user-attachments/assets/aacca4b6-7095-49ef-9159-39f016e20550" />
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/3de91ec4-73a3-48dd-b094-c2bb9153f79d" />
           </details>
         <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
