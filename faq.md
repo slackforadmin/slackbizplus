@@ -285,7 +285,7 @@
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
           📌 SCIM API를 활용한 Atlas 설정가이드입니다.<br>
               해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
-          <img src="asset/image/OOrg_Chart.png" 
+          <img src="asset/image/Org_Chart.png" 
      alt="Slack Admin Guide" 
      width="800"
      loading="eager"
