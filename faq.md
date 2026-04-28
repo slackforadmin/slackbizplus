@@ -284,7 +284,8 @@
       </summary>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
           📌 SCIM API를 활용한 Atlas 설정가이드입니다.<br>
-              해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.
+              해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
+          <img width="259" alt="image" src="https://github.com/user-attachments/assets/93bc6f45-33a5-4757-929f-2c444743834c" />
       </div>
 <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
