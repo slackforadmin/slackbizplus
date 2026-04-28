@@ -393,7 +393,7 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         5) 적용 워크스페이스 선택 후, [허용] 버튼 클릭
       </div>
-        <img width="1253" alt="image" src="https://github.com/user-attachments/assets/84f8fbe0-3b56-4481-a64b-b3864a3ec218" />
+        <img width="1253" alt="image" src="https://github.com/user-attachments/assets/dcc375cc-67e8-4694-8358-1d500cffd642" />
         <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         6) [code=]와 사이 [&state=]사이 값을 복사
       </div>
