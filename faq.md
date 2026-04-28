@@ -410,31 +410,31 @@
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         3️⃣ 사용자 정보 일괄 Update
       </summary>
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           1) SCIM > Users > Edit User (PATCH)의 우측 하단의 [Tools] > [Runner]선택
       </div>
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/eebf9512-071b-45e2-8dba-3dc95d401a8c" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           2) 좌측 사이드바에서 [User]폴더를 드래그 앤 드롭
       </div>
 <img width="1539" alt="image" src="https://github.com/user-attachments/assets/34ce249f-807f-4973-bb8d-c43343a97e4c" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           3) [Deselect All]을 선택 후, Edit user(patch)를 선택
       </div>
       <img width="1539" alt="image" src="https://github.com/user-attachments/assets/fda21a3e-ed1e-4a40-811c-1045b6afb178" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           4) 우측 화면에서 [Select File]버튼 클릭 후, 편집한 CSV파일 선택
       </div>
           <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           5) Preview를 통해서 정상적으로 불러오기가 되었는지 확인 후 [Upload to Workspace]버튼 클릭
       </div>
           <img width="833" alt="image" src="https://github.com/user-attachments/assets/eef17552-7112-4468-9d09-e3e875006373" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           6) [Start run]버튼 클릭
       </div>
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/34d1938a-cf98-4dc0-8c87-092902588d43" />
-<div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
+<div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           7) 결과 확인 
       </div>
           <img width="1163" alt="image" src="https://github.com/user-attachments/assets/2e378969-77a7-4604-b96d-a2a701316e54" />
