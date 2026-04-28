@@ -412,6 +412,16 @@
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         3️⃣ 사용자 정보 일괄 Update
       </summary>
+              <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
+      <div style="flex-shrink: 0;">
+        <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ 영상 가이드</div>
+        <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
+          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+  </div>
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           1) SCIM > Users > Edit User (PATCH)의 우측 하단의 [Tools] > [Runner]선택
       </div>
