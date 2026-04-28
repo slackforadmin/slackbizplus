@@ -1,11 +1,11 @@
 # 📌참고 링크
 
-  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
+  <div style="padding: 20px; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
   
   <div>
-    <h4>🚀 시작하기</h4>
+    <h4 style="margin-top: 0; color: #4a154b;">🚀 시작하기</h4>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
       <li>
   <a href="https://slack.com/intl/ko-kr/help/articles/217626378-Slack%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%85%9C%ED%94%8C%EB%A6%BF" 
