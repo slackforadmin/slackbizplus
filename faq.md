@@ -407,7 +407,7 @@
       </div>
         <img width="1063" alt="image" src="https://github.com/user-attachments/assets/9453e4b5-e282-46da-bb65-14b46b9c382c" />
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣고, [Save]버튼 클릭
+          9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣기
       </div>
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/bd8f3a5f-9c5b-414f-a112-ad08bacfc26f" />
           </details>
