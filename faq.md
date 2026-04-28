@@ -288,7 +288,7 @@
           <img src="asset/image/Org_Chart.png" 
      alt="Slack Admin Guide"
      loading="eager"
-     style="width: 80%; max-width: 1200px; height: auto; border-radius: 8px;">
+     style="width: 60%; max-width: 1200px; height: auto; border-radius: 8px;">
       </div>
 <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
