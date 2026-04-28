@@ -17,24 +17,24 @@ slack biz+ 플랜 관리자화면의 각 항목에 대한 상세 설명입니다
 
 </div>
 
-<div style="display: flex; max-width: 800px; gap: 16px; margin: 20px 0; font-family: 'Pretendard', sans-serif;">
+<div style="display: flex; max-width: 800px; gap: 20px; margin: 20px 0; font-family: 'Pretendard', -apple-system, sans-serif;">
   
-  <div style="flex: 1; padding: 24px; background-color: #ffffff; border: 1px solid #E0E0E0; border-radius: 12px; display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <span style="font-size: 24px; display: block; margin-bottom: 12px;">📚</span>
-      <strong style="display: block; font-size: 17px; color: #333; margin-bottom: 8px;">사용 가이드</strong>
-      <p style="margin: 0; font-size: 14px; color: #666; line-height: 1.5;">워크스페이스 사용법이 궁금하신가요? 상세한 가이드를 확인해보세요.</p>
+  <div style="flex: 1; padding: 28px; background: linear-gradient(135deg, #ffffff 0%, #F9F5FB 100%); border: 1px solid #EAE2F0; border-radius: 16px; box-shadow: 0 4px 12px rgba(142, 68, 173, 0.05); transition: transform 0.2s ease;">
+    <div style="width: 48px; height: 48px; background-color: #F3E5F5; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+      <span style="font-size: 24px;">📖</span>
     </div>
-    <a href="#guide" style="margin-top: 20px; color: #8E44AD; text-decoration: none; font-weight: 600; font-size: 14px;">자세히 보기 →</a>
+    <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">이용 가이드</strong>
+    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">워크스페이스의 모든 기능을<br>100% 활용하는 방법을 알아보세요.</p>
+    <a href="#guide" style="display: inline-block; color: #8E44AD; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #F3E5F5;">가이드 읽어보기 →</a>
   </div>
 
-  <div style="flex: 1; padding: 24px; background-color: #ffffff; border: 1px solid #E0E0E0; border-radius: 12px; display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <span style="font-size: 24px; display: block; margin-bottom: 12px;">👥</span>
-      <strong style="display: block; font-size: 17px; color: #333; margin-bottom: 8px;">팀원 초대하기</strong>
-      <p style="margin: 0; font-size: 14px; color: #666; line-height: 1.5;">동료들을 초대하여 프로젝트를 함께 시작하고 협업하세요.</p>
+  <div style="flex: 1; padding: 28px; background: linear-gradient(135deg, #ffffff 0%, #F0F7FF 100%); border: 1px solid #E2EAF3; border-radius: 16px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03); transition: transform 0.2s ease;">
+    <div style="width: 48px; height: 48px; background-color: #E3F2FD; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+      <span style="font-size: 24px;">🚀</span>
     </div>
-    <a href="#invite" style="margin-top: 20px; color: #8E44AD; text-decoration: none; font-weight: 600; font-size: 14px;">초대 링크 복사 →</a>
+    <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">빠른 시작</strong>
+    <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">준비가 되셨나요?<br>첫 번째 프로젝트를 바로 생성해보세요.</p>
+    <a href="#start" style="display: inline-block; color: #2980B9; text-decoration: none; font-weight: 700; font-size: 14px; border-bottom: 2px solid #E1F5FE;">지금 시작하기 →</a>
   </div>
 
 </div>
