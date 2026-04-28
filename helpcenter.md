@@ -1,8 +1,5 @@
-# 참고 링크
+# 📌참고 링크
 
-    <div>
-      :pushpin: 참고 링크 및 참고 자료
-    </div>
   <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
     <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
