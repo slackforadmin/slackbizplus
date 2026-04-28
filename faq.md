@@ -409,7 +409,7 @@
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           9) SCIM (Shared) > SCIM > Users > Edit User (PATCH)의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣기
       </div>
-<img width="1351" alt="image" src="https://github.com/user-attachments/assets/bd8f3a5f-9c5b-414f-a112-ad08bacfc26f" />
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/aacca4b6-7095-49ef-9159-39f016e20550" />
           </details>
         <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
