@@ -286,7 +286,8 @@
           📌 SCIM API를 활용한 Atlas 설정가이드입니다.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Strong>초기설정1,2 완료 후 사용자 업데이트</Strong> 진행해주세요.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
-          <img src="asset/image/Org_Chart.png" 
+          <br>
+          <img src="asset/image/Org_Chart.png"
      alt="Slack Admin Guide"
      width="400"
      loading="eager"
