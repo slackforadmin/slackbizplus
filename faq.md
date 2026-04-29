@@ -485,6 +485,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;아래 내용으로 맵핑해서 CSV파일 편집해주세요.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Id : 사용자 UserId<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* ManagerId : 해당 사용자의 관리자의 UserId<br>
+    <br>
+&nbsp;&nbsp;&nbsp;&nbsp;**UserId 확인방법 : 관리자 화면의 [사람] > [멤버]에서 각 사용자별 [멤버ID]확인 
   </p>
       <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
         <a href="asset/pdf/SCIM_Update_ManagerID.csv" 
@@ -499,10 +501,7 @@
           <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
         </a>
         <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">SCIM_Update_ManagerID.csv</div>
-      </div>
-             <p style="margin: 0; font-size: 15px; color: #444; line-height: 1.6;">
-&nbsp;&nbsp;&nbsp;&nbsp;**UserId 확인방법 : 관리자 화면의 [사람] > [멤버]에서 각 사용자별 [멤버ID]확인
-  </p>                 
+      </div>            
     </div>
 </div>
                     <img width="708" alt="image" src="https://github.com/user-attachments/assets/43b2ceee-5154-4bf5-af3f-91de11afcdb2" />
