@@ -378,8 +378,7 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/826f06a8-dc5f-4a56-9196-0eec7b6cc7f4" style="max-width: 50%; height: auto;" />
   </div>
         <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        2) SCIM (Shared) > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣고 [Save]버튼 클릭<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Client Secret는 [Show]버튼 클릭 후, 복사
+        2) SCIM (Shared) > Authentication > Get access token에서 slack api page에서 발급받은 Client Id/Client Secret값 붙여넣고 [Save]버튼 클릭&nbsp;&nbsp;(**Client Secret는 [Show]버튼 클릭 후, 복사)
       </div>
         <div style="display: flex; align-items: center; gap: 10px;">
     <img width="906" alt="image" src="https://github.com/user-attachments/assets/e6013cf9-0dab-4dea-a07f-cd2963caeeb0" style="max-width: 50%; height: auto;" />
