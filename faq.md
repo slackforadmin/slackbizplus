@@ -478,6 +478,7 @@
       </div>
           <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
                     <div style="margin-top: 15px; padding: 12px 20px; padding-left: 15px; padding-right: 15px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+                          <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
     📍 CSV 편집
   </p>
@@ -486,6 +487,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;* Id : 사용자 UserId<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* ManagerId : 해당 사용자의 관리자의 UserId<br>
   </p>
+      <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <a href="asset/pdf/SCIM_postman_collection.json" 
+           download="SCIM_postman_collection.json" 
+           target="_blank" 
+           title="SCIM_postman_collection.json 다운로드" 
+           style="display: inline-flex; align-items: center; justify-content: center; width: 72px; height: 72px; background-color: #f0f3f6; border: 2.5px solid #0366d6; border-radius: 50%; transition: all 0.2s ease-in-out; text-decoration: none; box-shadow: 0 4px 12px rgba(3,102,214,0.15); flex-shrink: 0;"
+           onmouseover="this.style.backgroundColor='#0366d6'; this.style.transform='scale(1.1)';" 
+           onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
+           onmousedown="this.style.transform='scale(0.9)';" 
+           onmouseup="this.style.transform='scale(1.1)';">
+          <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
+        </a>
+        <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">SCIM_postman_collection.json</div>
+      </div>
+    </div>
 </div>
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           5) Preview를 통해서 정상적으로 불러오기가 되었는지 확인 후 [Upload to Workspace]버튼 클릭
