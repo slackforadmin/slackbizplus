@@ -472,7 +472,7 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           3) [Deselect All]을 선택 후, Edit user(patch) Copy를 선택
       </div>
-      <img width="1539" alt="image" src="https://github.com/user-attachments/assets/fda21a3e-ed1e-4a40-811c-1045b6afb178" />
+      <img width="1539" alt="image" src="https://github.com/user-attachments/assets/9b4f174d-25d5-4c57-a04c-8fdbd7893a85" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           4) 우측 화면에서 [Select File]버튼 클릭 후, 편집한 CSV파일 선택
       </div>
