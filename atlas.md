@@ -1,8 +1,5 @@
- <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-      <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>SCIM API를 활용한 Atlas 설정 방법</span>
-        <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
-      </summary>
+# SCIM API를 활용한 Atlas 설정 방법
+ 
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
           📌 SCIM API를 활용한 Atlas[Add-On기능] 설정가이드입니다.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Strong>초기설정1,2 완료 후 사용자 업데이트</Strong> 진행해주세요.<br>
@@ -238,4 +235,3 @@
           7) 결과 확인 (200 OK면 User Update성공!!)
       </div>
           <img width="1163" alt="image" src="https://github.com/user-attachments/assets/03f37855-8858-4a36-a093-6c9a948628c4" />
-        </details>
