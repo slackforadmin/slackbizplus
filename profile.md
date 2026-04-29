@@ -157,7 +157,7 @@ Web API를 사용해 프로필 필드를 설정 또는 검색합니다.<br>
            onmouseout="this.style.backgroundColor='#f0f3f6'; this.style.transform='scale(1)';"
            onmousedown="this.style.transform='scale(0.9)';" 
            onmouseup="this.style.transform='scale(1.1)';">
-          <img src="https://github.com/user-attachments/assets/15cb62fd-44d2-4839-afa4-bfdb4f3f24aa" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
+          <img src="https://github.com/user-attachments/assets/efddf926-e9b0-49cf-89af-95be928c75b1" alt="PDF 다운로드" style="width: 36px; height: auto; display: block;">
         </a>
         <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">SCIM_postman_collection.json</div>
       </div>
