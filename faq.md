@@ -301,7 +301,7 @@
       <div style="flex-shrink: 0;">
         <div style="margin-bottom: 8px; font-weight: 600; color: #444; font-size: 14px;">✔️ 영상 가이드</div>
         <video width="400" controls style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.06); border: 1px solid #e1e4e8; display: block;">
-          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/oktavideo.mp4" type="video/mp4">
+          <source src="https://github.com/minaslack/slackbizplus/releases/download/v1.0/Setup01_SCIMAPI.mp4" type="video/mp4">
         </video>
       </div>
     </div>
