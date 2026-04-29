@@ -477,6 +477,16 @@
           4) 우측 화면에서 [Select File]버튼 클릭 후, 편집한 CSV파일 선택
       </div>
           <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
+                    <div style="margin-top: 15px; padding: 12px 20px; padding-left: 15px; padding-right: 15px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+  <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
+    📍 CSV 편집
+  </p>
+  <p style="margin: 0; font-size: 15px; color: #444; line-height: 1.6;">
+&nbsp;&nbsp;&nbsp;&nbsp;아래 내용으로 맵핑해서 CSV파일 편집<br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Id : 사용자 UserId<br>
+&nbsp;&nbsp;&nbsp;&nbsp;* ManagerId : 해당 사용자의 관리자의 UserId<br>
+  </p>
+</div>
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           5) Preview를 통해서 정상적으로 불러오기가 되었는지 확인 후 [Upload to Workspace]버튼 클릭
       </div>
