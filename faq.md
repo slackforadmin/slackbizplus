@@ -419,6 +419,33 @@
           10) SCIM (Shared) > SCIM > Users > Edit User (PATCH) Copy의 Headers > Authorization에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
       </div>
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/f5fbd075-1af8-4ba9-a55e-7ab1c0a4704e" />
+          <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
+          11) SCIM (Shared) > SCIM > Users > Edit User (PATCH) Copy<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. URL의 Users/뒤 주소 삭제<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Body > 아래 User Update 내용 복사&붙여넣기<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Type을 JSON으로 설정<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. [Save]버튼 클릭<br>
+      </div>
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/de0b4320-5611-42fd-924b-200e28b6a1c3" />
+          <div style="margin-top: 15px; padding: 12px 20px; padding-left: 15px; padding-right: 15px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
+  <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
+    📍 User Update
+  </p>
+  <p style="margin: 0; font-size: 15px; color: #444; line-height: 1.6;">
+{<br>
+    "schemas": [<br>
+        "urn:scim:schemas:core:1.0",<br>
+        "urn:scim:schemas:extension:enterprise:1.0"<br>
+    ],<br>
+    "id": "{{id}}",<br>
+    "urn:scim:schemas:extension:enterprise:1.0": {<br>
+        "manager": {<br>
+            "managerId": "{{managerid}}"<br>
+        }<br>
+    }<br>
+}<br>
+  </p>
+</div>
           </details>
         <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
