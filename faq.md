@@ -462,7 +462,7 @@
     </div>
   </div>
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          1) SCIM > Users > Edit User (PATCH)의 우측 하단의 [Tools] > [Runner]선택
+          1) 우측 하단의 [Tools] > [Runner]선택
       </div>
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/4460bc62-ea1b-4e4c-ba8a-cc8c8bab4c88" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
@@ -470,7 +470,7 @@
       </div>
 <img width="1539" alt="image" src="https://github.com/user-attachments/assets/34ce249f-807f-4973-bb8d-c43343a97e4c" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          3) [Deselect All]을 선택 후, Edit user(patch)를 선택
+          3) [Deselect All]을 선택 후, Edit user(patch) Copy를 선택
       </div>
       <img width="1539" alt="image" src="https://github.com/user-attachments/assets/fda21a3e-ed1e-4a40-811c-1045b6afb178" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
@@ -486,7 +486,7 @@
       </div>
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/34d1938a-cf98-4dc0-8c87-092902588d43" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          7) 결과 확인 
+          7) 결과 확인 (200 OK면 User Update성공!!)
       </div>
           <img width="1163" alt="image" src="https://github.com/user-attachments/assets/2e378969-77a7-4604-b96d-a2a701316e54" />
         </details>
