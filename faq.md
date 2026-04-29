@@ -283,7 +283,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-          📌 SCIM API를 활용한 Atlas 설정가이드입니다.<br>
+          📌 SCIM API를 활용한 Atlas[Add-On기능] 설정가이드입니다.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Strong>초기설정1,2 완료 후 사용자 업데이트</Strong> 진행해주세요.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
           <br>
