@@ -412,8 +412,8 @@
           9) SCIM (Shared) > SCIM > Users > Edit User (PATCH) 우측에 [...] > Duplicate 클릭해서 복제
       </div>
           <div style="display: flex; align-items: center; gap: 10px;">
-    <img width="906" alt="image" src="https://github.com/user-attachments/assets/fc9310ad-5d26-4185-91a8-b8f2ff902ea3" style="max-width: 80%; height: auto;" />
-    <img width="708" alt="image" src="https://github.com/user-attachments/assets/29339acd-7248-4617-aa3d-877c69739607" style="max-width: 20%; height: auto;" />
+    <img width="906" alt="image" src="https://github.com/user-attachments/assets/fc9310ad-5d26-4185-91a8-b8f2ff902ea3" style="max-width: 70%; height: auto;" />
+    <img width="708" alt="image" src="https://github.com/user-attachments/assets/29339acd-7248-4617-aa3d-877c69739607" style="max-width: 30%; height: auto;" />
   </div>
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           10) SCIM (Shared) > SCIM > Users > Edit User (PATCH) Copy의 Headers > Authorization에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
