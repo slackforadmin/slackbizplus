@@ -4,10 +4,8 @@
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Strong>초기설정1,2 완료 후 사용자 업데이트</Strong> 진행해주세요.<br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
           <br>
-          <img src="asset/image/Org_Chart.png"
-     alt="Slack Admin Guide"
-     width="400"
-     loading="eager"
+          <img width="1449" alt="image" src="asset/image/Org_Chart.png" />
+          
 <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
         1️⃣ [초기설정1]SCIM API를 호출 하기 위한 앱 생성
