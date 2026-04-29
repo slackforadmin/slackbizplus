@@ -502,7 +502,7 @@
       </div>
     </div>
 </div>
-                    <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
+                    <img width="708" alt="image" src="https://github.com/user-attachments/assets/43b2ceee-5154-4bf5-af3f-91de11afcdb2" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           5) Preview를 통해서 정상적으로 불러오기가 되었는지 확인 후 [Upload to Workspace]버튼 클릭
       </div>
@@ -510,7 +510,7 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           6) [Start run]버튼 클릭
       </div>
-<img width="707" alt="image" src="https://github.com/user-attachments/assets/34d1938a-cf98-4dc0-8c87-092902588d43" />
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/6f83a72c-8699-4e2d-b10a-16ac2b079e24" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           7) 결과 확인 (200 OK면 User Update성공!!)
       </div>
