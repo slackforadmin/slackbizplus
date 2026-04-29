@@ -416,10 +416,9 @@
     <img width="708" alt="image" src="https://github.com/user-attachments/assets/29339acd-7248-4617-aa3d-877c69739607" style="max-width: 20%; height: auto;" />
   </div>
           <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-          10) SCIM (Shared) > SCIM > Users > Edit User (PATCH) 우측에 [...] > Duplicate 클릭
-            의 Headers > Authorization {{scim_token}}에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
+          10) SCIM (Shared) > SCIM > Users > Edit User (PATCH) Copy의 Headers > Authorization에 복사한 access_token값 붙여넣고 [Save]버튼 클릭
       </div>
-<img width="1351" alt="image" src="https://github.com/user-attachments/assets/3de91ec4-73a3-48dd-b094-c2bb9153f79d" />
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/f5fbd075-1af8-4ba9-a55e-7ab1c0a4704e" />
           </details>
         <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
