@@ -4,7 +4,7 @@ SCIM API를 활용한 Atlas[Add-On기능] 설정가이드입니다.<br>
 <Strong>초기설정1,2 완료 후 사용자 업데이트</Strong> 진행해주세요.<br>
 해당 방식으로 사용자 프로필정보(SCIM API타입 항목)도 업데이트 가능합니다.<br>
 <br>
-<img width="700" alt="image" src="asset/image/Org_Chart.png" />
+<img width="500" alt="image" src="asset/image/Org_Chart.png" />
           
 <details style="border-radius: 6px; overflow: hidden;">
       <summary style="padding: 10px 15px; cursor: pointer; font-weight: 600; outline: none;">
