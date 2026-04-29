@@ -514,7 +514,7 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           7) 결과 확인 (200 OK면 User Update성공!!)
       </div>
-          <img width="1163" alt="image" src="https://github.com/user-attachments/assets/2e378969-77a7-4604-b96d-a2a701316e54" />
+          <img width="1163" alt="image" src="https://github.com/user-attachments/assets/03f37855-8858-4a36-a093-6c9a948628c4" />
         </details>
         </details>
     <div style="margin-bottom: 30px;">
