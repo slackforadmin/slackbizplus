@@ -433,16 +433,16 @@
   </p>
   <p style="margin: 0; font-size: 15px; color: #444; line-height: 1.6;">
 {<br>
-    "schemas": [<br>
-        "urn:scim:schemas:core:1.0",<br>
-        "urn:scim:schemas:extension:enterprise:1.0"<br>
-    ],<br>
-    "id": "{{id}}",<br>
-    "urn:scim:schemas:extension:enterprise:1.0": {<br>
-        "manager": {<br>
-            "managerId": "{{managerid}}"<br>
-        }<br>
-    }<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"schemas": [<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"urn:scim:schemas:core:1.0",<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"urn:scim:schemas:extension:enterprise:1.0"<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;],<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;"id": "{{id}}",<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;"urn:scim:schemas:extension:enterprise:1.0": {<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"manager": {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"managerId": "{{managerid}}"<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;}<br>
 }<br>
   </p>
 </div>
