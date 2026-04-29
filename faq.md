@@ -476,7 +476,6 @@
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           4) 우측 화면에서 [Select File]버튼 클릭 후, 편집한 CSV파일 선택
       </div>
-          <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
                     <div style="margin-top: 15px; padding: 12px 20px; padding-left: 15px; padding-right: 15px; background-color: #fff5f5; border: 1px solid #fcbbbb; border-radius: 6px;">
                           <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
   <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
@@ -503,6 +502,7 @@
       </div>
     </div>
 </div>
+                    <img width="708" alt="image" src="https://github.com/user-attachments/assets/fadbf462-9350-472c-86c4-6b75b28e269d" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
           5) Preview를 통해서 정상적으로 불러오기가 되었는지 확인 후 [Upload to Workspace]버튼 클릭
       </div>
