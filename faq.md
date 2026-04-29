@@ -502,9 +502,7 @@
       </div>            
     </div>
 <br>
-  <p>
 &nbsp;&nbsp;&nbsp;&nbsp;** UserId 확인방법 : 관리자 화면의 [사람] > [멤버]에서 각 사용자별 [멤버ID]확인
-  </p>
 </div>
                     <img width="708" alt="image" src="https://github.com/user-attachments/assets/43b2ceee-5154-4bf5-af3f-91de11afcdb2" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
