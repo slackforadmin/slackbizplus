@@ -279,7 +279,7 @@
     </details>
       <details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
       <summary style="padding: 12px 15px; background: #fafbfc; cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; align-items: center; outline: none;">
-        <span>[수정중]SCIM API를 활용한 Atlas 설정 방법</span>
+        <span>SCIM API를 활용한 Atlas 설정 방법</span>
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
         <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
