@@ -20,11 +20,11 @@ slack biz+ 플랜 관리자화면의 각 항목에 대한 상세 설명입니다
 <div style="display: flex; max-width: 800px; gap: 20px; margin: 20px 0; font-family: 'Pretendard', -apple-system, sans-serif;">
  
   <div style="flex: 1; padding: 28px; background: linear-gradient(135deg, #ffffff 0%, #F9F5FB 100%); border: 1px solid #EAE2F0; border-radius: 16px; box-shadow: 0 4px 12px rgba(142, 68, 173, 0.05); transition: transform 0.2s ease;">
-        <div style="position: absolute; top: 16px; right: 16px; padding: 3px 7px; border: 1px solid #E74C3C; border-radius: 4px; background-color: #fff;">
-      <span style="color: #E74C3C; font-size: 10px; font-weight: 700; line-height: 1;">Add-On기능</span>
-    </div>
     <div style="width: 48px; height: 48px; background-color: #F3E5F5; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
       <span style="font-size: 24px;">📖</span>
+              <div style="position: absolute; top: 16px; right: 16px; padding: 3px 7px; border: 1px solid #E74C3C; border-radius: 4px; background-color: #fff;">
+      <span style="color: #E74C3C; font-size: 10px; font-weight: 700; line-height: 1;">Add-On기능</span>
+    </div>
     </div>
     <strong style="display: block; font-size: 19px; color: #2D3436; margin-bottom: 10px; letter-spacing: -0.5px;">Atlas(조직도) 설정가이드</strong>
     <p style="margin: 0; font-size: 15px; color: #636E72; line-height: 1.6; margin-bottom: 24px;">준비가 되셨나요?<br>우리 조직의 조직도를 구현해보세요.</p>
