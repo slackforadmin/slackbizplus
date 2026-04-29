@@ -501,6 +501,11 @@
         <div style="margin-top: 10px; font-size: 13px; color: #0366d6; font-weight: 700; letter-spacing: -0.5px;">SCIM_Update_ManagerID.csv</div>
       </div>            
     </div>
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
+  <p style="margin: 0 0 8px 0; font-size: 15px; color: #c0392b; font-weight: bold;">
+&nbsp;&nbsp;&nbsp;&nbsp;**UserId 확인방법 : 관리자 화면의 [사람] > [멤버]에서 각 사용자별 [멤버ID]확인
+  </p>
+</div>
 </div>
                     <img width="708" alt="image" src="https://github.com/user-attachments/assets/43b2ceee-5154-4bf5-af3f-91de11afcdb2" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
