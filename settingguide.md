@@ -55,19 +55,6 @@
 
 <hr style="border: 0; height: 1px; background: #e1e4e8; margin: 40px 0;">
 
-<details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-  <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
-    <div>
-      :dart: 관리자 기본 설정 가이드(영상)
-    </div>
-  </summary>
-  <div style="padding: 20px; border-top: 1px solid #e1e4e8; background: #fff; border-radius: 0 0 8px 8px;">
-    <div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: nowrap;">
-      곧 업로드 예정(4월 내)
-    </div>
-  </div>
-</details>
-
 <div id="basic-setup-section" style="padding-top: 20px; margin-bottom: 40px;">
   <h2 style="color: #1a1f23; border-left: 4px solid #0366d6; padding-left: 15px;">📍 워크스페이스 기본 설정</h2>
   <ul style="line-height: 2.0; list-style-type: disc; padding-left: 20px;">
