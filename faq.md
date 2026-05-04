@@ -527,7 +527,7 @@
         <span style="color: #1264a3; font-size: 12px;">더보기 ▼</span>
       </summary>
       <div style="padding: 15px; background: #fff; border-top: 1px solid #e1e4e8;">
-        곧 업로드 예정(4월 내)
+        곧 업로드 예정(5월 내)
       </div>
     </details>
   </div>
