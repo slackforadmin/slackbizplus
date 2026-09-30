@@ -313,13 +313,13 @@
         </div>
       <img width="1301" alt="image" src="https://github.com/user-attachments/assets/6d9b0386-b79d-4ef6-959b-308e3a483875" />
       <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
-        2) From scratch 선택
+        2) [Blank app] 선택 후 [Continue]버튼 클릭
       </div>
-      <img width="508" alt="image" src="https://github.com/user-attachments/assets/8493ad6c-42fd-40ce-b9e9-d37cf47cb7b2" />
+      <img width="508" alt="image" src="https://github.com/user-attachments/assets/e84b62e0-f206-4c81-a7b6-0eb83dda2792" />
 <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         3) APP 이름을 지정하고, 워크스페이스를 선택 후 [Create]버튼 클릭
       </div>
-      <img width="512" alt="image" src="https://github.com/user-attachments/assets/1395a0f7-579d-4f4d-8403-da8da4bcf92d" />
+      <img width="512" alt="image" src="https://github.com/user-attachments/assets/53718584-72a8-409c-8916-99c0609b18c5" />
       <div style="padding: 15px; background: #f9f9f9; border-top: 1px solid #e1e4e8;">
         4) 사이드바의 [OAuth & Permissions]선택 > [Redirect URLs]섹션에 [Add New Redirect URL]버튼 클릭 후, [https://localhost]기입 >[Add]버튼 클릭 > [Save URLs]버튼 클릭
       </div>
