@@ -413,15 +413,9 @@
     </div>
   </div>
 </details>
-<details style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
-  <summary style="padding: 16px; cursor: pointer; background: #fafbfc; font-weight: 700; color: #24292e; display: flex; align-items: center; justify-content: space-between; border-radius: 8px 8px 0 0;">
-    <div>
-      :dart: >Slack Atlas 설정 방법
-    </div>
-  </summary>
 <div style="margin-bottom: 8px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden;">
   <a href="https://slackforadmin.github.io/slackbizplus/#/atlas" target="_blank" style="padding: 12px 15px; background: #fafbfc; font-weight: 600; display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: #333;">
+    <span>:dart: >Slack Atlas 설정 방법</span>
     <span style="color: #1264a3; font-size: 12px;">바로가기 ▶</span>
   </a>
 </div>
-</details>
